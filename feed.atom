@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T14:52:55.700Z</id>
+    <id>urn:2021-05-24T15:28:10.232Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T14:52:55.700Z</updated>
+    <updated>2021-05-24T15:28:10.232Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Wrangling Control Over PDFs with the Adobe PDF Embed API]]></title>
-        <id>https://css-tricks.com/?p=340626</id>
-        <link href="https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/"/>
-        <updated>2021-05-24T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …
-The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Raymond Camden</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[v1.8.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
@@ -39,176 +27,195 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should DevTools teach the CSS cascade?]]></title>
-        <id>https://css-tricks.com/?p=340991</id>
-        <link href="https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/"/>
-        <updated>2021-05-21T23:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …
-The post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Learn CSS]]></title>
+        <id>https://web.dev/learn/css</id>
+        <link href="https://web.dev/learn/css"/>
+        <updated>2021-05-21T15:36:58.000Z</updated>
+        <summary type="html"><![CDATA[An evergreen CSS course and reference to level up your web styling expertise.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte for the Experienced React Dev]]></title>
-        <id>https://css-tricks.com/?p=340825</id>
-        <link href="https://css-tricks.com/svelte-for-the-experienced-react-dev/"/>
-        <updated>2021-05-21T14:30:59.000Z</updated>
-        <summary type="html"><![CDATA[This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …
-The post Svelte for the Experienced React Dev appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://arxiv.org/pdf/1905.13189.pdf</id>
+        <link href="https://arxiv.org/pdf/1905.13189.pdf"/>
+        <updated>2021-05-21T14:09:54.000Z</updated>
         <author>
-            <name>Adam Rackis</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Hell]]></title>
-        <id>https://css-tricks.com/?p=340919</id>
-        <link href="https://csshell.dev/"/>
-        <updated>2021-05-21T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Collection of common CSS mistakes, and how to fix them
-From Stefánia Péter. 
-Clever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …
-The post CSS Hell appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Design for reading: tips for optimizing content for Reader modes and reading apps]]></title>
+        <id>https://sarasoueidan.com/blog/tips-for-reader-modes</id>
+        <link href="https://sarasoueidan.com/blog/tips-for-reader-modes"/>
+        <updated>2021-05-20T23:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Freelance Front-End Web UI/UX Developer - Lebanon]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON in CSS]]></title>
-        <id>https://css-tricks.com/?p=340599</id>
-        <link href="https://css-tricks.com/json-in-css/"/>
-        <updated>2021-05-20T22:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …
-The post JSON in CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Knowledge synthesis: A conceptual model and practical guide]]></title>
+        <id>https://oasislab.pubpub.org/pub/54t0y9mk/release/2</id>
+        <link href="https://oasislab.pubpub.org/pub/54t0y9mk/release/2"/>
+        <updated>2021-05-20T22:11:46.000Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS!]]></title>
-        <id>https://css-tricks.com/?p=340933</id>
-        <link href="https://web.dev/learn/css/"/>
-        <updated>2021-05-20T21:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Ooo look at this mighty SEO flex from Google: Learn CSS! Well deserved — this is great content. Twenty-three chapters taking you through all the fundamentals of CSS with extra content, like relevant podcasts, interactive examples, and even quizzes to …
-The post Learn CSS! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Cut Cloth, Contemporary textiles and feminism]]></title>
+        <id>https://popublishing.co.uk/project/cut-cloth-contemporary-textiles-and-feminism</id>
+        <link href="https://popublishing.co.uk/project/cut-cloth-contemporary-textiles-and-feminism"/>
+        <updated>2021-05-20T18:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Title: Cut Cloth, Contemporary textiles and feminism Cut Cloth is an exhibition, publication and series of workshops that examine the shifting ...]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can We Create a “Resize Hack” With Container Queries?]]></title>
-        <id>https://css-tricks.com/?p=340715</id>
-        <link href="https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/"/>
-        <updated>2021-05-20T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …
-The post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Texts and Textiles]]></title>
+        <id>https://english.cam.ac.uk/cmt?page_id=2630</id>
+        <link href="https://english.cam.ac.uk/cmt?page_id=2630"/>
+        <updated>2021-05-20T18:24:45.000Z</updated>
         <author>
-            <name>Jhey Tompkins</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fit-content and fit-content()]]></title>
-        <id>https://css-tricks.com/?p=340897</id>
-        <link href="https://www.quirksmode.org/blog/archives/2021/04/fitcontent_and.html"/>
-        <updated>2021-05-20T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Here’s some hardcore deep-dive CSS nerdery from PPK. If you can wrap your mind around min-content (the smallest an element can be based on the content it contains) and max-content (the largest the content of an element can push it) …
-The post fit-content and fit-content() appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[The Writing Well Handbook]]></title>
+        <id>https://julian.com/guide/write/intro</id>
+        <link href="https://julian.com/guide/write/intro"/>
+        <updated>2021-05-20T17:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to write well. Topics include figuring out what to write about, how to write an introduction, the writing process, writing style, and copyediting.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion API]]></title>
-        <id>https://css-tricks.com/?p=340731</id>
-        <link href="https://css-tricks.com/notion-api/"/>
-        <updated>2021-05-19T23:18:42.000Z</updated>
-        <summary type="html"><![CDATA[The Public Beta of the Notion API dropped! Woot! Here’s their guide. I’ve been a Notion user and fan for a long time, for both personal and professional team use. They even sponsored a few videos around here a …
-The post Notion API appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[On Writing Better: Getting Started]]></title>
+        <id>https://jasonzweig.com/on-writing-better-part-1</id>
+        <link href="https://jasonzweig.com/on-writing-better-part-1"/>
+        <updated>2021-05-20T17:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Part One in a series on trying to write better.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[svg-loader: A Different Way to Work With External SVG]]></title>
-        <id>https://css-tricks.com/?p=340692</id>
-        <link href="https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/"/>
-        <updated>2021-05-19T14:28:19.000Z</updated>
-        <summary type="html"><![CDATA[SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …
-The post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Make Your Point and Get Out of the Way]]></title>
+        <id>https://collaborativefund.com/blog/make-your-point-and-get-out-of-the-way</id>
+        <link href="https://collaborativefund.com/blog/make-your-point-and-get-out-of-the-way"/>
+        <updated>2021-05-20T17:23:50.000Z</updated>
         <author>
-            <name>Shubham Jain</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pinned Audio WordPress Theme]]></title>
-        <id>https://css-tricks.com/?p=340613</id>
-        <link href="https://css-tricks.com/pinned-audio-wordpress-theme/"/>
-        <updated>2021-05-18T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.
-A fella wrote to me a while back outlining a situation he was in. His company has …
-The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[40 One-Sentence Writing Tips]]></title>
+        <id>https://joshspector.com/one-sentence-writing-tips</id>
+        <link href="https://joshspector.com/one-sentence-writing-tips"/>
+        <updated>2021-05-20T17:23:09.000Z</updated>
+        <summary type="html"><![CDATA[A collection of writing tips I've learned over the years to help you get the most out of the next thing you write…whatever that may be.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Writing, Briefly]]></title>
+        <id>http://paulgraham.com/writing44.html</id>
+        <link href="http://paulgraham.com/writing44.html"/>
+        <updated>2021-05-20T17:22:18.000Z</updated>
         <author>
-            <name>Silvia O'Dwyer</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Humble `img` Element And Core Web Vitals]]></title>
-        <id>https://css-tricks.com/?p=340716</id>
-        <link href="https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-05-17T22:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Addy Osmani on images in HTML:
-The humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can 
-…
-The post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.]]></title>
+        <id>https://notion.so/Ship30for30-com-Atomic-Essays-Dashboard-e49422d2c5bd4737a59002b6c9404c77</id>
+        <link href="https://notion.so/Ship30for30-com-Atomic-Essays-Dashboard-e49422d2c5bd4737a59002b6c9404c77"/>
+        <updated>2021-05-20T17:21:19.000Z</updated>
+        <summary type="html"><![CDATA[A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Love Letter to HTML & CSS]]></title>
-        <id>https://css-tricks.com/?p=339522</id>
-        <link href="https://css-tricks.com/a-love-letter-to-html-css/"/>
-        <updated>2021-05-17T14:27:22.000Z</updated>
-        <summary type="html"><![CDATA[I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.
-The post A Love Letter to HTML & CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Demo: Standalone Bibliography]]></title>
+        <id>https://citeproc-js.readthedocs.io/en/latest/deployments.html</id>
+        <link href="https://citeproc-js.readthedocs.io/en/latest/deployments.html"/>
+        <updated>2021-05-20T16:26:03.000Z</updated>
         <author>
-            <name>Ashley Kolodziej</name>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Euismod]]></title>
-        <id>https://css-tricks.com/?p=340594</id>
-        <link href="https://www.euismod.dev/"/>
-        <updated>2021-05-17T14:27:13.000Z</updated>
-        <summary type="html"><![CDATA[An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …
-The post Euismod appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <title type="html"><![CDATA[Building the Middle Class of the Creator Economy]]></title>
+        <id>https://li.substack.com/p/building-the-middle-class-of-the</id>
+        <link href="https://li.substack.com/p/building-the-middle-class-of-the"/>
+        <updated>2021-05-20T16:02:38.000Z</updated>
+        <summary type="html"><![CDATA[The American Dream exists, but what is the reality?]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sw-yx/spark-joy]]></title>
+        <id>https://github.com/sw-yx/spark-joy</id>
+        <link href="https://github.com/sw-yx/spark-joy"/>
+        <updated>2021-05-20T14:23:47.000Z</updated>
+        <summary type="html"><![CDATA[✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wiki workflow]]></title>
+        <id>https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked</id>
+        <link href="https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked"/>
+        <updated>2021-05-20T14:22:07.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kris Howard - Knitted Disruption]]></title>
+        <id>https://youtube.com/watch?v=0lqyYJl9vuM</id>
+        <link href="https://youtube.com/watch?v=0lqyYJl9vuM"/>
+        <updated>2021-05-20T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heart of Pluto]]></title>
+        <id>https://heartofpluto.co</id>
+        <link href="https://heartofpluto.co"/>
+        <updated>2021-05-20T12:01:20.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fear of Beginning Again]]></title>
+        <id>https://medium.com/weseek/the-fear-of-beginning-again-cdc1a2d5b356</id>
+        <link href="https://medium.com/weseek/the-fear-of-beginning-again-cdc1a2d5b356"/>
+        <updated>2021-05-19T10:55:18.000Z</updated>
+        <summary type="html"><![CDATA[In his book So good they can’t ignore you, Cal Newport systematically (and often humorously) builds a case against the popular career…]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Attract Consistent Clients Without a Large Audience]]></title>
+        <id>https://ellenyin.com/getclients</id>
+        <link href="https://ellenyin.com/getclients"/>
+        <updated>2021-05-18T21:30:52.000Z</updated>
+        <summary type="html"><![CDATA[A FREE masterclass for service providers on how to attract consistent clients without a large audience or posting every day.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
@@ -276,6 +283,96 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Build, Test, and Launch an Email Newsletter From Scratch]]></title>
+        <id>https://yen.fm/build-newsletter</id>
+        <link href="https://yen.fm/build-newsletter"/>
+        <updated>2021-05-14T20:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Hey friends! This is our very first newsletter deep-dive and I thought there would be nothing better than sharing the entire process of how I built, tested, and launched a new email newsletter from…]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[035: Dickie Bush - How To Make $100,000 Writing on Twitter]]></title>
+        <id>https://pca.st/episode/4fcd325a-3d27-4bdf-8f9d-519b12b08bf3</id>
+        <link href="https://pca.st/episode/4fcd325a-3d27-4bdf-8f9d-519b12b08bf3"/>
+        <updated>2021-05-14T09:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Dickie Bush is a full time Portfolio Manager based in New York City. He is a graduate of Princeton, where he received a degree in Financial Engineering and played on the football team.
+
+Dickie writes a weekly newsletter called Dickie's Digest where he s]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fleece Washing]]></title>
+        <id>https://journalwsd.org.uk/article/fleece-washing</id>
+        <link href="https://journalwsd.org.uk/article/fleece-washing"/>
+        <updated>2021-05-12T13:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuildInPublic Twitter Inspiration Handbook - Ideas for tweets that I collected by analyzing 200 BuildInPublic accounts]]></title>
+        <id>https://reddit.com/r/indiehackers/comments/nanyme/buildinpublic_twitter_inspiration_handbook_ideas</id>
+        <link href="https://reddit.com/r/indiehackers/comments/nanyme/buildinpublic_twitter_inspiration_handbook_ideas"/>
+        <updated>2021-05-12T13:30:33.000Z</updated>
+        <summary type="html"><![CDATA[3 votes and 2 comments so far on Reddit]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write Simply]]></title>
+        <id>http://paulgraham.com/simply.html?utm_source=Pointer&amp;utm_campaign=2da2f21e39-ISSUE_229&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-2da2f21e39-602663762</id>
+        <link href="http://paulgraham.com/simply.html?utm_source=Pointer&amp;utm_campaign=2da2f21e39-ISSUE_229&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-2da2f21e39-602663762"/>
+        <updated>2021-05-12T13:28:55.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Engineering Leader’s Guide to Crafting a Personal Brand that Stands Out From the Crowd]]></title>
+        <id>https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&amp;utm_campaign=2da2f21e39-ISSUE_229&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-2da2f21e39-602663762</id>
+        <link href="https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&amp;utm_campaign=2da2f21e39-ISSUE_229&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-2da2f21e39-602663762"/>
+        <updated>2021-05-12T13:28:24.000Z</updated>
+        <summary type="html"><![CDATA[As an Engineering Leader at Help Scout, Anjuan Simmons has carved out a robust side hustle as a public speaker and blogger. Here, he shares his playbook for engineers to get started with personal branding and stand out from the crowd.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing]]></title>
+        <id>https://fortelabs.co/blog/how-to-take-smart-notes</id>
+        <link href="https://fortelabs.co/blog/how-to-take-smart-notes"/>
+        <updated>2021-05-12T09:06:16.000Z</updated>
+        <summary type="html"><![CDATA[I long ago stopped reading books on note-taking. They were always too vague and boring, full of platitudes that had little to do with the world outside academia. I especially avoided “how-to” style books on the subject. They would often list dozens of tips and tricks that had little to do with each other. There ... Read more]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing Design Systems for Accessibility]]></title>
+        <id>https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
+        <link href="https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
+        <updated>2021-05-12T08:41:32.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two options for using custom properties]]></title>
+        <id>https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
+        <link href="https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
+        <updated>2021-05-12T08:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
         <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
         <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
@@ -295,6 +392,16 @@ the OSI model has 7 layers
 Let’s very briefly discu…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Common Mistakes UI/UX Designers Make]]></title>
+        <id>https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84</id>
+        <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
+        <updated>2021-05-11T13:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
