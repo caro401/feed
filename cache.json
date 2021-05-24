@@ -103,6 +103,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340626",
+          "author": "Raymond Camden",
+          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 2789,
+          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
+        },
+        {
           "id": "https://css-tricks.com/?p=340991",
           "author": "Chris Coyier",
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -117,7 +126,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3343,
+          "wordCount": 3408,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -153,7 +162,7 @@
           "description": "If you follow new developments in CSS, you’ve likely heard of the impending arrival of container queries. We’re going to look at the basics here, but if you’d like another look, check out Una’s “Next Gen CSS: @container” article. …\nThe post Can We Create a “Resize Hack” With Container Queries? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/can-we-create-a-resize-hack-with-container-queries/",
           "publishedOn": "2021-05-20T14:24:12.000Z",
-          "wordCount": 1725,
+          "wordCount": 1747,
           "title": "Can We Create a “Resize Hack” With Container Queries?"
         },
         {
@@ -180,7 +189,7 @@
           "description": "SVGs are awesome: they are small, look sharp on any scale, and can be customized without creating a separate file. However, there is something I feel is missing in web standards today: a way to include them as an external …\nThe post svg-loader: A Different Way to Work With External SVG appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svg-loader-a-different-way-to-work-with-external-svg/",
           "publishedOn": "2021-05-19T14:28:19.000Z",
-          "wordCount": 1606,
+          "wordCount": 1803,
           "title": "svg-loader: A Different Way to Work With External SVG"
         },
         {
@@ -216,7 +225,7 @@
           "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-love-letter-to-html-css/",
           "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2963,
+          "wordCount": 2977,
           "title": "A Love Letter to HTML & CSS"
         },
         {
@@ -227,15 +236,6 @@
           "publishedOn": "2021-05-17T14:27:13.000Z",
           "wordCount": 3,
           "title": "Euismod"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340136",
-          "author": "Chris Coyier",
-          "description": "I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/auto-generated-social-media-images/",
-          "publishedOn": "2021-05-14T20:34:49.000Z",
-          "wordCount": 2298,
-          "title": "Auto-Generated Social Media Images"
         }
       ]
     },
@@ -244,6 +244,15 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
+          "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
+          "publishedOn": "2021-05-24T11:30:00.000Z",
+          "wordCount": 2665,
+          "title": "CSS Container Queries: Use-Cases And Migration Strategies"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
