@@ -112,15 +112,6 @@
           "title": "Learn CSS"
         },
         {
-          "id": "https://arxiv.org/pdf/1905.13189.pdf",
-          "author": null,
-          "description": "",
-          "link": "https://arxiv.org/pdf/1905.13189.pdf",
-          "publishedOn": "2021-05-21T14:09:54.000Z",
-          "wordCount": 366141,
-          "title": "Untitled"
-        },
-        {
           "id": "https://sarasoueidan.com/blog/tips-for-reader-modes",
           "author": null,
           "description": "Freelance Front-End Web UI/UX Developer - Lebanon",
@@ -243,7 +234,7 @@
           "description": "",
           "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
           "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2121,
+          "wordCount": 2131,
           "title": "Wiki workflow"
         },
         {
@@ -369,8 +360,17 @@
           "description": "Using my own design concepts as examples.",
           "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
           "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 973,
+          "wordCount": 964,
           "title": "Top Common Mistakes UI/UX Designers Make"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
+          "author": null,
+          "description": "Notes on building debugging puzzles",
+          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
+          "publishedOn": "2021-05-11T13:41:33.000Z",
+          "wordCount": 2422,
+          "title": "Notes on building debugging puzzles"
         }
       ]
     },
@@ -380,12 +380,21 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "author": null,
+          "description": "I was talking to Jemma recently about what stops people\nfrom blogging. One barrier that stood out to me was: it’s hard to identify\nwhich things you know will be useful to other people!\nThe process I use for a lot of my blog posts is:\nStruggle with something (usually computer-related)\nEventually (days or months or years later), figure out how to solve some of\nthe problems I had\nWrite a blog post about what helped me\nI think this approach is effective because if I struggled with something,\nthere’s a pretty good chance that other people are struggling with it too, and\nwhat I learned is likely to be useful to at least some of them!\nObviously this isn’t the only approach to blogging, but it’s my approach, so\nthat’s what I’m going to write about here :). I’ll give a few examples of\nspecific blog…",
+          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
+          "publishedOn": "2021-05-24T13:59:07.000Z",
+          "wordCount": 1869,
+          "title": "Blog about what you've struggled with"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
           "author": null,
           "description": "I was chatting with someone yesterday and they mentioned that they don’t really\nunderstand exactly how the stack works or how to look at it.\nSo here’s a quick walkthrough of how you can use gdb to look at the stack of a C\nprogram. I think this would be similar for a Rust program, but I’m going to use\nC because I find it a little simpler for a toy example and also you can do Terrible\nThings in C more easily.\nour test program\nHere’s a simple C program that declares a few variables and reads two strings\nfrom standard input. One of the strings is on the heap, and one is on the\nstack.\n#include <stdio.h>\n#include <stdlib.h>\n\nint main() {\n    char stack_string[10] = \"stack\";\n    int x = 10;\n    char *heap_string;\n\n    heap_string = malloc(50);\n\n    printf(\"Enter a string for the stack: \");\n    ge…",
           "link": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
           "publishedOn": "2021-05-17T09:14:37.000Z",
-          "wordCount": 2499,
+          "wordCount": 2505,
           "title": "How to look at the stack with gdb"
         },
         {

@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T15:28:10.232Z</id>
+    <id>urn:2021-05-25T00:37:26.776Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T15:28:10.232Z</updated>
+    <updated>2021-05-25T00:37:26.776Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
+        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/</id>
+        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
+        <updated>2021-05-24T13:59:07.000Z</updated>
+        <summary type="html"><![CDATA[I was talking to Jemma recently about what stops people
+from blogging. One barrier that stood out to me was: it’s hard to identify
+which things you know will be useful to other people!
+The process I use for a lot of my blog posts is:
+Struggle with something (usually computer-related)
+Eventually (days or months or years later), figure out how to solve some of
+the problems I had
+Write a blog post about what helped me
+I think this approach is effective because if I struggled with something,
+there’s a pretty good chance that other people are struggling with it too, and
+what I learned is likely to be useful to at least some of them!
+Obviously this isn’t the only approach to blogging, but it’s my approach, so
+that’s what I’m going to write about here :). I’ll give a few examples of
+specific blog…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.8.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
@@ -32,15 +55,6 @@ Thank you: @LooperXX.]]></summary>
         <link href="https://web.dev/learn/css"/>
         <updated>2021-05-21T15:36:58.000Z</updated>
         <summary type="html"><![CDATA[An evergreen CSS course and reference to level up your web styling expertise.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://arxiv.org/pdf/1905.13189.pdf</id>
-        <link href="https://arxiv.org/pdf/1905.13189.pdf"/>
-        <updated>2021-05-21T14:09:54.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -400,6 +414,16 @@ Let’s very briefly discu…]]></summary>
         <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
         <updated>2021-05-11T13:56:58.000Z</updated>
         <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on building debugging puzzles]]></title>
+        <id>https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles</id>
+        <link href="https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles"/>
+        <updated>2021-05-11T13:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
