@@ -103,6 +103,114 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://figma.com/community/file/964446653754449734",
+          "author": null,
+          "description": "Figma Community file — An A4 invoice template to make your life that little bit easier.\nAuto-layout, responsive... all the good stuff.\nLet me know if I should share more — @ormanclark",
+          "link": "https://figma.com/community/file/964446653754449734",
+          "publishedOn": "2021-05-25T22:29:25.000Z",
+          "wordCount": 31,
+          "title": "Figma - A4 Invoice Template | An A4 invoice template to make your life that little bit easier. Auto-layout, responsive... all t..."
+        },
+        {
+          "id": "https://markodenic.com/css-tips",
+          "author": null,
+          "description": "CSS tips and tricks you will not see in most of tutorials.",
+          "link": "https://markodenic.com/css-tips",
+          "publishedOn": "2021-05-25T21:33:19.000Z",
+          "wordCount": 746,
+          "title": "CSS Tips"
+        },
+        {
+          "id": "https://doctorow.medium.com/the-memex-method-238c71f2fb46",
+          "author": null,
+          "description": "When your commonplace book is a public database",
+          "link": "https://doctorow.medium.com/the-memex-method-238c71f2fb46",
+          "publishedOn": "2021-05-25T19:05:59.000Z",
+          "wordCount": 2501,
+          "title": "The Memex Method"
+        },
+        {
+          "id": "https://youtube.com/watch?v=aRRS7XlkWmc&t=248s",
+          "author": null,
+          "description": "A fascinating look into how Obsidian and Roam can be used as part of a single knowledge management system. Rob Haisfield shares how he uses both platforms to...",
+          "link": "https://youtube.com/watch?v=aRRS7XlkWmc&t=248s",
+          "publishedOn": "2021-05-25T16:52:19.000Z",
+          "wordCount": 23,
+          "title": "Using Both Obsidian &amp;amp; Roam - Rob Haisfield and his PKMS"
+        },
+        {
+          "id": "https://youtube.com/watch?v=kfyA1UTo1sI&t=2s",
+          "author": null,
+          "description": "Eleanor Konic is an educator, former lawyer, researcher, writer, fantasy worldbuilder, and the newest Obsidian forum moderator. In this session Eleanor share...",
+          "link": "https://youtube.com/watch?v=kfyA1UTo1sI&t=2s",
+          "publishedOn": "2021-05-25T16:51:50.000Z",
+          "wordCount": 23,
+          "title": "Fantasy fiction writing using Obsidian - A discussion with Eleanor Konik"
+        },
+        {
+          "id": "https://youtube.com/watch?v=6vFRnKsNX3c",
+          "author": null,
+          "description": "Bri Watson is an archivist, historian and PhD. student at University of British Columbia focusing on equitable cataloging, linked data, archival studies & se...",
+          "link": "https://youtube.com/watch?v=6vFRnKsNX3c",
+          "publishedOn": "2021-05-25T15:55:39.000Z",
+          "wordCount": 25,
+          "title": "Merging library &amp;amp; information science and PKM - How Bri Watson uses Obsidian"
+        },
+        {
+          "id": "https://madalyn.dev/blog/a11y-testing-coffee",
+          "author": null,
+          "description": "Some Background I had the privilege of creating course material to teach accessibility testing for work this past quarter. I agonized over…",
+          "link": "https://madalyn.dev/blog/a11y-testing-coffee",
+          "publishedOn": "2021-05-25T15:28:06.000Z",
+          "wordCount": 1692,
+          "title": "Accessibility Testing is like Making Coffee"
+        },
+        {
+          "id": "https://youtube.com/watch?v=ihqcgrR0azw",
+          "author": null,
+          "description": "Presented at !!Con 2015: http://bangbangcon.com!!Con 2015 - Lea Albaugh: From Text to Textiles!Help us caption & translate this video!http://amara.org/v/GxsS/",
+          "link": "https://youtube.com/watch?v=ihqcgrR0azw",
+          "publishedOn": "2021-05-25T15:12:52.000Z",
+          "wordCount": 21,
+          "title": "!!Con 2015 - Lea Albaugh: From Text to Textiles!"
+        },
+        {
+          "id": "https://youtube.com/watch?v=02h74L1PmaU",
+          "author": null,
+          "description": "Industrial computer-controlled knitting machines are churning out seamless three-dimensional fabric objects as you read this -- think gloves, sweaters, sport...",
+          "link": "https://youtube.com/watch?v=02h74L1PmaU",
+          "publishedOn": "2021-05-25T15:11:29.000Z",
+          "wordCount": 20,
+          "title": "&amp;quot;Languages for 3D Industrial Knitting&amp;quot; by Lea Albaugh"
+        },
+        {
+          "id": "https://julian.com/blog/punctuation",
+          "author": null,
+          "description": "The complete rules of punctuation: Learn where to place quotes, understand when to use a comma, and differentiate between colons and semicolons.",
+          "link": "https://julian.com/blog/punctuation",
+          "publishedOn": "2021-05-25T14:42:50.000Z",
+          "wordCount": 2493,
+          "title": "How to punctuate"
+        },
+        {
+          "id": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
+          "author": null,
+          "description": "I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...",
+          "link": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
+          "publishedOn": "2021-05-25T11:12:48.000Z",
+          "wordCount": 955,
+          "title": "RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3"
+        },
+        {
+          "id": "https://github.com/mhatvan/markushatvan.com/blob/master/src/routes/rss.xml.ts",
+          "author": null,
+          "description": "Personal website and blog written from scratch with SvelteKit and TailwindCSS. - mhatvan/markushatvan.com",
+          "link": "https://github.com/mhatvan/markushatvan.com/blob/master/src/routes/rss.xml.ts",
+          "publishedOn": "2021-05-25T11:12:28.000Z",
+          "wordCount": 419,
+          "title": "markushatvan.com"
+        },
+        {
           "id": "https://web.dev/learn/css",
           "author": null,
           "description": "An evergreen CSS course and reference to level up your web styling expertise.",
@@ -119,15 +227,6 @@
           "publishedOn": "2021-05-20T23:15:44.000Z",
           "wordCount": 2559,
           "title": "Design for reading: tips for optimizing content for Reader modes and reading apps"
-        },
-        {
-          "id": "https://oasislab.pubpub.org/pub/54t0y9mk/release/2",
-          "author": null,
-          "description": "",
-          "link": "https://oasislab.pubpub.org/pub/54t0y9mk/release/2",
-          "publishedOn": "2021-05-20T22:11:46.000Z",
-          "wordCount": 4319,
-          "title": "Knowledge synthesis: A conceptual model and practical guide"
         },
         {
           "id": "https://popublishing.co.uk/project/cut-cloth-contemporary-textiles-and-feminism",
@@ -164,15 +263,6 @@
           "publishedOn": "2021-05-20T17:24:10.000Z",
           "wordCount": 4291,
           "title": "On Writing Better: Getting Started"
-        },
-        {
-          "id": "https://collaborativefund.com/blog/make-your-point-and-get-out-of-the-way",
-          "author": null,
-          "description": "",
-          "link": "https://collaborativefund.com/blog/make-your-point-and-get-out-of-the-way",
-          "publishedOn": "2021-05-20T17:23:50.000Z",
-          "wordCount": null,
-          "title": "Make Your Point and Get Out of the Way"
         },
         {
           "id": "https://joshspector.com/one-sentence-writing-tips",
@@ -247,21 +337,12 @@
           "title": "Kris Howard - Knitted Disruption"
         },
         {
-          "id": "https://heartofpluto.co",
-          "author": null,
-          "description": "",
-          "link": "https://heartofpluto.co",
-          "publishedOn": "2021-05-20T12:01:20.000Z",
-          "wordCount": 2157,
-          "title": "Heart of Pluto"
-        },
-        {
           "id": "https://medium.com/weseek/the-fear-of-beginning-again-cdc1a2d5b356",
           "author": null,
           "description": "In his book So good they can’t ignore you, Cal Newport systematically (and often humorously) builds a case against the popular career…",
           "link": "https://medium.com/weseek/the-fear-of-beginning-again-cdc1a2d5b356",
           "publishedOn": "2021-05-19T10:55:18.000Z",
-          "wordCount": 2498,
+          "wordCount": 2518,
           "title": "The Fear of Beginning Again"
         },
         {
@@ -290,87 +371,6 @@
           "publishedOn": "2021-05-14T09:23:29.000Z",
           "wordCount": 103,
           "title": "035: Dickie Bush - How To Make $100,000 Writing on Twitter"
-        },
-        {
-          "id": "https://journalwsd.org.uk/article/fleece-washing",
-          "author": null,
-          "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
-          "link": "https://journalwsd.org.uk/article/fleece-washing",
-          "publishedOn": "2021-05-12T13:59:04.000Z",
-          "wordCount": 1446,
-          "title": "Fleece Washing"
-        },
-        {
-          "id": "https://reddit.com/r/indiehackers/comments/nanyme/buildinpublic_twitter_inspiration_handbook_ideas",
-          "author": null,
-          "description": "3 votes and 2 comments so far on Reddit",
-          "link": "https://reddit.com/r/indiehackers/comments/nanyme/buildinpublic_twitter_inspiration_handbook_ideas",
-          "publishedOn": "2021-05-12T13:30:33.000Z",
-          "wordCount": 501,
-          "title": "BuildInPublic Twitter Inspiration Handbook - Ideas for tweets that I collected by analyzing 200 BuildInPublic accounts"
-        },
-        {
-          "id": "http://paulgraham.com/simply.html?utm_source=Pointer&utm_campaign=2da2f21e39-ISSUE_229&utm_medium=email&utm_term=0_6ba2b83261-2da2f21e39-602663762",
-          "author": null,
-          "description": "",
-          "link": "http://paulgraham.com/simply.html?utm_source=Pointer&utm_campaign=2da2f21e39-ISSUE_229&utm_medium=email&utm_term=0_6ba2b83261-2da2f21e39-602663762",
-          "publishedOn": "2021-05-12T13:28:55.000Z",
-          "wordCount": 500,
-          "title": "Write Simply"
-        },
-        {
-          "id": "https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&utm_campaign=2da2f21e39-ISSUE_229&utm_medium=email&utm_term=0_6ba2b83261-2da2f21e39-602663762",
-          "author": null,
-          "description": "As an Engineering Leader at Help Scout, Anjuan Simmons has carved out a robust side hustle as a public speaker and blogger. Here, he shares his playbook for engineers to get started with personal branding and stand out from the crowd.",
-          "link": "https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&utm_campaign=2da2f21e39-ISSUE_229&utm_medium=email&utm_term=0_6ba2b83261-2da2f21e39-602663762",
-          "publishedOn": "2021-05-12T13:28:24.000Z",
-          "wordCount": 5041,
-          "title": "The Engineering Leader’s Guide to Crafting a Personal Brand that Stands Out From the Crowd"
-        },
-        {
-          "id": "https://fortelabs.co/blog/how-to-take-smart-notes",
-          "author": null,
-          "description": "I long ago stopped reading books on note-taking. They were always too vague and boring, full of platitudes that had little to do with the world outside academia. I especially avoided “how-to” style books on the subject. They would often list dozens of tips and tricks that had little to do with each other. There ... Read more",
-          "link": "https://fortelabs.co/blog/how-to-take-smart-notes",
-          "publishedOn": "2021-05-12T09:06:16.000Z",
-          "wordCount": 7604,
-          "title": "How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing"
-        },
-        {
-          "id": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "author": null,
-          "description": "",
-          "link": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "publishedOn": "2021-05-12T08:41:32.000Z",
-          "wordCount": 127,
-          "title": "Auditing Design Systems for Accessibility"
-        },
-        {
-          "id": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "author": null,
-          "description": "Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...",
-          "link": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "publishedOn": "2021-05-12T08:39:44.000Z",
-          "wordCount": 984,
-          "title": "Two options for using custom properties"
-        },
-        {
-          "id": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
-          "author": null,
-          "description": "Using my own design concepts as examples.",
-          "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
-          "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 964,
-          "title": "Top Common Mistakes UI/UX Designers Make"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "author": null,
-          "description": "Notes on building debugging puzzles",
-          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "publishedOn": "2021-05-11T13:41:33.000Z",
-          "wordCount": 2422,
-          "title": "Notes on building debugging puzzles"
         }
       ]
     },
