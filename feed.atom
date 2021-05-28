@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T00:46:58.212Z</id>
+    <id>urn:2021-05-28T00:53:04.298Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T00:46:58.212Z</updated>
+    <updated>2021-05-28T00:53:04.298Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Incremental Writing: No More Writer&#039;s Block]]></title>
+        <id>https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block</id>
+        <link href="https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block"/>
+        <updated>2021-05-27T15:14:43.000Z</updated>
+        <summary type="html"><![CDATA[A blog about learning how to learn]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watch Now - FREE MASTERCLASS]]></title>
+        <id>https://ellenyin.com/replay</id>
+        <link href="https://ellenyin.com/replay"/>
+        <updated>2021-05-27T14:41:10.000Z</updated>
+        <summary type="html"><![CDATA[How to attract consistent clients without a large audience]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next-paradigm programming languages: what will they look like and what chan]]></title>
+        <id>https://dl.acm.org/doi/10.1145/3359591.3359739</id>
+        <link href="https://dl.acm.org/doi/10.1145/3359591.3359739"/>
+        <updated>2021-05-27T14:33:22.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local-first software: you own your data, in spite of the cloud | Proceeding]]></title>
+        <id>https://dl.acm.org/doi/10.1145/3359591.3359737</id>
+        <link href="https://dl.acm.org/doi/10.1145/3359591.3359737"/>
+        <updated>2021-05-27T14:33:08.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auditing Design Systems for Accessibility]]></title>
+        <id>https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
+        <link href="https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
+        <updated>2021-05-27T14:14:50.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
         <id>https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&amp;utm_campaign=Issue-461&amp;utm_medium=email</id>
@@ -68,16 +115,6 @@ Thank you @Zenigata]]></summary>
         <link href="https://youtube.com/watch?v=02h74L1PmaU"/>
         <updated>2021-05-25T15:11:29.000Z</updated>
         <summary type="html"><![CDATA[Industrial computer-controlled knitting machines are churning out seamless three-dimensional fabric objects as you read this -- think gloves, sweaters, sport...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to punctuate]]></title>
-        <id>https://julian.com/blog/punctuation</id>
-        <link href="https://julian.com/blog/punctuation"/>
-        <updated>2021-05-25T14:42:50.000Z</updated>
-        <summary type="html"><![CDATA[The complete rules of punctuation: Learn where to place quotes, understand when to use a comma, and differentiate between colons and semicolons.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -216,16 +253,6 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building the Middle Class of the Creator Economy]]></title>
-        <id>https://li.substack.com/p/building-the-middle-class-of-the</id>
-        <link href="https://li.substack.com/p/building-the-middle-class-of-the"/>
-        <updated>2021-05-20T16:02:38.000Z</updated>
-        <summary type="html"><![CDATA[The American Dream exists, but what is the reality?]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sw-yx/spark-joy]]></title>
         <id>https://github.com/sw-yx/spark-joy</id>
         <link href="https://github.com/sw-yx/spark-joy"/>
@@ -250,16 +277,6 @@ Thank you: @LooperXX.]]></summary>
         <link href="https://youtube.com/watch?v=0lqyYJl9vuM"/>
         <updated>2021-05-20T12:01:25.000Z</updated>
         <summary type="html"><![CDATA[For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Attract Consistent Clients Without a Large Audience]]></title>
-        <id>https://ellenyin.com/getclients</id>
-        <link href="https://ellenyin.com/getclients"/>
-        <updated>2021-05-18T21:30:52.000Z</updated>
-        <summary type="html"><![CDATA[A FREE masterclass for service providers on how to attract consistent clients without a large audience or posting every day.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -329,50 +346,11 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build, Test, and Launch an Email Newsletter From Scratch]]></title>
-        <id>https://yen.fm/build-newsletter</id>
-        <link href="https://yen.fm/build-newsletter"/>
-        <updated>2021-05-14T20:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Hey friends! This is our very first newsletter deep-dive and I thought there would be nothing better than sharing the entire process of how I built, tested, and launched a new email newsletter from…]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fleece Washing]]></title>
         <id>https://journalwsd.org.uk/article/fleece-washing</id>
         <link href="https://journalwsd.org.uk/article/fleece-washing"/>
         <updated>2021-05-12T13:59:04.000Z</updated>
         <summary type="html"><![CDATA[Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Engineering Leader’s Guide to Crafting a Personal Brand that Stands Out From the Crowd]]></title>
-        <id>https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&amp;utm_campaign=2da2f21e39-ISSUE_229&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-2da2f21e39-602663762</id>
-        <link href="https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&amp;utm_campaign=2da2f21e39-ISSUE_229&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-2da2f21e39-602663762"/>
-        <updated>2021-05-12T13:28:24.000Z</updated>
-        <summary type="html"><![CDATA[As an Engineering Leader at Help Scout, Anjuan Simmons has carved out a robust side hustle as a public speaker and blogger. Here, he shares his playbook for engineers to get started with personal branding and stand out from the crowd.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing]]></title>
-        <id>https://fortelabs.co/blog/how-to-take-smart-notes</id>
-        <link href="https://fortelabs.co/blog/how-to-take-smart-notes"/>
-        <updated>2021-05-12T09:06:16.000Z</updated>
-        <summary type="html"><![CDATA[I long ago stopped reading books on note-taking. They were always too vague and boring, full of platitudes that had little to do with the world outside academia. I especially avoided “how-to” style books on the subject. They would often list dozens of tips and tricks that had little to do with each other. There ... Read more]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auditing Design Systems for Accessibility]]></title>
-        <id>https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
-        <link href="https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
-        <updated>2021-05-12T08:41:32.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -487,6 +465,26 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Resources For Developers]]></title>
+        <id>https://github.com/bradtraversy/design-resources-for-developers</id>
+        <link href="https://github.com/bradtraversy/design-resources-for-developers"/>
+        <updated>2021-05-06T22:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Content Usable for People with Cognitive and Learning Disabilities]]></title>
+        <id>https://w3.org/TR/coga-usable#cognitive-stress-user-story</id>
+        <link href="https://w3.org/TR/coga-usable#cognitive-stress-user-story"/>
+        <updated>2021-05-05T16:19:58.000Z</updated>
+        <summary type="html"><![CDATA[This document is for people who make web content (web pages) and web applications. It gives advice on how to make content usable for people with cognitive and learning disabilities. This includes, but is not limited to: cognitive disabilities, learning disabilities (LD), neurodiversity, intellectual disabilities, and specific learning disabilities.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>

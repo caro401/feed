@@ -103,6 +103,51 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block",
+          "author": null,
+          "description": "A blog about learning how to learn",
+          "link": "https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block",
+          "publishedOn": "2021-05-27T15:14:43.000Z",
+          "wordCount": 1917,
+          "title": "Incremental Writing: No More Writer&#039;s Block"
+        },
+        {
+          "id": "https://ellenyin.com/replay",
+          "author": null,
+          "description": "How to attract consistent clients without a large audience",
+          "link": "https://ellenyin.com/replay",
+          "publishedOn": "2021-05-27T14:41:10.000Z",
+          "wordCount": 120,
+          "title": "Watch Now - FREE MASTERCLASS"
+        },
+        {
+          "id": "https://dl.acm.org/doi/10.1145/3359591.3359739",
+          "author": null,
+          "description": "",
+          "link": "https://dl.acm.org/doi/10.1145/3359591.3359739",
+          "publishedOn": "2021-05-27T14:33:22.000Z",
+          "wordCount": 148,
+          "title": "Next-paradigm programming languages: what will they look like and what chan"
+        },
+        {
+          "id": "https://dl.acm.org/doi/10.1145/3359591.3359737",
+          "author": null,
+          "description": "",
+          "link": "https://dl.acm.org/doi/10.1145/3359591.3359737",
+          "publishedOn": "2021-05-27T14:33:08.000Z",
+          "wordCount": 148,
+          "title": "Local-first software: you own your data, in spite of the cloud | Proceeding"
+        },
+        {
+          "id": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
+          "author": null,
+          "description": "",
+          "link": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
+          "publishedOn": "2021-05-27T14:14:50.000Z",
+          "wordCount": 127,
+          "title": "Auditing Design Systems for Accessibility"
+        },
+        {
           "id": "https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&utm_campaign=Issue-461&utm_medium=email",
           "author": null,
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML",
@@ -148,21 +193,12 @@
           "title": "&amp;quot;Languages for 3D Industrial Knitting&amp;quot; by Lea Albaugh"
         },
         {
-          "id": "https://julian.com/blog/punctuation",
-          "author": null,
-          "description": "The complete rules of punctuation: Learn where to place quotes, understand when to use a comma, and differentiate between colons and semicolons.",
-          "link": "https://julian.com/blog/punctuation",
-          "publishedOn": "2021-05-25T14:42:50.000Z",
-          "wordCount": 2493,
-          "title": "How to punctuate"
-        },
-        {
           "id": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
           "author": null,
           "description": "I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...",
           "link": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
           "publishedOn": "2021-05-25T11:12:48.000Z",
-          "wordCount": 955,
+          "wordCount": 960,
           "title": "RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3"
         },
         {
@@ -238,21 +274,12 @@
           "title": "Demo: Standalone Bibliography"
         },
         {
-          "id": "https://li.substack.com/p/building-the-middle-class-of-the",
-          "author": null,
-          "description": "The American Dream exists, but what is the reality?",
-          "link": "https://li.substack.com/p/building-the-middle-class-of-the",
-          "publishedOn": "2021-05-20T16:02:38.000Z",
-          "wordCount": 4582,
-          "title": "Building the Middle Class of the Creator Economy"
-        },
-        {
           "id": "https://github.com/sw-yx/spark-joy",
           "author": null,
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7379,
+          "wordCount": 7350,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -274,58 +301,13 @@
           "title": "Kris Howard - Knitted Disruption"
         },
         {
-          "id": "https://ellenyin.com/getclients",
-          "author": null,
-          "description": "A FREE masterclass for service providers on how to attract consistent clients without a large audience or posting every day.",
-          "link": "https://ellenyin.com/getclients",
-          "publishedOn": "2021-05-18T21:30:52.000Z",
-          "wordCount": 649,
-          "title": "How To Attract Consistent Clients Without a Large Audience"
-        },
-        {
-          "id": "https://yen.fm/build-newsletter",
-          "author": null,
-          "description": "Hey friends! This is our very first newsletter deep-dive and I thought there would be nothing better than sharing the entire process of how I built, tested, and launched a new email newsletter from…",
-          "link": "https://yen.fm/build-newsletter",
-          "publishedOn": "2021-05-14T20:15:49.000Z",
-          "wordCount": 3247,
-          "title": "Build, Test, and Launch an Email Newsletter From Scratch"
-        },
-        {
           "id": "https://journalwsd.org.uk/article/fleece-washing",
           "author": null,
           "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
           "link": "https://journalwsd.org.uk/article/fleece-washing",
           "publishedOn": "2021-05-12T13:59:04.000Z",
-          "wordCount": 1439,
+          "wordCount": 1438,
           "title": "Fleece Washing"
-        },
-        {
-          "id": "https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&utm_campaign=2da2f21e39-ISSUE_229&utm_medium=email&utm_term=0_6ba2b83261-2da2f21e39-602663762",
-          "author": null,
-          "description": "As an Engineering Leader at Help Scout, Anjuan Simmons has carved out a robust side hustle as a public speaker and blogger. Here, he shares his playbook for engineers to get started with personal branding and stand out from the crowd.",
-          "link": "https://review.firstround.com/the-engineering-leader's-guide-to-crafting-a-personal-brand-that-stands-out-from-the-crowd?utm_source=Pointer&utm_campaign=2da2f21e39-ISSUE_229&utm_medium=email&utm_term=0_6ba2b83261-2da2f21e39-602663762",
-          "publishedOn": "2021-05-12T13:28:24.000Z",
-          "wordCount": 5041,
-          "title": "The Engineering Leader’s Guide to Crafting a Personal Brand that Stands Out From the Crowd"
-        },
-        {
-          "id": "https://fortelabs.co/blog/how-to-take-smart-notes",
-          "author": null,
-          "description": "I long ago stopped reading books on note-taking. They were always too vague and boring, full of platitudes that had little to do with the world outside academia. I especially avoided “how-to” style books on the subject. They would often list dozens of tips and tricks that had little to do with each other. There ... Read more",
-          "link": "https://fortelabs.co/blog/how-to-take-smart-notes",
-          "publishedOn": "2021-05-12T09:06:16.000Z",
-          "wordCount": 7604,
-          "title": "How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing"
-        },
-        {
-          "id": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "author": null,
-          "description": "",
-          "link": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "publishedOn": "2021-05-12T08:41:32.000Z",
-          "wordCount": 127,
-          "title": "Auditing Design Systems for Accessibility"
         },
         {
           "id": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
@@ -360,7 +342,7 @@
           "description": "Mapping is one of the most effective ways of presenting your findings and insights to your team and stakeholders.",
           "link": "https://uxplanet.org/an-overview-of-mapping-techniques-used-in-ux-design-process-756bd3d245bf",
           "publishedOn": "2021-05-10T09:45:18.000Z",
-          "wordCount": 2122,
+          "wordCount": 2118,
           "title": "An overview of mapping techniques used in UX Design Process"
         },
         {
@@ -371,6 +353,24 @@
           "publishedOn": "2021-05-10T09:44:43.000Z",
           "wordCount": 5327,
           "title": "🧠 The Psychology of Design:101 Cognitive Biases &amp;amp; Principles That Affect Your UX"
+        },
+        {
+          "id": "https://github.com/bradtraversy/design-resources-for-developers",
+          "author": null,
+          "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers",
+          "link": "https://github.com/bradtraversy/design-resources-for-developers",
+          "publishedOn": "2021-05-06T22:22:18.000Z",
+          "wordCount": 10432,
+          "title": "Design Resources For Developers"
+        },
+        {
+          "id": "https://w3.org/TR/coga-usable#cognitive-stress-user-story",
+          "author": null,
+          "description": "This document is for people who make web content (web pages) and web applications. It gives advice on how to make content usable for people with cognitive and learning disabilities. This includes, but is not limited to: cognitive disabilities, learning disabilities (LD), neurodiversity, intellectual disabilities, and specific learning disabilities.",
+          "link": "https://w3.org/TR/coga-usable#cognitive-stress-user-story",
+          "publishedOn": "2021-05-05T16:19:58.000Z",
+          "wordCount": 55409,
+          "title": "Making Content Usable for People with Cognitive and Learning Disabilities"
         }
       ]
     },
