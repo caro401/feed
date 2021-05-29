@@ -103,6 +103,42 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://themaintainers.org/info-events",
+          "author": null,
+          "description": "",
+          "link": "https://themaintainers.org/info-events",
+          "publishedOn": "2021-05-28T19:05:51.000Z",
+          "wordCount": 208,
+          "title": "Info Maintainers Events — The Maintainers"
+        },
+        {
+          "id": "https://pca.st/episode/4e9a18cb-6b31-4804-a01b-b7b9242167fa",
+          "author": null,
+          "description": "Womenswear is littered with fake pockets that don’t open, or shallow pockets that can hardly hold more than a paperclip. If women's clothes have pockets at all, they are often and smaller and just fit less than men’s pockets do.",
+          "link": "https://pca.st/episode/4e9a18cb-6b31-4804-a01b-b7b9242167fa",
+          "publishedOn": "2021-05-28T17:32:30.000Z",
+          "wordCount": 85,
+          "title": "Pockets: Articles of Interest #3"
+        },
+        {
+          "id": "https://mugshotbot.com/pricing",
+          "author": null,
+          "description": "Automate link preview images for every page on your blog. No fussing with design tools or wading through thousands of stock photos.",
+          "link": "https://mugshotbot.com/pricing",
+          "publishedOn": "2021-05-28T16:57:56.000Z",
+          "wordCount": 117,
+          "title": "Beautiful link previews. Automagically. | Mugshot Bot"
+        },
+        {
+          "id": "https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&utm_medium=social&utm_source=twitter&s=09",
+          "author": null,
+          "description": "",
+          "link": "https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&utm_medium=social&utm_source=twitter&s=09",
+          "publishedOn": "2021-05-28T08:58:12.000Z",
+          "wordCount": null,
+          "title": "Untitled"
+        },
+        {
           "id": "https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block",
           "author": null,
           "description": "A blog about learning how to learn",
@@ -153,7 +189,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&utm_campaign=Issue-461&utm_medium=email",
           "publishedOn": "2021-05-26T14:06:16.000Z",
-          "wordCount": 3198,
+          "wordCount": 3250,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -198,7 +234,7 @@
           "description": "I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...",
           "link": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
           "publishedOn": "2021-05-25T11:12:48.000Z",
-          "wordCount": 960,
+          "wordCount": 973,
           "title": "RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3"
         },
         {
@@ -279,7 +315,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7350,
+          "wordCount": 7368,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -288,7 +324,7 @@
           "description": "",
           "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
           "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2133,
+          "wordCount": 2137,
           "title": "Wiki workflow"
         },
         {
@@ -335,42 +371,6 @@
           "publishedOn": "2021-05-11T13:41:33.000Z",
           "wordCount": 2422,
           "title": "Notes on building debugging puzzles"
-        },
-        {
-          "id": "https://uxplanet.org/an-overview-of-mapping-techniques-used-in-ux-design-process-756bd3d245bf",
-          "author": null,
-          "description": "Mapping is one of the most effective ways of presenting your findings and insights to your team and stakeholders.",
-          "link": "https://uxplanet.org/an-overview-of-mapping-techniques-used-in-ux-design-process-756bd3d245bf",
-          "publishedOn": "2021-05-10T09:45:18.000Z",
-          "wordCount": 2118,
-          "title": "An overview of mapping techniques used in UX Design Process"
-        },
-        {
-          "id": "https://growth.design/psychology",
-          "author": null,
-          "description": "A complete list of cognitive biases and design principles. Tons of product examples, tips and checklists to improve your user experience.",
-          "link": "https://growth.design/psychology",
-          "publishedOn": "2021-05-10T09:44:43.000Z",
-          "wordCount": 5327,
-          "title": "🧠 The Psychology of Design:101 Cognitive Biases &amp;amp; Principles That Affect Your UX"
-        },
-        {
-          "id": "https://github.com/bradtraversy/design-resources-for-developers",
-          "author": null,
-          "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers",
-          "link": "https://github.com/bradtraversy/design-resources-for-developers",
-          "publishedOn": "2021-05-06T22:22:18.000Z",
-          "wordCount": 10432,
-          "title": "Design Resources For Developers"
-        },
-        {
-          "id": "https://w3.org/TR/coga-usable#cognitive-stress-user-story",
-          "author": null,
-          "description": "This document is for people who make web content (web pages) and web applications. It gives advice on how to make content usable for people with cognitive and learning disabilities. This includes, but is not limited to: cognitive disabilities, learning disabilities (LD), neurodiversity, intellectual disabilities, and specific learning disabilities.",
-          "link": "https://w3.org/TR/coga-usable#cognitive-stress-user-story",
-          "publishedOn": "2021-05-05T16:19:58.000Z",
-          "wordCount": 55409,
-          "title": "Making Content Usable for People with Cognitive and Learning Disabilities"
         }
       ]
     },

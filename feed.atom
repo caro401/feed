@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T00:53:04.298Z</id>
+    <id>urn:2021-05-29T01:02:26.230Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T00:53:04.298Z</updated>
+    <updated>2021-05-29T01:02:26.230Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Info Maintainers Events — The Maintainers]]></title>
+        <id>https://themaintainers.org/info-events</id>
+        <link href="https://themaintainers.org/info-events"/>
+        <updated>2021-05-28T19:05:51.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pockets: Articles of Interest #3]]></title>
+        <id>https://pca.st/episode/4e9a18cb-6b31-4804-a01b-b7b9242167fa</id>
+        <link href="https://pca.st/episode/4e9a18cb-6b31-4804-a01b-b7b9242167fa"/>
+        <updated>2021-05-28T17:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Womenswear is littered with fake pockets that don’t open, or shallow pockets that can hardly hold more than a paperclip. If women's clothes have pockets at all, they are often and smaller and just fit less than men’s pockets do.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beautiful link previews. Automagically. | Mugshot Bot]]></title>
+        <id>https://mugshotbot.com/pricing</id>
+        <link href="https://mugshotbot.com/pricing"/>
+        <updated>2021-05-28T16:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Automate link preview images for every page on your blog. No fussing with design tools or wading through thousands of stock photos.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&amp;utm_medium=social&amp;utm_source=twitter&amp;s=09</id>
+        <link href="https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&amp;utm_medium=social&amp;utm_source=twitter&amp;s=09"/>
+        <updated>2021-05-28T08:58:12.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Incremental Writing: No More Writer&#039;s Block]]></title>
         <id>https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block</id>
@@ -408,26 +446,6 @@ Let’s very briefly discu…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An overview of mapping techniques used in UX Design Process]]></title>
-        <id>https://uxplanet.org/an-overview-of-mapping-techniques-used-in-ux-design-process-756bd3d245bf</id>
-        <link href="https://uxplanet.org/an-overview-of-mapping-techniques-used-in-ux-design-process-756bd3d245bf"/>
-        <updated>2021-05-10T09:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Mapping is one of the most effective ways of presenting your findings and insights to your team and stakeholders.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧠 The Psychology of Design:101 Cognitive Biases &amp;amp; Principles That Affect Your UX]]></title>
-        <id>https://growth.design/psychology</id>
-        <link href="https://growth.design/psychology"/>
-        <updated>2021-05-10T09:44:43.000Z</updated>
-        <summary type="html"><![CDATA[A complete list of cognitive biases and design principles. Tons of product examples, tips and checklists to improve your user experience.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.4.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
@@ -465,26 +483,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Resources For Developers]]></title>
-        <id>https://github.com/bradtraversy/design-resources-for-developers</id>
-        <link href="https://github.com/bradtraversy/design-resources-for-developers"/>
-        <updated>2021-05-06T22:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Content Usable for People with Cognitive and Learning Disabilities]]></title>
-        <id>https://w3.org/TR/coga-usable#cognitive-stress-user-story</id>
-        <link href="https://w3.org/TR/coga-usable#cognitive-stress-user-story"/>
-        <updated>2021-05-05T16:19:58.000Z</updated>
-        <summary type="html"><![CDATA[This document is for people who make web content (web pages) and web applications. It gives advice on how to make content usable for people with cognitive and learning disabilities. This includes, but is not limited to: cognitive disabilities, learning disabilities (LD), neurodiversity, intellectual disabilities, and specific learning disabilities.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
