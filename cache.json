@@ -103,6 +103,15 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://m.youtube.com/watch?v=dz6aFfme_hg&s=09",
+          "author": null,
+          "description": "If you love CSS, have a look at the CSS Café - Online Meetup: https://www.meetup.com/de-DE/CSS-Cafehttps://twitter.com/CSS__Cafe// For more CSS tricks and ti...",
+          "link": "https://m.youtube.com/watch?v=dz6aFfme_hg&s=09",
+          "publishedOn": "2021-05-29T11:38:53.000Z",
+          "wordCount": 25,
+          "title": "Minimal CSS Solutions to (Previously) Complex Problems /w Stephanie Eckles [CSSCafe / english]"
+        },
+        {
           "id": "https://themaintainers.org/info-events",
           "author": null,
           "description": "",
@@ -234,7 +243,7 @@
           "description": "I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...",
           "link": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
           "publishedOn": "2021-05-25T11:12:48.000Z",
-          "wordCount": 973,
+          "wordCount": 971,
           "title": "RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3"
         },
         {
@@ -315,7 +324,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7368,
+          "wordCount": 7400,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -342,7 +351,7 @@
           "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
           "link": "https://journalwsd.org.uk/article/fleece-washing",
           "publishedOn": "2021-05-12T13:59:04.000Z",
-          "wordCount": 1438,
+          "wordCount": 1436,
           "title": "Fleece Washing"
         },
         {
@@ -360,17 +369,8 @@
           "description": "Using my own design concepts as examples.",
           "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
           "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 906,
+          "wordCount": 902,
           "title": "Top Common Mistakes UI/UX Designers Make"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "author": null,
-          "description": "Notes on building debugging puzzles",
-          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "publishedOn": "2021-05-11T13:41:33.000Z",
-          "wordCount": 2422,
-          "title": "Notes on building debugging puzzles"
         }
       ]
     },

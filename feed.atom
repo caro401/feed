@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T01:02:26.230Z</id>
+    <id>urn:2021-05-30T01:09:12.313Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T01:02:26.230Z</updated>
+    <updated>2021-05-30T01:09:12.313Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Minimal CSS Solutions to (Previously) Complex Problems /w Stephanie Eckles [CSSCafe / english]]]></title>
+        <id>https://m.youtube.com/watch?v=dz6aFfme_hg&amp;s=09</id>
+        <link href="https://m.youtube.com/watch?v=dz6aFfme_hg&amp;s=09"/>
+        <updated>2021-05-29T11:38:53.000Z</updated>
+        <summary type="html"><![CDATA[If you love CSS, have a look at the CSS Café - Online Meetup: https://www.meetup.com/de-DE/CSS-Cafehttps://twitter.com/CSS__Cafe// For more CSS tricks and ti...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Info Maintainers Events — The Maintainers]]></title>
         <id>https://themaintainers.org/info-events</id>
@@ -431,16 +441,6 @@ Let’s very briefly discu…]]></summary>
         <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
         <updated>2021-05-11T13:56:58.000Z</updated>
         <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on building debugging puzzles]]></title>
-        <id>https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles</id>
-        <link href="https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles"/>
-        <updated>2021-05-11T13:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
