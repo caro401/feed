@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T01:09:12.313Z</id>
+    <id>urn:2021-05-31T01:19:24.545Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T01:09:12.313Z</updated>
+    <updated>2021-05-31T01:19:24.545Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maggie Appleton - The Cultural Anthropology of React]]></title>
+        <id>https://youtu.be/8snrXgzM1bM</id>
+        <link href="https://youtu.be/8snrXgzM1bM"/>
+        <updated>2021-05-30T20:43:14.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simply beautiful open source icons]]></title>
+        <id>https://feathericons.com?s=09</id>
+        <link href="https://feathericons.com?s=09"/>
+        <updated>2021-05-30T07:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Index:]]></title>
+        <id>https://github.com/ytorg/yotter</id>
+        <link href="https://github.com/ytorg/yotter"/>
+        <updated>2021-05-30T07:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Youtube and Twitter with privacy. Contribute to ytorg/Yotter development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minimal CSS Solutions to (Previously) Complex Problems /w Stephanie Eckles [CSSCafe / english]]]></title>
         <id>https://m.youtube.com/watch?v=dz6aFfme_hg&amp;s=09</id>
@@ -25,16 +54,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pockets: Articles of Interest #3]]></title>
-        <id>https://pca.st/episode/4e9a18cb-6b31-4804-a01b-b7b9242167fa</id>
-        <link href="https://pca.st/episode/4e9a18cb-6b31-4804-a01b-b7b9242167fa"/>
-        <updated>2021-05-28T17:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Womenswear is littered with fake pockets that don’t open, or shallow pockets that can hardly hold more than a paperclip. If women's clothes have pockets at all, they are often and smaller and just fit less than men’s pockets do.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beautiful link previews. Automagically. | Mugshot Bot]]></title>
         <id>https://mugshotbot.com/pricing</id>
         <link href="https://mugshotbot.com/pricing"/>
@@ -49,16 +68,6 @@
         <id>https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&amp;utm_medium=social&amp;utm_source=twitter&amp;s=09</id>
         <link href="https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&amp;utm_medium=social&amp;utm_source=twitter&amp;s=09"/>
         <updated>2021-05-28T08:58:12.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incremental Writing: No More Writer&#039;s Block]]></title>
-        <id>https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block</id>
-        <link href="https://masterhowtolearn.com/2020-06-09-incremental-writing-no-more-writer-block"/>
-        <updated>2021-05-27T15:14:43.000Z</updated>
-        <summary type="html"><![CDATA[A blog about learning how to learn]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -143,26 +152,6 @@ Thank you @Zenigata]]></summary>
         <link href="https://madalyn.dev/blog/a11y-testing-coffee"/>
         <updated>2021-05-25T15:28:06.000Z</updated>
         <summary type="html"><![CDATA[Some Background I had the privilege of creating course material to teach accessibility testing for work this past quarter. I agonized over…]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[!!Con 2015 - Lea Albaugh: From Text to Textiles!]]></title>
-        <id>https://youtube.com/watch?v=ihqcgrR0azw</id>
-        <link href="https://youtube.com/watch?v=ihqcgrR0azw"/>
-        <updated>2021-05-25T15:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Presented at !!Con 2015: http://bangbangcon.com!!Con 2015 - Lea Albaugh: From Text to Textiles!Help us caption & translate this video!http://amara.org/v/GxsS/]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&amp;quot;Languages for 3D Industrial Knitting&amp;quot; by Lea Albaugh]]></title>
-        <id>https://youtube.com/watch?v=02h74L1PmaU</id>
-        <link href="https://youtube.com/watch?v=02h74L1PmaU"/>
-        <updated>2021-05-25T15:11:29.000Z</updated>
-        <summary type="html"><![CDATA[Industrial computer-controlled knitting machines are churning out seamless three-dimensional fabric objects as you read this -- think gloves, sweaters, sport...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -441,6 +430,16 @@ Let’s very briefly discu…]]></summary>
         <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
         <updated>2021-05-11T13:56:58.000Z</updated>
         <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on building debugging puzzles]]></title>
+        <id>https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles</id>
+        <link href="https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles"/>
+        <updated>2021-05-11T13:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
