@@ -207,7 +207,7 @@
           "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML",
           "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&utm_campaign=Issue-461&utm_medium=email",
           "publishedOn": "2021-05-26T14:06:16.000Z",
-          "wordCount": 3250,
+          "wordCount": 3271,
           "title": "Making Disabled Buttons More Inclusive"
         },
         {
@@ -234,7 +234,7 @@
           "description": "I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...",
           "link": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
           "publishedOn": "2021-05-25T11:12:48.000Z",
-          "wordCount": 974,
+          "wordCount": 972,
           "title": "RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3"
         },
         {
@@ -315,7 +315,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7422,
+          "wordCount": 7425,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -324,7 +324,7 @@
           "description": "",
           "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
           "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2137,
+          "wordCount": 2138,
           "title": "Wiki workflow"
         },
         {
@@ -405,15 +405,6 @@
           "publishedOn": "2021-05-11T14:58:41.000Z",
           "wordCount": 1047,
           "title": "The OSI model doesn't map well to TCP/IP"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/02/publishing-comics/",
-          "author": null,
-          "description": "Hello! As you probably know, I write a lot of comics about programming, and I publish collections of them as zines you can buy at https://wizardzines.com.\nI also usually post the comics on Twitter as I write them. But there are a lot of problems with just posting them to Twitter, like:\nthe pages are hard to find. For example, if you want to find the one on\nsocat, you can search twitter\nand you’ll find it, but then you have to somehow magically guess what words I\nused in the tweet, and also sort through a bunch of other tweets.\nthey’re annoying to link to. Twitter isn’t really the best user interface for this sort of thing.\nI can’t make updates. Twitter doesn’t have an edit button!\nwork that never made it into a zine is basically impossible to find. For example I\nwrote 12 pages of a sequel …",
-          "link": "https://jvns.ca/blog/2021/05/02/publishing-comics/",
-          "publishedOn": "2021-05-02T11:41:59.000Z",
-          "wordCount": 674,
-          "title": "I put all of my comics online!"
         }
       ]
     }

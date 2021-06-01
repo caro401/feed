@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T01:19:24.545Z</id>
+    <id>urn:2021-06-01T01:38:22.661Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T01:19:24.545Z</updated>
+    <updated>2021-06-01T01:38:22.661Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -495,25 +495,6 @@ Fixed: Typo in docs.
 Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I put all of my comics online!]]></title>
-        <id>https://jvns.ca/blog/2021/05/02/publishing-comics/</id>
-        <link href="https://jvns.ca/blog/2021/05/02/publishing-comics/"/>
-        <updated>2021-05-02T11:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Hello! As you probably know, I write a lot of comics about programming, and I publish collections of them as zines you can buy at https://wizardzines.com.
-I also usually post the comics on Twitter as I write them. But there are a lot of problems with just posting them to Twitter, like:
-the pages are hard to find. For example, if you want to find the one on
-socat, you can search twitter
-and you’ll find it, but then you have to somehow magically guess what words I
-used in the tweet, and also sort through a bunch of other tweets.
-they’re annoying to link to. Twitter isn’t really the best user interface for this sort of thing.
-I can’t make updates. Twitter doesn’t have an edit button!
-work that never made it into a zine is basically impossible to find. For example I
-wrote 12 pages of a sequel …]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
