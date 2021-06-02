@@ -1,35 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T01:38:22.661Z</id>
+    <id>urn:2021-06-02T01:45:36.801Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T01:38:22.661Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T01:45:36.801Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Client Resources]]></title>
+        <id>https://intransitstudios.com/client-resources</id>
+        <link href="https://intransitstudios.com/client-resources"/>
+        <updated>2021-06-01T18:40:26.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving Forward]]></title>
+        <id>https://intransitstudios.com/moving-forward</id>
+        <link href="https://intransitstudios.com/moving-forward"/>
+        <updated>2021-06-01T18:39:15.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started]]></title>
+        <id>https://intransitstudios.com/getting-started</id>
+        <link href="https://intransitstudios.com/getting-started"/>
+        <updated>2021-06-01T18:38:33.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.10.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
+        <updated>2021-06-01T04:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maggie Appleton - The Cultural Anthropology of React]]></title>
         <id>https://youtu.be/8snrXgzM1bM</id>
         <link href="https://youtu.be/8snrXgzM1bM"/>
         <updated>2021-05-30T20:43:14.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simply beautiful open source icons]]></title>
-        <id>https://feathericons.com?s=09</id>
-        <link href="https://feathericons.com?s=09"/>
-        <updated>2021-05-30T07:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Index:]]></title>
-        <id>https://github.com/ytorg/yotter</id>
-        <link href="https://github.com/ytorg/yotter"/>
-        <updated>2021-05-30T07:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Youtube and Twitter with privacy. Contribute to ytorg/Yotter development by creating an account on GitHub.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -45,29 +62,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Info Maintainers Events — The Maintainers]]></title>
-        <id>https://themaintainers.org/info-events</id>
-        <link href="https://themaintainers.org/info-events"/>
-        <updated>2021-05-28T19:05:51.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beautiful link previews. Automagically. | Mugshot Bot]]></title>
         <id>https://mugshotbot.com/pricing</id>
         <link href="https://mugshotbot.com/pricing"/>
         <updated>2021-05-28T16:57:56.000Z</updated>
         <summary type="html"><![CDATA[Automate link preview images for every page on your blog. No fussing with design tools or wading through thousands of stock photos.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&amp;utm_medium=social&amp;utm_source=twitter&amp;s=09</id>
-        <link href="https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&amp;utm_medium=social&amp;utm_source=twitter&amp;s=09"/>
-        <updated>2021-05-28T08:58:12.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -101,25 +100,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Auditing Design Systems for Accessibility]]></title>
-        <id>https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
-        <link href="https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
-        <updated>2021-05-27T14:14:50.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Disabled Buttons More Inclusive]]></title>
-        <id>https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&amp;utm_campaign=Issue-461&amp;utm_medium=email</id>
-        <link href="https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&amp;utm_campaign=Issue-461&amp;utm_medium=email"/>
-        <updated>2021-05-26T14:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.9.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
@@ -142,36 +122,6 @@ Thank you @Zenigata]]></summary>
         <link href="https://markodenic.com/css-tips"/>
         <updated>2021-05-25T21:33:19.000Z</updated>
         <summary type="html"><![CDATA[CSS tips and tricks you will not see in most of tutorials.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessibility Testing is like Making Coffee]]></title>
-        <id>https://madalyn.dev/blog/a11y-testing-coffee</id>
-        <link href="https://madalyn.dev/blog/a11y-testing-coffee"/>
-        <updated>2021-05-25T15:28:06.000Z</updated>
-        <summary type="html"><![CDATA[Some Background I had the privilege of creating course material to teach accessibility testing for work this past quarter. I agonized over…]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3]]></title>
-        <id>https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0</id>
-        <link href="https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0"/>
-        <updated>2021-05-25T11:12:48.000Z</updated>
-        <summary type="html"><![CDATA[I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[markushatvan.com]]></title>
-        <id>https://github.com/mhatvan/markushatvan.com/blob/master/src/routes/rss.xml.ts</id>
-        <link href="https://github.com/mhatvan/markushatvan.com/blob/master/src/routes/rss.xml.ts"/>
-        <updated>2021-05-25T11:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Personal website and blog written from scratch with SvelteKit and TailwindCSS. - mhatvan/markushatvan.com]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -226,56 +176,6 @@ Thank you: @LooperXX.]]></summary>
         <link href="https://web.dev/learn/css"/>
         <updated>2021-05-21T15:36:58.000Z</updated>
         <summary type="html"><![CDATA[An evergreen CSS course and reference to level up your web styling expertise.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design for reading: tips for optimizing content for Reader modes and reading apps]]></title>
-        <id>https://sarasoueidan.com/blog/tips-for-reader-modes</id>
-        <link href="https://sarasoueidan.com/blog/tips-for-reader-modes"/>
-        <updated>2021-05-20T23:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Freelance Front-End Web UI/UX Developer - Lebanon]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Writing Well Handbook]]></title>
-        <id>https://julian.com/guide/write/intro</id>
-        <link href="https://julian.com/guide/write/intro"/>
-        <updated>2021-05-20T17:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to write well. Topics include figuring out what to write about, how to write an introduction, the writing process, writing style, and copyediting.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Writing Better: Getting Started]]></title>
-        <id>https://jasonzweig.com/on-writing-better-part-1</id>
-        <link href="https://jasonzweig.com/on-writing-better-part-1"/>
-        <updated>2021-05-20T17:24:10.000Z</updated>
-        <summary type="html"><![CDATA[Part One in a series on trying to write better.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40 One-Sentence Writing Tips]]></title>
-        <id>https://joshspector.com/one-sentence-writing-tips</id>
-        <link href="https://joshspector.com/one-sentence-writing-tips"/>
-        <updated>2021-05-20T17:23:09.000Z</updated>
-        <summary type="html"><![CDATA[A collection of writing tips I've learned over the years to help you get the most out of the next thing you write…whatever that may be.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.]]></title>
-        <id>https://notion.so/Ship30for30-com-Atomic-Essays-Dashboard-e49422d2c5bd4737a59002b6c9404c77</id>
-        <link href="https://notion.so/Ship30for30-com-Atomic-Essays-Dashboard-e49422d2c5bd4737a59002b6c9404c77"/>
-        <updated>2021-05-20T17:21:19.000Z</updated>
-        <summary type="html"><![CDATA[A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -480,19 +380,6 @@ Added: Customizable site title
 Added: Copy all files from static directory to the root of the site.
 Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

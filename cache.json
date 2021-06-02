@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 417,
+          "wordCount": 413,
           "title": "v1.9.0"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-08T05:16:47.000Z",
           "wordCount": 306,
           "title": "v1.5.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "author": null,
-          "description": "Fixed: Avoid crwalers.\nFixed: Error logging from XML parser.\nFixed: Typo in docs.\nThank you: @dym-sh, @tabokie, @cheese1",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1",
-          "publishedOn": "2021-05-05T05:19:57.000Z",
-          "wordCount": 285,
-          "title": "v1.3.1"
         }
       ]
     },
@@ -102,6 +102,33 @@
       "feedUrl": "http://getpocket.com/users/*sso1503093515801537/feed/unread",
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
+        {
+          "id": "https://intransitstudios.com/client-resources",
+          "author": null,
+          "description": "",
+          "link": "https://intransitstudios.com/client-resources",
+          "publishedOn": "2021-06-01T18:40:26.000Z",
+          "wordCount": 656,
+          "title": "Client Resources"
+        },
+        {
+          "id": "https://intransitstudios.com/moving-forward",
+          "author": null,
+          "description": "",
+          "link": "https://intransitstudios.com/moving-forward",
+          "publishedOn": "2021-06-01T18:39:15.000Z",
+          "wordCount": 1217,
+          "title": "Moving Forward"
+        },
+        {
+          "id": "https://intransitstudios.com/getting-started",
+          "author": null,
+          "description": "",
+          "link": "https://intransitstudios.com/getting-started",
+          "publishedOn": "2021-06-01T18:38:33.000Z",
+          "wordCount": 791,
+          "title": "Getting Started"
+        },
         {
           "id": "https://youtu.be/8snrXgzM1bM",
           "author": null,
@@ -112,40 +139,13 @@
           "title": "Maggie Appleton - The Cultural Anthropology of React"
         },
         {
-          "id": "https://feathericons.com?s=09",
-          "author": null,
-          "description": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.",
-          "link": "https://feathericons.com?s=09",
-          "publishedOn": "2021-05-30T07:21:56.000Z",
-          "wordCount": 22,
-          "title": "Simply beautiful open source icons"
-        },
-        {
-          "id": "https://github.com/ytorg/yotter",
-          "author": null,
-          "description": "Youtube and Twitter with privacy. Contribute to ytorg/Yotter development by creating an account on GitHub.",
-          "link": "https://github.com/ytorg/yotter",
-          "publishedOn": "2021-05-30T07:12:28.000Z",
-          "wordCount": 2214,
-          "title": "Index:"
-        },
-        {
           "id": "https://m.youtube.com/watch?v=dz6aFfme_hg&s=09",
           "author": null,
           "description": "If you love CSS, have a look at the CSS Café - Online Meetup: https://www.meetup.com/de-DE/CSS-Cafehttps://twitter.com/CSS__Cafe// For more CSS tricks and ti...",
           "link": "https://m.youtube.com/watch?v=dz6aFfme_hg&s=09",
           "publishedOn": "2021-05-29T11:38:53.000Z",
-          "wordCount": 25,
+          "wordCount": 24,
           "title": "Minimal CSS Solutions to (Previously) Complex Problems /w Stephanie Eckles [CSSCafe / english]"
-        },
-        {
-          "id": "https://themaintainers.org/info-events",
-          "author": null,
-          "description": "",
-          "link": "https://themaintainers.org/info-events",
-          "publishedOn": "2021-05-28T19:05:51.000Z",
-          "wordCount": 208,
-          "title": "Info Maintainers Events — The Maintainers"
         },
         {
           "id": "https://mugshotbot.com/pricing",
@@ -155,15 +155,6 @@
           "publishedOn": "2021-05-28T16:57:56.000Z",
           "wordCount": 117,
           "title": "Beautiful link previews. Automagically. | Mugshot Bot"
-        },
-        {
-          "id": "https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&utm_medium=social&utm_source=twitter&s=09",
-          "author": null,
-          "description": "",
-          "link": "https://daily.jstor.org/knitting-manuals-collection?utm_campaign=JSTOR&utm_medium=social&utm_source=twitter&s=09",
-          "publishedOn": "2021-05-28T08:58:12.000Z",
-          "wordCount": null,
-          "title": "Untitled"
         },
         {
           "id": "https://ellenyin.com/replay",
@@ -193,24 +184,6 @@
           "title": "Local-first software: you own your data, in spite of the cloud | Proceeding"
         },
         {
-          "id": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "author": null,
-          "description": "",
-          "link": "https://deque.com/blog/auditing-design-systems-for-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "publishedOn": "2021-05-27T14:14:50.000Z",
-          "wordCount": 127,
-          "title": "Auditing Design Systems for Accessibility"
-        },
-        {
-          "id": "https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&utm_campaign=Issue-461&utm_medium=email",
-          "author": null,
-          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML",
-          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive?utm_source=CSS-Weekly&utm_campaign=Issue-461&utm_medium=email",
-          "publishedOn": "2021-05-26T14:06:16.000Z",
-          "wordCount": 3271,
-          "title": "Making Disabled Buttons More Inclusive"
-        },
-        {
           "id": "https://markodenic.com/css-tips",
           "author": null,
           "description": "CSS tips and tricks you will not see in most of tutorials.",
@@ -220,33 +193,6 @@
           "title": "CSS Tips"
         },
         {
-          "id": "https://madalyn.dev/blog/a11y-testing-coffee",
-          "author": null,
-          "description": "Some Background I had the privilege of creating course material to teach accessibility testing for work this past quarter. I agonized over…",
-          "link": "https://madalyn.dev/blog/a11y-testing-coffee",
-          "publishedOn": "2021-05-25T15:28:06.000Z",
-          "wordCount": 1692,
-          "title": "Accessibility Testing is like Making Coffee"
-        },
-        {
-          "id": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
-          "author": null,
-          "description": "I feel like a boomer when I tell people I still use an RSS reader. I still find it is the best way to...",
-          "link": "https://dev.to/cleverguy25/rss-atom-and-site-map-for-svelte-sapper-blog-part-3-e0",
-          "publishedOn": "2021-05-25T11:12:48.000Z",
-          "wordCount": 972,
-          "title": "RSS/Atom and Site Map for Svelte/Sapper Blog - Part 3"
-        },
-        {
-          "id": "https://github.com/mhatvan/markushatvan.com/blob/master/src/routes/rss.xml.ts",
-          "author": null,
-          "description": "Personal website and blog written from scratch with SvelteKit and TailwindCSS. - mhatvan/markushatvan.com",
-          "link": "https://github.com/mhatvan/markushatvan.com/blob/master/src/routes/rss.xml.ts",
-          "publishedOn": "2021-05-25T11:12:28.000Z",
-          "wordCount": 419,
-          "title": "markushatvan.com"
-        },
-        {
           "id": "https://web.dev/learn/css",
           "author": null,
           "description": "An evergreen CSS course and reference to level up your web styling expertise.",
@@ -254,51 +200,6 @@
           "publishedOn": "2021-05-21T15:36:58.000Z",
           "wordCount": 1040,
           "title": "Learn CSS"
-        },
-        {
-          "id": "https://sarasoueidan.com/blog/tips-for-reader-modes",
-          "author": null,
-          "description": "Freelance Front-End Web UI/UX Developer - Lebanon",
-          "link": "https://sarasoueidan.com/blog/tips-for-reader-modes",
-          "publishedOn": "2021-05-20T23:15:44.000Z",
-          "wordCount": 2559,
-          "title": "Design for reading: tips for optimizing content for Reader modes and reading apps"
-        },
-        {
-          "id": "https://julian.com/guide/write/intro",
-          "author": null,
-          "description": "Learn how to write well. Topics include figuring out what to write about, how to write an introduction, the writing process, writing style, and copyediting.",
-          "link": "https://julian.com/guide/write/intro",
-          "publishedOn": "2021-05-20T17:26:14.000Z",
-          "wordCount": 751,
-          "title": "The Writing Well Handbook"
-        },
-        {
-          "id": "https://jasonzweig.com/on-writing-better-part-1",
-          "author": null,
-          "description": "Part One in a series on trying to write better.",
-          "link": "https://jasonzweig.com/on-writing-better-part-1",
-          "publishedOn": "2021-05-20T17:24:10.000Z",
-          "wordCount": 4291,
-          "title": "On Writing Better: Getting Started"
-        },
-        {
-          "id": "https://joshspector.com/one-sentence-writing-tips",
-          "author": null,
-          "description": "A collection of writing tips I've learned over the years to help you get the most out of the next thing you write…whatever that may be.",
-          "link": "https://joshspector.com/one-sentence-writing-tips",
-          "publishedOn": "2021-05-20T17:23:09.000Z",
-          "wordCount": 857,
-          "title": "40 One-Sentence Writing Tips"
-        },
-        {
-          "id": "https://notion.so/Ship30for30-com-Atomic-Essays-Dashboard-e49422d2c5bd4737a59002b6c9404c77",
-          "author": null,
-          "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
-          "link": "https://notion.so/Ship30for30-com-Atomic-Essays-Dashboard-e49422d2c5bd4737a59002b6c9404c77",
-          "publishedOn": "2021-05-20T17:21:19.000Z",
-          "wordCount": 12,
-          "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
         },
         {
           "id": "https://citeproc-js.readthedocs.io/en/latest/deployments.html",
@@ -324,7 +225,7 @@
           "description": "",
           "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
           "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2138,
+          "wordCount": 2159,
           "title": "Wiki workflow"
         },
         {
@@ -342,7 +243,7 @@
           "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
           "link": "https://journalwsd.org.uk/article/fleece-washing",
           "publishedOn": "2021-05-12T13:59:04.000Z",
-          "wordCount": 1436,
+          "wordCount": 1444,
           "title": "Fleece Washing"
         },
         {
@@ -360,7 +261,7 @@
           "description": "Using my own design concepts as examples.",
           "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
           "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 902,
+          "wordCount": 895,
           "title": "Top Common Mistakes UI/UX Designers Make"
         },
         {
@@ -409,5 +310,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
