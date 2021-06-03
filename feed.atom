@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T01:45:36.801Z</id>
+    <id>urn:2021-06-03T01:25:11.270Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T01:45:36.801Z</updated>
+    <updated>2021-06-03T01:25:11.270Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brutalist Websites]]></title>
+        <id>https://brutalistwebsites.com?ref=designletterco</id>
+        <link href="https://brutalistwebsites.com?ref=designletterco"/>
+        <updated>2021-06-02T17:01:57.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why brutalism boosts conversions]]></title>
+        <id>https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736</id>
+        <link href="https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736"/>
+        <updated>2021-06-02T17:00:37.000Z</updated>
+        <summary type="html"><![CDATA[For those of us familiar with brutalism on the web, we don’t necessarily look at it as a favorable design choice. That’s because it…]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now buy print version of my zines!]]></title>
+        <id>https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/</id>
+        <link href="https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/"/>
+        <updated>2021-06-02T10:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Quick announcement: I opened a new print zine
+store last week, so now you can buy print
+copies of my zines! To start I’ve printed 350 copies of each of the “Bite
+Size…” zines.
+Here’s a photo of the front of the zines and some stickers:
+and the back covers:
+
+
+
+Here are some notes about how the store works:
+great print quality!
+I worked with a really good print company (Girlie Press) and printed the zines on some nice paper,
+so they look WAY nicer than they do when printed on a home printer :). I’m
+delighted with how they turned out.
+When I originally started working on this project I thought about using a
+print-on-demand company briefly (it sounds so convenient!) but I ordered test
+prints from all the ones I could find and it turns out that none of them could
+produce the print qualit…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bryan Ho💡]]></title>
+        <id>https://twitter.com/foundbryan/status/1399842458725347329?s=09</id>
+        <link href="https://twitter.com/foundbryan/status/1399842458725347329?s=09"/>
+        <updated>2021-06-02T06:34:49.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Client Resources]]></title>
         <id>https://intransitstudios.com/client-resources</id>
@@ -57,16 +112,6 @@
         <link href="https://m.youtube.com/watch?v=dz6aFfme_hg&amp;s=09"/>
         <updated>2021-05-29T11:38:53.000Z</updated>
         <summary type="html"><![CDATA[If you love CSS, have a look at the CSS Café - Online Meetup: https://www.meetup.com/de-DE/CSS-Cafehttps://twitter.com/CSS__Cafe// For more CSS tricks and ti...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful link previews. Automagically. | Mugshot Bot]]></title>
-        <id>https://mugshotbot.com/pricing</id>
-        <link href="https://mugshotbot.com/pricing"/>
-        <updated>2021-05-28T16:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Automate link preview images for every page on your blog. No fussing with design tools or wading through thousands of stock photos.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>

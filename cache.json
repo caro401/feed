@@ -103,6 +103,33 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://brutalistwebsites.com?ref=designletterco",
+          "author": null,
+          "description": "",
+          "link": "https://brutalistwebsites.com?ref=designletterco",
+          "publishedOn": "2021-06-02T17:01:57.000Z",
+          "wordCount": 4531,
+          "title": "Brutalist Websites"
+        },
+        {
+          "id": "https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736",
+          "author": null,
+          "description": "For those of us familiar with brutalism on the web, we don’t necessarily look at it as a favorable design choice. That’s because it…",
+          "link": "https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736",
+          "publishedOn": "2021-06-02T17:00:37.000Z",
+          "wordCount": 1498,
+          "title": "Why brutalism boosts conversions"
+        },
+        {
+          "id": "https://twitter.com/foundbryan/status/1399842458725347329?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://twitter.com/foundbryan/status/1399842458725347329?s=09",
+          "publishedOn": "2021-06-02T06:34:49.000Z",
+          "wordCount": 196,
+          "title": "Bryan Ho💡"
+        },
+        {
           "id": "https://intransitstudios.com/client-resources",
           "author": null,
           "description": "",
@@ -146,15 +173,6 @@
           "publishedOn": "2021-05-29T11:38:53.000Z",
           "wordCount": 24,
           "title": "Minimal CSS Solutions to (Previously) Complex Problems /w Stephanie Eckles [CSSCafe / english]"
-        },
-        {
-          "id": "https://mugshotbot.com/pricing",
-          "author": null,
-          "description": "Automate link preview images for every page on your blog. No fussing with design tools or wading through thousands of stock photos.",
-          "link": "https://mugshotbot.com/pricing",
-          "publishedOn": "2021-05-28T16:57:56.000Z",
-          "wordCount": 117,
-          "title": "Beautiful link previews. Automagically. | Mugshot Bot"
         },
         {
           "id": "https://ellenyin.com/replay",
@@ -216,7 +234,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7425,
+          "wordCount": 7414,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -225,7 +243,7 @@
           "description": "",
           "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
           "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2159,
+          "wordCount": 2160,
           "title": "Wiki workflow"
         },
         {
@@ -281,12 +299,21 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/",
+          "author": null,
+          "description": "Hello! Quick announcement: I opened a new print zine\nstore last week, so now you can buy print\ncopies of my zines! To start I’ve printed 350 copies of each of the “Bite\nSize…” zines.\nHere’s a photo of the front of the zines and some stickers:\nand the back covers:\n\n\n\nHere are some notes about how the store works:\ngreat print quality!\nI worked with a really good print company (Girlie Press) and printed the zines on some nice paper,\nso they look WAY nicer than they do when printed on a home printer :). I’m\ndelighted with how they turned out.\nWhen I originally started working on this project I thought about using a\nprint-on-demand company briefly (it sounds so convenient!) but I ordered test\nprints from all the ones I could find and it turns out that none of them could\nproduce the print qualit…",
+          "link": "https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/",
+          "publishedOn": "2021-06-02T10:48:15.000Z",
+          "wordCount": 669,
+          "title": "You can now buy print version of my zines!"
+        },
+        {
           "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
           "author": null,
           "description": "I was talking to Jemma recently about what stops people\nfrom blogging. One barrier that stood out to me was: it’s hard to identify\nwhich things you know will be useful to other people!\nThe process I use for a lot of my blog posts is:\nStruggle with something (usually computer-related)\nEventually (days or months or years later), figure out how to solve some of\nthe problems I had\nWrite a blog post about what helped me\nI think this approach is effective because if I struggled with something,\nthere’s a pretty good chance that other people are struggling with it too, and\nwhat I learned is likely to be useful to at least some of them!\nObviously this isn’t the only approach to blogging, but it’s my approach, so\nthat’s what I’m going to write about here :). I’ll give a few examples of\nspecific blog…",
           "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
           "publishedOn": "2021-05-24T13:59:07.000Z",
-          "wordCount": 1869,
+          "wordCount": 1878,
           "title": "Blog about what you've struggled with"
         },
         {
