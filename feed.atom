@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T01:25:11.270Z</id>
+    <id>urn:2021-06-04T01:17:46.560Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:25:11.270Z</updated>
+    <updated>2021-06-04T01:17:46.560Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Catchafire relies on javascript for some of its core functionality]]></title>
+        <id>https://catchafire.org/volunteer?name_filter=&amp;type_filter=1&amp;page=1&amp;init=true&amp;s=09</id>
+        <link href="https://catchafire.org/volunteer?name_filter=&amp;type_filter=1&amp;page=1&amp;init=true&amp;s=09"/>
+        <updated>2021-06-03T22:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Use your talents for good and support nonprofits on virtual volunteer projects.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knitting Scarves from Around the World: 23 Patterns in a Variety of Styles and Techniques]]></title>
+        <id>https://b-ok.cc/book/2285440/45f431</id>
+        <link href="https://b-ok.cc/book/2285440/45f431"/>
+        <updated>2021-06-03T14:31:48.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toe-Up Socks for Every Body: Adventurous Lace, Cables, and Colorwork from Wendy Knits]]></title>
+        <id>https://b-ok.cc/book/1170054/f8343f?dsource=recommend</id>
+        <link href="https://b-ok.cc/book/1170054/f8343f?dsource=recommend"/>
+        <updated>2021-06-03T14:31:42.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knitting socks from around the world: 25 patterns in a variety of styles and techniques]]></title>
+        <id>https://b-ok.cc/book/2172416/41c27b</id>
+        <link href="https://b-ok.cc/book/2172416/41c27b"/>
+        <updated>2021-06-03T14:31:35.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Around the World in Knitted Socks: 26 Inspired Designs]]></title>
+        <id>https://b-ok.cc/book/2225192/eeb2b8</id>
+        <link href="https://b-ok.cc/book/2225192/eeb2b8"/>
+        <updated>2021-06-03T14:31:22.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monadic parsing in Haskell]]></title>
+        <id>https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093</id>
+        <link href="https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093"/>
+        <updated>2021-06-03T10:56:31.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://a11y-collective.com/blog/the-perfect-link?s=09</id>
+        <link href="https://a11y-collective.com/blog/the-perfect-link?s=09"/>
+        <updated>2021-06-03T08:06:28.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brutalist Websites]]></title>
         <id>https://brutalistwebsites.com?ref=designletterco</id>

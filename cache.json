@@ -103,6 +103,69 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://catchafire.org/volunteer?name_filter=&type_filter=1&page=1&init=true&s=09",
+          "author": null,
+          "description": "Use your talents for good and support nonprofits on virtual volunteer projects.",
+          "link": "https://catchafire.org/volunteer?name_filter=&type_filter=1&page=1&init=true&s=09",
+          "publishedOn": "2021-06-03T22:02:08.000Z",
+          "wordCount": 109,
+          "title": "Catchafire relies on javascript for some of its core functionality"
+        },
+        {
+          "id": "https://b-ok.cc/book/2285440/45f431",
+          "author": null,
+          "description": "",
+          "link": "https://b-ok.cc/book/2285440/45f431",
+          "publishedOn": "2021-06-03T14:31:48.000Z",
+          "wordCount": 9,
+          "title": "Knitting Scarves from Around the World: 23 Patterns in a Variety of Styles and Techniques"
+        },
+        {
+          "id": "https://b-ok.cc/book/1170054/f8343f?dsource=recommend",
+          "author": null,
+          "description": "",
+          "link": "https://b-ok.cc/book/1170054/f8343f?dsource=recommend",
+          "publishedOn": "2021-06-03T14:31:42.000Z",
+          "wordCount": 9,
+          "title": "Toe-Up Socks for Every Body: Adventurous Lace, Cables, and Colorwork from Wendy Knits"
+        },
+        {
+          "id": "https://b-ok.cc/book/2172416/41c27b",
+          "author": null,
+          "description": "",
+          "link": "https://b-ok.cc/book/2172416/41c27b",
+          "publishedOn": "2021-06-03T14:31:35.000Z",
+          "wordCount": 9,
+          "title": "Knitting socks from around the world: 25 patterns in a variety of styles and techniques"
+        },
+        {
+          "id": "https://b-ok.cc/book/2225192/eeb2b8",
+          "author": null,
+          "description": "",
+          "link": "https://b-ok.cc/book/2225192/eeb2b8",
+          "publishedOn": "2021-06-03T14:31:22.000Z",
+          "wordCount": 9,
+          "title": "Around the World in Knitted Socks: 26 Inspired Designs"
+        },
+        {
+          "id": "https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093",
+          "author": null,
+          "description": "",
+          "link": "https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093",
+          "publishedOn": "2021-06-03T10:56:31.000Z",
+          "wordCount": null,
+          "title": "Monadic parsing in Haskell"
+        },
+        {
+          "id": "https://a11y-collective.com/blog/the-perfect-link?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://a11y-collective.com/blog/the-perfect-link?s=09",
+          "publishedOn": "2021-06-03T08:06:28.000Z",
+          "wordCount": null,
+          "title": "Untitled"
+        },
+        {
           "id": "https://brutalistwebsites.com?ref=designletterco",
           "author": null,
           "description": "",
@@ -117,7 +180,7 @@
           "description": "For those of us familiar with brutalism on the web, we don’t necessarily look at it as a favorable design choice. That’s because it…",
           "link": "https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736",
           "publishedOn": "2021-06-02T17:00:37.000Z",
-          "wordCount": 1498,
+          "wordCount": 1490,
           "title": "Why brutalism boosts conversions"
         },
         {
@@ -234,7 +297,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7414,
+          "wordCount": 7445,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -243,7 +306,7 @@
           "description": "",
           "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
           "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2160,
+          "wordCount": 2172,
           "title": "Wiki workflow"
         },
         {
@@ -279,7 +342,7 @@
           "description": "Using my own design concepts as examples.",
           "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
           "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 895,
+          "wordCount": 901,
           "title": "Top Common Mistakes UI/UX Designers Make"
         },
         {
