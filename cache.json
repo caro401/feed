@@ -103,6 +103,51 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://github.com/KasperZutterman/Second-Brain",
+          "author": null,
+          "description": "A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 - KasperZutterman/Second-Brain",
+          "link": "https://github.com/KasperZutterman/Second-Brain",
+          "publishedOn": "2021-06-04T20:40:03.000Z",
+          "wordCount": 1045,
+          "title": "Second-Brain"
+        },
+        {
+          "id": "https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy",
+          "author": null,
+          "description": "Or: Maintaing a Zettelkasten for Personal Growth ‘Processing, not collecting’ has become one of the mantra’s of the Zettelkasten community. And for good reason: this is exactly what building a Zett…",
+          "link": "https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy",
+          "publishedOn": "2021-06-04T20:39:12.000Z",
+          "wordCount": 1674,
+          "title": "The Opposite Collector’s Fallacy"
+        },
+        {
+          "id": "https://dl.acm.org/doi/10.1145/3024949.3024951?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://dl.acm.org/doi/10.1145/3024949.3024951?s=09",
+          "publishedOn": "2021-06-04T20:21:42.000Z",
+          "wordCount": 148,
+          "title": "Untitled"
+        },
+        {
+          "id": "https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg",
+          "author": null,
+          "description": "Pathways to a greener, fairer, and more circular economy",
+          "link": "https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg",
+          "publishedOn": "2021-06-04T12:05:12.000Z",
+          "wordCount": 432,
+          "title": "Fellows Lecture Series: Dr Anna Barford"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with",
+          "author": null,
+          "description": "Blog about what you've struggled with",
+          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with",
+          "publishedOn": "2021-06-04T10:51:59.000Z",
+          "wordCount": 1878,
+          "title": "Blog about what you&#039;ve struggled with"
+        },
+        {
           "id": "https://catchafire.org/volunteer?name_filter=&type_filter=1&page=1&init=true&s=09",
           "author": null,
           "description": "Use your talents for good and support nonprofits on virtual volunteer projects.",
@@ -297,7 +342,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7445,
+          "wordCount": 7474,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -324,35 +369,8 @@
           "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
           "link": "https://journalwsd.org.uk/article/fleece-washing",
           "publishedOn": "2021-05-12T13:59:04.000Z",
-          "wordCount": 1444,
+          "wordCount": 1434,
           "title": "Fleece Washing"
-        },
-        {
-          "id": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "author": null,
-          "description": "Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...",
-          "link": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "publishedOn": "2021-05-12T08:39:44.000Z",
-          "wordCount": 984,
-          "title": "Two options for using custom properties"
-        },
-        {
-          "id": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
-          "author": null,
-          "description": "Using my own design concepts as examples.",
-          "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
-          "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 901,
-          "title": "Top Common Mistakes UI/UX Designers Make"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "author": null,
-          "description": "Notes on building debugging puzzles",
-          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "publishedOn": "2021-05-11T13:41:33.000Z",
-          "wordCount": 2422,
-          "title": "Notes on building debugging puzzles"
         }
       ]
     },

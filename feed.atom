@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-04T01:17:46.560Z</id>
+    <id>urn:2021-06-05T00:56:50.958Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:17:46.560Z</updated>
+    <updated>2021-06-05T00:56:50.958Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Second-Brain]]></title>
+        <id>https://github.com/KasperZutterman/Second-Brain</id>
+        <link href="https://github.com/KasperZutterman/Second-Brain"/>
+        <updated>2021-06-04T20:40:03.000Z</updated>
+        <summary type="html"><![CDATA[A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 - KasperZutterman/Second-Brain]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Opposite Collector’s Fallacy]]></title>
+        <id>https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy</id>
+        <link href="https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy"/>
+        <updated>2021-06-04T20:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Or: Maintaing a Zettelkasten for Personal Growth ‘Processing, not collecting’ has become one of the mantra’s of the Zettelkasten community. And for good reason: this is exactly what building a Zett…]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://dl.acm.org/doi/10.1145/3024949.3024951?s=09</id>
+        <link href="https://dl.acm.org/doi/10.1145/3024949.3024951?s=09"/>
+        <updated>2021-06-04T20:21:42.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fellows Lecture Series: Dr Anna Barford]]></title>
+        <id>https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg</id>
+        <link href="https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg"/>
+        <updated>2021-06-04T12:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Pathways to a greener, fairer, and more circular economy]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog about what you&#039;ve struggled with]]></title>
+        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with</id>
+        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with"/>
+        <updated>2021-06-04T10:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Blog about what you've struggled with]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Catchafire relies on javascript for some of its core functionality]]></title>
         <id>https://catchafire.org/volunteer?name_filter=&amp;type_filter=1&amp;page=1&amp;init=true&amp;s=09</id>
@@ -402,16 +451,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two options for using custom properties]]></title>
-        <id>https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
-        <link href="https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
-        <updated>2021-05-12T08:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
         <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
         <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
@@ -431,26 +470,6 @@ the OSI model has 7 layers
 Let’s very briefly discu…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Common Mistakes UI/UX Designers Make]]></title>
-        <id>https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84</id>
-        <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
-        <updated>2021-05-11T13:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on building debugging puzzles]]></title>
-        <id>https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles</id>
-        <link href="https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles"/>
-        <updated>2021-05-11T13:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
