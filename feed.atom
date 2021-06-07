@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T00:50:47.184Z</id>
+    <id>urn:2021-06-07T00:50:11.957Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T00:50:47.184Z</updated>
+    <updated>2021-06-07T00:50:11.957Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://timbourguignon.fr/about</id>
+        <link href="https://timbourguignon.fr/about"/>
+        <updated>2021-06-06T11:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Tim is building synapses between human beings... and other things about me you might want to know...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sitesauce - A static site for your dynamically-generated website]]></title>
+        <id>https://sitesauce.app</id>
+        <link href="https://sitesauce.app"/>
+        <updated>2021-06-06T10:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Sitesauce converts your dynamic websites into static sites, so you can keep your existing workflow while enjoying all the benefits static sites provide.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Second-Brain]]></title>
         <id>https://github.com/KasperZutterman/Second-Brain</id>
@@ -367,16 +387,6 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kris Howard - Knitted Disruption]]></title>
-        <id>https://youtube.com/watch?v=0lqyYJl9vuM</id>
-        <link href="https://youtube.com/watch?v=0lqyYJl9vuM"/>
-        <updated>2021-05-20T12:01:25.000Z</updated>
-        <summary type="html"><![CDATA[For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to look at the stack with gdb]]></title>
         <id>https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/</id>
         <link href="https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/"/>
@@ -441,16 +451,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fleece Washing]]></title>
-        <id>https://journalwsd.org.uk/article/fleece-washing</id>
-        <link href="https://journalwsd.org.uk/article/fleece-washing"/>
-        <updated>2021-05-12T13:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
         <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
         <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
@@ -494,20 +494,6 @@ Added: Semantic API for theming the default template. Demo | Source | Docs
 Changed: Moved feed metadata from article level to feed level in cache.
 Fixed: Any html-like text was stripped from title. Fixed with encoded text.
 Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

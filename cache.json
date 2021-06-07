@@ -85,15 +85,6 @@
           "publishedOn": "2021-05-10T08:15:20.000Z",
           "wordCount": 352,
           "title": "v1.6.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "author": null,
-          "description": "Added: Atom feed generator\nAdded: Customizable site title\nAdded: Copy all files from static directory to the root of the site.\nChanged: Favicon, css, and js assets now existing at site root level.\nChore: Excluded testing files from repo.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0",
-          "publishedOn": "2021-05-08T05:16:47.000Z",
-          "wordCount": 306,
-          "title": "v1.5.0"
         }
       ]
     },
@@ -103,12 +94,30 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://timbourguignon.fr/about",
+          "author": null,
+          "description": "Tim is building synapses between human beings... and other things about me you might want to know...",
+          "link": "https://timbourguignon.fr/about",
+          "publishedOn": "2021-06-06T11:30:13.000Z",
+          "wordCount": 616,
+          "title": "About me"
+        },
+        {
+          "id": "https://sitesauce.app",
+          "author": null,
+          "description": "Sitesauce converts your dynamic websites into static sites, so you can keep your existing workflow while enjoying all the benefits static sites provide.",
+          "link": "https://sitesauce.app",
+          "publishedOn": "2021-06-06T10:31:21.000Z",
+          "wordCount": 876,
+          "title": "Sitesauce - A static site for your dynamically-generated website"
+        },
+        {
           "id": "https://github.com/KasperZutterman/Second-Brain",
           "author": null,
           "description": "A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 - KasperZutterman/Second-Brain",
           "link": "https://github.com/KasperZutterman/Second-Brain",
           "publishedOn": "2021-06-04T20:40:03.000Z",
-          "wordCount": 1045,
+          "wordCount": 1055,
           "title": "Second-Brain"
         },
         {
@@ -117,7 +126,7 @@
           "description": "Or: Maintaing a Zettelkasten for Personal Growth ‘Processing, not collecting’ has become one of the mantra’s of the Zettelkasten community. And for good reason: this is exactly what building a Zett…",
           "link": "https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy",
           "publishedOn": "2021-06-04T20:39:12.000Z",
-          "wordCount": 1674,
+          "wordCount": 1669,
           "title": "The Opposite Collector’s Fallacy"
         },
         {
@@ -353,24 +362,6 @@
           "publishedOn": "2021-05-20T14:22:07.000Z",
           "wordCount": 2172,
           "title": "Wiki workflow"
-        },
-        {
-          "id": "https://youtube.com/watch?v=0lqyYJl9vuM",
-          "author": null,
-          "description": "For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...",
-          "link": "https://youtube.com/watch?v=0lqyYJl9vuM",
-          "publishedOn": "2021-05-20T12:01:25.000Z",
-          "wordCount": 17,
-          "title": "Kris Howard - Knitted Disruption"
-        },
-        {
-          "id": "https://journalwsd.org.uk/article/fleece-washing",
-          "author": null,
-          "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
-          "link": "https://journalwsd.org.uk/article/fleece-washing",
-          "publishedOn": "2021-05-12T13:59:04.000Z",
-          "wordCount": 1431,
-          "title": "Fleece Washing"
         }
       ]
     },
