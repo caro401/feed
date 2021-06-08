@@ -1,26 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T00:50:11.957Z</id>
+    <id>urn:2021-06-08T00:50:54.822Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T00:50:11.957Z</updated>
+    <updated>2021-06-08T00:50:54.822Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[About me]]></title>
-        <id>https://timbourguignon.fr/about</id>
-        <link href="https://timbourguignon.fr/about"/>
-        <updated>2021-06-06T11:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Tim is building synapses between human beings... and other things about me you might want to know...]]></summary>
+        <title type="html"><![CDATA[4 thoughts on “Sleeves – without a sweater”]]></title>
+        <id>https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli</id>
+        <link href="https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli"/>
+        <updated>2021-06-07T19:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Sleeves –  Handcuffs The feeling to pull sleeves over my hands, when it’s cold or I need it cozy, was one I missed a lot. Most sleeves are to short or I’m deforming them.To be able to pull them over my hands, when it’s cold or my hands are hurting, I knitted this Sleeves – … Continue reading "Sleeves – without a sweater"]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sitesauce - A static site for your dynamically-generated website]]></title>
-        <id>https://sitesauce.app</id>
-        <link href="https://sitesauce.app"/>
-        <updated>2021-06-06T10:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Sitesauce converts your dynamic websites into static sites, so you can keep your existing workflow while enjoying all the benefits static sites provide.]]></summary>
+        <title type="html"><![CDATA[Easing Gradients]]></title>
+        <id>https://larsenwork.com/easing-gradients?s=09</id>
+        <link href="https://larsenwork.com/easing-gradients?s=09"/>
+        <updated>2021-06-07T18:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Supercharge your gradients with non-linear color mix and custom color spaces.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Img_link_to_local_Markdown]]></title>
+        <id>https://github.com/xZaR3y4p/Img_link_to_local_markdown</id>
+        <link href="https://github.com/xZaR3y4p/Img_link_to_local_markdown"/>
+        <updated>2021-06-07T15:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to xZaR3y4p/Img_link_to_local_markdown development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Chat with Henry Zhu on OSS &amp;amp; Gift Economies]]></title>
+        <id>https://maggieappleton.com/maintainers</id>
+        <link href="https://maggieappleton.com/maintainers"/>
+        <updated>2021-06-07T13:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Maggie is a designer, illustrator, and anthropologist. This is her digital garden for growing visual explanations about design, culture, and programming]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -36,123 +56,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Opposite Collector’s Fallacy]]></title>
-        <id>https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy</id>
-        <link href="https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy"/>
-        <updated>2021-06-04T20:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Or: Maintaing a Zettelkasten for Personal Growth ‘Processing, not collecting’ has become one of the mantra’s of the Zettelkasten community. And for good reason: this is exactly what building a Zett…]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://dl.acm.org/doi/10.1145/3024949.3024951?s=09</id>
-        <link href="https://dl.acm.org/doi/10.1145/3024949.3024951?s=09"/>
-        <updated>2021-06-04T20:21:42.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fellows Lecture Series: Dr Anna Barford]]></title>
-        <id>https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg</id>
-        <link href="https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg"/>
-        <updated>2021-06-04T12:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Pathways to a greener, fairer, and more circular economy]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blog about what you&#039;ve struggled with]]></title>
         <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with</id>
         <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with"/>
         <updated>2021-06-04T10:51:59.000Z</updated>
         <summary type="html"><![CDATA[Blog about what you've struggled with]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catchafire relies on javascript for some of its core functionality]]></title>
-        <id>https://catchafire.org/volunteer?name_filter=&amp;type_filter=1&amp;page=1&amp;init=true&amp;s=09</id>
-        <link href="https://catchafire.org/volunteer?name_filter=&amp;type_filter=1&amp;page=1&amp;init=true&amp;s=09"/>
-        <updated>2021-06-03T22:02:08.000Z</updated>
-        <summary type="html"><![CDATA[Use your talents for good and support nonprofits on virtual volunteer projects.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knitting Scarves from Around the World: 23 Patterns in a Variety of Styles and Techniques]]></title>
-        <id>https://b-ok.cc/book/2285440/45f431</id>
-        <link href="https://b-ok.cc/book/2285440/45f431"/>
-        <updated>2021-06-03T14:31:48.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toe-Up Socks for Every Body: Adventurous Lace, Cables, and Colorwork from Wendy Knits]]></title>
-        <id>https://b-ok.cc/book/1170054/f8343f?dsource=recommend</id>
-        <link href="https://b-ok.cc/book/1170054/f8343f?dsource=recommend"/>
-        <updated>2021-06-03T14:31:42.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knitting socks from around the world: 25 patterns in a variety of styles and techniques]]></title>
-        <id>https://b-ok.cc/book/2172416/41c27b</id>
-        <link href="https://b-ok.cc/book/2172416/41c27b"/>
-        <updated>2021-06-03T14:31:35.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Around the World in Knitted Socks: 26 Inspired Designs]]></title>
-        <id>https://b-ok.cc/book/2225192/eeb2b8</id>
-        <link href="https://b-ok.cc/book/2225192/eeb2b8"/>
-        <updated>2021-06-03T14:31:22.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monadic parsing in Haskell]]></title>
-        <id>https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093</id>
-        <link href="https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093"/>
-        <updated>2021-06-03T10:56:31.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://a11y-collective.com/blog/the-perfect-link?s=09</id>
-        <link href="https://a11y-collective.com/blog/the-perfect-link?s=09"/>
-        <updated>2021-06-03T08:06:28.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brutalist Websites]]></title>
-        <id>https://brutalistwebsites.com?ref=designletterco</id>
-        <link href="https://brutalistwebsites.com?ref=designletterco"/>
-        <updated>2021-06-02T17:01:57.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why brutalism boosts conversions]]></title>
-        <id>https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736</id>
-        <link href="https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736"/>
-        <updated>2021-06-02T17:00:37.000Z</updated>
-        <summary type="html"><![CDATA[For those of us familiar with brutalism on the web, we don’t necessarily look at it as a favorable design choice. That’s because it…]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -182,42 +90,6 @@ prints from all the ones I could find and it turns out that none of them could
 produce the print qualit…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bryan Ho💡]]></title>
-        <id>https://twitter.com/foundbryan/status/1399842458725347329?s=09</id>
-        <link href="https://twitter.com/foundbryan/status/1399842458725347329?s=09"/>
-        <updated>2021-06-02T06:34:49.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Client Resources]]></title>
-        <id>https://intransitstudios.com/client-resources</id>
-        <link href="https://intransitstudios.com/client-resources"/>
-        <updated>2021-06-01T18:40:26.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving Forward]]></title>
-        <id>https://intransitstudios.com/moving-forward</id>
-        <link href="https://intransitstudios.com/moving-forward"/>
-        <updated>2021-06-01T18:39:15.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started]]></title>
-        <id>https://intransitstudios.com/getting-started</id>
-        <link href="https://intransitstudios.com/getting-started"/>
-        <updated>2021-06-01T18:38:33.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
@@ -387,6 +259,16 @@ Thank you: @LooperXX.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kris Howard - Knitted Disruption]]></title>
+        <id>https://youtube.com/watch?v=0lqyYJl9vuM</id>
+        <link href="https://youtube.com/watch?v=0lqyYJl9vuM"/>
+        <updated>2021-05-20T12:01:25.000Z</updated>
+        <summary type="html"><![CDATA[For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to look at the stack with gdb]]></title>
         <id>https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/</id>
         <link href="https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/"/>
@@ -451,6 +333,26 @@ Thank you @tianheg, @onnyyonn]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fleece Washing]]></title>
+        <id>https://journalwsd.org.uk/article/fleece-washing</id>
+        <link href="https://journalwsd.org.uk/article/fleece-washing"/>
+        <updated>2021-05-12T13:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two options for using custom properties]]></title>
+        <id>https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
+        <link href="https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
+        <updated>2021-05-12T08:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
         <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
         <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
@@ -470,6 +372,26 @@ the OSI model has 7 layers
 Let’s very briefly discu…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Common Mistakes UI/UX Designers Make]]></title>
+        <id>https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84</id>
+        <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
+        <updated>2021-05-11T13:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on building debugging puzzles]]></title>
+        <id>https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles</id>
+        <link href="https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles"/>
+        <updated>2021-05-11T13:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>

@@ -94,22 +94,40 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
-          "id": "https://timbourguignon.fr/about",
+          "id": "https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli",
           "author": null,
-          "description": "Tim is building synapses between human beings... and other things about me you might want to know...",
-          "link": "https://timbourguignon.fr/about",
-          "publishedOn": "2021-06-06T11:30:13.000Z",
-          "wordCount": 616,
-          "title": "About me"
+          "description": "Sleeves –  Handcuffs The feeling to pull sleeves over my hands, when it’s cold or I need it cozy, was one I missed a lot. Most sleeves are to short or I’m deforming them.To be able to pull them over my hands, when it’s cold or my hands are hurting, I knitted this Sleeves – … Continue reading \"Sleeves – without a sweater\"",
+          "link": "https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli",
+          "publishedOn": "2021-06-07T19:10:19.000Z",
+          "wordCount": 791,
+          "title": "4 thoughts on “Sleeves – without a sweater”"
         },
         {
-          "id": "https://sitesauce.app",
+          "id": "https://larsenwork.com/easing-gradients?s=09",
           "author": null,
-          "description": "Sitesauce converts your dynamic websites into static sites, so you can keep your existing workflow while enjoying all the benefits static sites provide.",
-          "link": "https://sitesauce.app",
-          "publishedOn": "2021-06-06T10:31:21.000Z",
-          "wordCount": 876,
-          "title": "Sitesauce - A static site for your dynamically-generated website"
+          "description": "Supercharge your gradients with non-linear color mix and custom color spaces.",
+          "link": "https://larsenwork.com/easing-gradients?s=09",
+          "publishedOn": "2021-06-07T18:08:12.000Z",
+          "wordCount": 478,
+          "title": "Easing Gradients"
+        },
+        {
+          "id": "https://github.com/xZaR3y4p/Img_link_to_local_markdown",
+          "author": null,
+          "description": "Contribute to xZaR3y4p/Img_link_to_local_markdown development by creating an account on GitHub.",
+          "link": "https://github.com/xZaR3y4p/Img_link_to_local_markdown",
+          "publishedOn": "2021-06-07T15:39:08.000Z",
+          "wordCount": 835,
+          "title": "Img_link_to_local_Markdown"
+        },
+        {
+          "id": "https://maggieappleton.com/maintainers",
+          "author": null,
+          "description": "Maggie is a designer, illustrator, and anthropologist. This is her digital garden for growing visual explanations about design, culture, and programming",
+          "link": "https://maggieappleton.com/maintainers",
+          "publishedOn": "2021-06-07T13:52:03.000Z",
+          "wordCount": 887,
+          "title": "A Chat with Henry Zhu on OSS &amp;amp; Gift Economies"
         },
         {
           "id": "https://github.com/KasperZutterman/Second-Brain",
@@ -121,33 +139,6 @@
           "title": "Second-Brain"
         },
         {
-          "id": "https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy",
-          "author": null,
-          "description": "Or: Maintaing a Zettelkasten for Personal Growth ‘Processing, not collecting’ has become one of the mantra’s of the Zettelkasten community. And for good reason: this is exactly what building a Zett…",
-          "link": "https://technosoof.wordpress.com/2020/05/23/the-opposite-collectors-fallacy",
-          "publishedOn": "2021-06-04T20:39:12.000Z",
-          "wordCount": 1669,
-          "title": "The Opposite Collector’s Fallacy"
-        },
-        {
-          "id": "https://dl.acm.org/doi/10.1145/3024949.3024951?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://dl.acm.org/doi/10.1145/3024949.3024951?s=09",
-          "publishedOn": "2021-06-04T20:21:42.000Z",
-          "wordCount": 148,
-          "title": "Untitled"
-        },
-        {
-          "id": "https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg",
-          "author": null,
-          "description": "Pathways to a greener, fairer, and more circular economy",
-          "link": "https://eventbrite.co.uk/e/fellows-lecture-series-dr-anna-barford-tickets-151087383431?bbeml=tp-YY-HrUi_WUKhwNmB7PcYnQ.j78ac10hzCEOxr7cKsxnWSA.rVua_kmyGJ0iflKNT_hx8Mg.lzk74c02C-ESbBI3oVSkLPg",
-          "publishedOn": "2021-06-04T12:05:12.000Z",
-          "wordCount": 432,
-          "title": "Fellows Lecture Series: Dr Anna Barford"
-        },
-        {
           "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with",
           "author": null,
           "description": "Blog about what you've struggled with",
@@ -155,123 +146,6 @@
           "publishedOn": "2021-06-04T10:51:59.000Z",
           "wordCount": 1878,
           "title": "Blog about what you&#039;ve struggled with"
-        },
-        {
-          "id": "https://catchafire.org/volunteer?name_filter=&type_filter=1&page=1&init=true&s=09",
-          "author": null,
-          "description": "Use your talents for good and support nonprofits on virtual volunteer projects.",
-          "link": "https://catchafire.org/volunteer?name_filter=&type_filter=1&page=1&init=true&s=09",
-          "publishedOn": "2021-06-03T22:02:08.000Z",
-          "wordCount": 109,
-          "title": "Catchafire relies on javascript for some of its core functionality"
-        },
-        {
-          "id": "https://b-ok.cc/book/2285440/45f431",
-          "author": null,
-          "description": "",
-          "link": "https://b-ok.cc/book/2285440/45f431",
-          "publishedOn": "2021-06-03T14:31:48.000Z",
-          "wordCount": 9,
-          "title": "Knitting Scarves from Around the World: 23 Patterns in a Variety of Styles and Techniques"
-        },
-        {
-          "id": "https://b-ok.cc/book/1170054/f8343f?dsource=recommend",
-          "author": null,
-          "description": "",
-          "link": "https://b-ok.cc/book/1170054/f8343f?dsource=recommend",
-          "publishedOn": "2021-06-03T14:31:42.000Z",
-          "wordCount": 9,
-          "title": "Toe-Up Socks for Every Body: Adventurous Lace, Cables, and Colorwork from Wendy Knits"
-        },
-        {
-          "id": "https://b-ok.cc/book/2172416/41c27b",
-          "author": null,
-          "description": "",
-          "link": "https://b-ok.cc/book/2172416/41c27b",
-          "publishedOn": "2021-06-03T14:31:35.000Z",
-          "wordCount": 9,
-          "title": "Knitting socks from around the world: 25 patterns in a variety of styles and techniques"
-        },
-        {
-          "id": "https://b-ok.cc/book/2225192/eeb2b8",
-          "author": null,
-          "description": "",
-          "link": "https://b-ok.cc/book/2225192/eeb2b8",
-          "publishedOn": "2021-06-03T14:31:22.000Z",
-          "wordCount": 9,
-          "title": "Around the World in Knitted Socks: 26 Inspired Designs"
-        },
-        {
-          "id": "https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093",
-          "author": null,
-          "description": "",
-          "link": "https://cambridge.org/core/journals/journal-of-functional-programming/article/abs/monadic-parsing-in-haskell/E557DFCCE00E0D4B6ED02F3FB0466093",
-          "publishedOn": "2021-06-03T10:56:31.000Z",
-          "wordCount": null,
-          "title": "Monadic parsing in Haskell"
-        },
-        {
-          "id": "https://a11y-collective.com/blog/the-perfect-link?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://a11y-collective.com/blog/the-perfect-link?s=09",
-          "publishedOn": "2021-06-03T08:06:28.000Z",
-          "wordCount": null,
-          "title": "Untitled"
-        },
-        {
-          "id": "https://brutalistwebsites.com?ref=designletterco",
-          "author": null,
-          "description": "",
-          "link": "https://brutalistwebsites.com?ref=designletterco",
-          "publishedOn": "2021-06-02T17:01:57.000Z",
-          "wordCount": 4531,
-          "title": "Brutalist Websites"
-        },
-        {
-          "id": "https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736",
-          "author": null,
-          "description": "For those of us familiar with brutalism on the web, we don’t necessarily look at it as a favorable design choice. That’s because it…",
-          "link": "https://medium.com/@WebdesignerDepot/why-brutalism-boosts-conversions-1b6048cdd736",
-          "publishedOn": "2021-06-02T17:00:37.000Z",
-          "wordCount": 1463,
-          "title": "Why brutalism boosts conversions"
-        },
-        {
-          "id": "https://twitter.com/foundbryan/status/1399842458725347329?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://twitter.com/foundbryan/status/1399842458725347329?s=09",
-          "publishedOn": "2021-06-02T06:34:49.000Z",
-          "wordCount": 196,
-          "title": "Bryan Ho💡"
-        },
-        {
-          "id": "https://intransitstudios.com/client-resources",
-          "author": null,
-          "description": "",
-          "link": "https://intransitstudios.com/client-resources",
-          "publishedOn": "2021-06-01T18:40:26.000Z",
-          "wordCount": 656,
-          "title": "Client Resources"
-        },
-        {
-          "id": "https://intransitstudios.com/moving-forward",
-          "author": null,
-          "description": "",
-          "link": "https://intransitstudios.com/moving-forward",
-          "publishedOn": "2021-06-01T18:39:15.000Z",
-          "wordCount": 1217,
-          "title": "Moving Forward"
-        },
-        {
-          "id": "https://intransitstudios.com/getting-started",
-          "author": null,
-          "description": "",
-          "link": "https://intransitstudios.com/getting-started",
-          "publishedOn": "2021-06-01T18:38:33.000Z",
-          "wordCount": 791,
-          "title": "Getting Started"
         },
         {
           "id": "https://youtu.be/8snrXgzM1bM",
@@ -351,7 +225,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7485,
+          "wordCount": 7504,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -362,6 +236,51 @@
           "publishedOn": "2021-05-20T14:22:07.000Z",
           "wordCount": 2172,
           "title": "Wiki workflow"
+        },
+        {
+          "id": "https://youtube.com/watch?v=0lqyYJl9vuM",
+          "author": null,
+          "description": "For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...",
+          "link": "https://youtube.com/watch?v=0lqyYJl9vuM",
+          "publishedOn": "2021-05-20T12:01:25.000Z",
+          "wordCount": 17,
+          "title": "Kris Howard - Knitted Disruption"
+        },
+        {
+          "id": "https://journalwsd.org.uk/article/fleece-washing",
+          "author": null,
+          "description": "Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.",
+          "link": "https://journalwsd.org.uk/article/fleece-washing",
+          "publishedOn": "2021-05-12T13:59:04.000Z",
+          "wordCount": 1431,
+          "title": "Fleece Washing"
+        },
+        {
+          "id": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
+          "author": null,
+          "description": "Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...",
+          "link": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
+          "publishedOn": "2021-05-12T08:39:44.000Z",
+          "wordCount": 984,
+          "title": "Two options for using custom properties"
+        },
+        {
+          "id": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
+          "author": null,
+          "description": "Using my own design concepts as examples.",
+          "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
+          "publishedOn": "2021-05-11T13:56:58.000Z",
+          "wordCount": 898,
+          "title": "Top Common Mistakes UI/UX Designers Make"
+        },
+        {
+          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
+          "author": null,
+          "description": "Notes on building debugging puzzles",
+          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
+          "publishedOn": "2021-05-11T13:41:33.000Z",
+          "wordCount": 2422,
+          "title": "Notes on building debugging puzzles"
         }
       ]
     },
