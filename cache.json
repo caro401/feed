@@ -67,24 +67,6 @@
           "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
         }
       ]
     },
@@ -93,6 +75,15 @@
       "feedUrl": "http://getpocket.com/users/*sso1503093515801537/feed/unread",
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
+        {
+          "id": "https://puckpuck.me/collections/our-products",
+          "author": null,
+          "description": "Turn your Aeropress into a cold brew drip tower with PUCKPUCK. An easy and fun way to try cold dripped coffee at home or on the go!",
+          "link": "https://puckpuck.me/collections/our-products",
+          "publishedOn": "2021-06-08T11:46:38.000Z",
+          "wordCount": 160,
+          "title": "PRODUCTS"
+        },
         {
           "id": "https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli",
           "author": null,
@@ -270,7 +261,7 @@
           "description": "Using my own design concepts as examples.",
           "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
           "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 898,
+          "wordCount": 903,
           "title": "Top Common Mistakes UI/UX Designers Make"
         },
         {
@@ -290,12 +281,21 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/",
+          "author": null,
+          "description": "Hello! I’m very slowly\nworking on writing a zine about debugging, so I asked on Twitter the other day:\nIf you’ve run into a bug where it felt “impossible” to understand what was happening – what made it feel that way?\nOf course, bugs always happen for logical reasons, but I’ve definitely run into\nbugs that felt like they might be impossible for me to understand (until I\nfigured them out!)\nI got about 400 responses, which I’ll try to summarize here. I’m not going to\ntalk about how to deal with these various kinds of “impossible” bugs in this\npost, I’ll just try to classify them.\nHere are the categories I came up with for ways a bug might feel impossible\nto understand. Each one of them has a bunch of sub variants which are bolded below.\nit’s hard to reproduce\nyou don’t understand the overall…",
+          "link": "https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/",
+          "publishedOn": "2021-06-08T09:28:08.000Z",
+          "wordCount": 2482,
+          "title": "Reasons why bugs might feel \"impossible\""
+        },
+        {
           "id": "https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/",
           "author": null,
           "description": "Hello! Quick announcement: I opened a new print zine\nstore last week, so now you can buy print\ncopies of my zines! To start I’ve printed 350 copies of each of the “Bite\nSize…” zines.\nHere’s a photo of the front of the zines and some stickers:\nand the back covers:\n\n\n\nHere are some notes about how the store works:\ngreat print quality!\nI worked with a really good print company (Girlie Press) and printed the zines on some nice paper,\nso they look WAY nicer than they do when printed on a home printer :). I’m\ndelighted with how they turned out.\nWhen I originally started working on this project I thought about using a\nprint-on-demand company briefly (it sounds so convenient!) but I ordered test\nprints from all the ones I could find and it turns out that none of them could\nproduce the print qualit…",
           "link": "https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/",
           "publishedOn": "2021-06-02T10:48:15.000Z",
-          "wordCount": 669,
+          "wordCount": 675,
           "title": "You can now buy print version of my zines!"
         },
         {

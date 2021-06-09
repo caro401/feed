@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-08T00:50:54.822Z</id>
+    <id>urn:2021-06-09T00:33:09.210Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T00:50:54.822Z</updated>
+    <updated>2021-06-09T00:33:09.210Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PRODUCTS]]></title>
+        <id>https://puckpuck.me/collections/our-products</id>
+        <link href="https://puckpuck.me/collections/our-products"/>
+        <updated>2021-06-08T11:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Turn your Aeropress into a cold brew drip tower with PUCKPUCK. An easy and fun way to try cold dripped coffee at home or on the go!]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reasons why bugs might feel "impossible"]]></title>
+        <id>https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/</id>
+        <link href="https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/"/>
+        <updated>2021-06-08T09:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I’m very slowly
+working on writing a zine about debugging, so I asked on Twitter the other day:
+If you’ve run into a bug where it felt “impossible” to understand what was happening – what made it feel that way?
+Of course, bugs always happen for logical reasons, but I’ve definitely run into
+bugs that felt like they might be impossible for me to understand (until I
+figured them out!)
+I got about 400 responses, which I’ll try to summarize here. I’m not going to
+talk about how to deal with these various kinds of “impossible” bugs in this
+post, I’ll just try to classify them.
+Here are the categories I came up with for ways a bug might feel impossible
+to understand. Each one of them has a bunch of sub variants which are bolded below.
+it’s hard to reproduce
+you don’t understand the overall…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 thoughts on “Sleeves – without a sweater”]]></title>
         <id>https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli</id>
@@ -392,32 +424,6 @@ Let’s very briefly discu…]]></summary>
         <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
         <author>
             <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
