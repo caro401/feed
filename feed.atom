@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-09T00:33:09.210Z</id>
+    <id>urn:2021-06-10T00:32:04.724Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T00:33:09.210Z</updated>
+    <updated>2021-06-10T00:32:04.724Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a color scheme]]></title>
+        <id>https://web.dev/building-a-color-scheme?s=09</id>
+        <link href="https://web.dev/building-a-color-scheme?s=09"/>
+        <updated>2021-06-09T19:15:29.000Z</updated>
+        <summary type="html"><![CDATA[A foundational overview of how to establish a dynamic and configurable color scheme]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 IIIF Annual Conference]]></title>
+        <id>https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357</id>
+        <link href="https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357"/>
+        <updated>2021-06-09T15:36:17.000Z</updated>
+        <summary type="html"><![CDATA[The 2021 IIIF Annual Conference is free to attend.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Library Assistant | StJohns]]></title>
+        <id>https://joh.cam.ac.uk/library-assistant-0</id>
+        <link href="https://joh.cam.ac.uk/library-assistant-0"/>
+        <updated>2021-06-09T15:28:03.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketching User Experiences]]></title>
+        <id>https://sciencedirect.com/book/9780123740373/sketching-user-experiences</id>
+        <link href="https://sciencedirect.com/book/9780123740373/sketching-user-experiences"/>
+        <updated>2021-06-09T11:05:14.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRODUCTS]]></title>
         <id>https://puckpuck.me/collections/our-products</id>

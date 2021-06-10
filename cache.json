@@ -76,6 +76,42 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://web.dev/building-a-color-scheme?s=09",
+          "author": null,
+          "description": "A foundational overview of how to establish a dynamic and configurable color scheme",
+          "link": "https://web.dev/building-a-color-scheme?s=09",
+          "publishedOn": "2021-06-09T19:15:29.000Z",
+          "wordCount": 2121,
+          "title": "Building a color scheme"
+        },
+        {
+          "id": "https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357",
+          "author": null,
+          "description": "The 2021 IIIF Annual Conference is free to attend.",
+          "link": "https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357",
+          "publishedOn": "2021-06-09T15:36:17.000Z",
+          "wordCount": 587,
+          "title": "2021 IIIF Annual Conference"
+        },
+        {
+          "id": "https://joh.cam.ac.uk/library-assistant-0",
+          "author": null,
+          "description": "",
+          "link": "https://joh.cam.ac.uk/library-assistant-0",
+          "publishedOn": "2021-06-09T15:28:03.000Z",
+          "wordCount": null,
+          "title": "Library Assistant | StJohns"
+        },
+        {
+          "id": "https://sciencedirect.com/book/9780123740373/sketching-user-experiences",
+          "author": null,
+          "description": "",
+          "link": "https://sciencedirect.com/book/9780123740373/sketching-user-experiences",
+          "publishedOn": "2021-06-09T11:05:14.000Z",
+          "wordCount": 705,
+          "title": "Sketching User Experiences"
+        },
+        {
           "id": "https://puckpuck.me/collections/our-products",
           "author": null,
           "description": "Turn your Aeropress into a cold brew drip tower with PUCKPUCK. An easy and fun way to try cold dripped coffee at home or on the go!",
@@ -108,7 +144,7 @@
           "description": "Contribute to xZaR3y4p/Img_link_to_local_markdown development by creating an account on GitHub.",
           "link": "https://github.com/xZaR3y4p/Img_link_to_local_markdown",
           "publishedOn": "2021-06-07T15:39:08.000Z",
-          "wordCount": 835,
+          "wordCount": 834,
           "title": "Img_link_to_local_Markdown"
         },
         {
@@ -216,7 +252,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7504,
+          "wordCount": 7493,
           "title": "sw-yx/spark-joy"
         },
         {
