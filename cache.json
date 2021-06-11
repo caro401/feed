@@ -144,7 +144,7 @@
           "description": "Contribute to xZaR3y4p/Img_link_to_local_markdown development by creating an account on GitHub.",
           "link": "https://github.com/xZaR3y4p/Img_link_to_local_markdown",
           "publishedOn": "2021-06-07T15:39:08.000Z",
-          "wordCount": 834,
+          "wordCount": 813,
           "title": "Img_link_to_local_Markdown"
         },
         {
@@ -162,7 +162,7 @@
           "description": "A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 - KasperZutterman/Second-Brain",
           "link": "https://github.com/KasperZutterman/Second-Brain",
           "publishedOn": "2021-06-04T20:40:03.000Z",
-          "wordCount": 1055,
+          "wordCount": 1040,
           "title": "Second-Brain"
         },
         {
@@ -252,7 +252,7 @@
           "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
           "link": "https://github.com/sw-yx/spark-joy",
           "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7493,
+          "wordCount": 7510,
           "title": "sw-yx/spark-joy"
         },
         {
@@ -281,33 +281,6 @@
           "publishedOn": "2021-05-12T13:59:04.000Z",
           "wordCount": 1431,
           "title": "Fleece Washing"
-        },
-        {
-          "id": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "author": null,
-          "description": "Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...",
-          "link": "https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&utm_campaign=Issue-459&utm_medium=email",
-          "publishedOn": "2021-05-12T08:39:44.000Z",
-          "wordCount": 984,
-          "title": "Two options for using custom properties"
-        },
-        {
-          "id": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
-          "author": null,
-          "description": "Using my own design concepts as examples.",
-          "link": "https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84",
-          "publishedOn": "2021-05-11T13:56:58.000Z",
-          "wordCount": 903,
-          "title": "Top Common Mistakes UI/UX Designers Make"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "author": null,
-          "description": "Notes on building debugging puzzles",
-          "link": "https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles",
-          "publishedOn": "2021-05-11T13:41:33.000Z",
-          "wordCount": 2422,
-          "title": "Notes on building debugging puzzles"
         }
       ]
     },
@@ -351,15 +324,6 @@
           "publishedOn": "2021-05-17T09:14:37.000Z",
           "wordCount": 2505,
           "title": "How to look at the stack with gdb"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/",
-          "author": null,
-          "description": "TCP/IP is the set of networking protocols that we use on the modern internet –\nTCP, UDP, IP, ARP, ICMP, DNS, etc. When I talk about “networking”, I’m\nbasically always talking about TCP/IP.\nMany explanations of TCP/IP start with something called the “OSI model”. I\ndon’t use the OSI model when explaining networking because when I first\nstarted learning about internet networking I found all of the OSI model\nexplanations really confusing – it wasn’t clear to me at all how the OSI\nmodel corresponded to TCP/IP.\nSo if you’re just starting to learn about networking and you’re confused about\nthe OSI model, here’s an explanation of how it corresponds to TCP/IP, how\nit doesn’t, and why it’s safe to mostly just ignore it if you don’t find it helpful.\nthe OSI model has 7 layers\nLet’s very briefly discu…",
-          "link": "https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/",
-          "publishedOn": "2021-05-11T14:58:41.000Z",
-          "wordCount": 1047,
-          "title": "The OSI model doesn't map well to TCP/IP"
         }
       ]
     }

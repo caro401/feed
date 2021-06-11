@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-10T00:32:04.724Z</id>
+    <id>urn:2021-06-11T00:28:40.726Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:32:04.724Z</updated>
+    <updated>2021-06-11T00:28:40.726Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -408,58 +408,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <link href="https://journalwsd.org.uk/article/fleece-washing"/>
         <updated>2021-05-12T13:59:04.000Z</updated>
         <summary type="html"><![CDATA[Creating a finished item from a fleece is a rewarding experience. The start of this journey is washing the fleece but, with many approaches advocated, which is the best? This article is the result of two days of testing and describes a comparison of seven methods from various sources, referenced at the end of the article. A method of fleece washing based on these test results is proposed.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two options for using custom properties]]></title>
-        <id>https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email</id>
-        <link href="https://quirksmode.org/blog/archives/2021/05/two_options_for.html?utm_source=CSS-Weekly&amp;utm_campaign=Issue-459&amp;utm_medium=email"/>
-        <updated>2021-05-12T08:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Recently I interviewed Stefan Judis for my upcoming book. We discussed CSS custom properties, and something interesting happened. We had a period of a few minutes where we were talking past one another, because, as it turns out, we have...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The OSI model doesn't map well to TCP/IP]]></title>
-        <id>https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/</id>
-        <link href="https://jvns.ca/blog/2021/05/11/what-s-the-osi-model-/"/>
-        <updated>2021-05-11T14:58:41.000Z</updated>
-        <summary type="html"><![CDATA[TCP/IP is the set of networking protocols that we use on the modern internet –
-TCP, UDP, IP, ARP, ICMP, DNS, etc. When I talk about “networking”, I’m
-basically always talking about TCP/IP.
-Many explanations of TCP/IP start with something called the “OSI model”. I
-don’t use the OSI model when explaining networking because when I first
-started learning about internet networking I found all of the OSI model
-explanations really confusing – it wasn’t clear to me at all how the OSI
-model corresponded to TCP/IP.
-So if you’re just starting to learn about networking and you’re confused about
-the OSI model, here’s an explanation of how it corresponds to TCP/IP, how
-it doesn’t, and why it’s safe to mostly just ignore it if you don’t find it helpful.
-the OSI model has 7 layers
-Let’s very briefly discu…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Common Mistakes UI/UX Designers Make]]></title>
-        <id>https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84</id>
-        <link href="https://blog.prototypr.io/top-common-mistakes-ui-ux-designers-make-6e13bd891e84"/>
-        <updated>2021-05-11T13:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Using my own design concepts as examples.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on building debugging puzzles]]></title>
-        <id>https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles</id>
-        <link href="https://jvns.ca/blog/2021/04/16/notes-on-debugging-puzzles"/>
-        <updated>2021-05-11T13:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Notes on building debugging puzzles]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
