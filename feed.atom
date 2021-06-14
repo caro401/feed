@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-13T00:30:54.922Z</id>
+    <id>urn:2021-06-14T00:27:34.482Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T00:30:54.922Z</updated>
+    <updated>2021-06-14T00:27:34.482Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Definition of a Creator]]></title>
+        <id>https://armthecreators.com/the-definition-of-a-creator/amp?__twitter_impression=true&amp;s=09</id>
+        <link href="https://armthecreators.com/the-definition-of-a-creator/amp?__twitter_impression=true&amp;s=09"/>
+        <updated>2021-06-13T18:19:00.000Z</updated>
+        <summary type="html"><![CDATA[As "Creators" became the word to define a whole new generation of internet explorers, I asked myself what a creator really is. And I came up with a definition.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The pedantic checklist for changing your data model in a web application]]></title>
+        <id>https://rtpg.co/2021/06/07/changes-checklist.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762</id>
+        <link href="https://rtpg.co/2021/06/07/changes-checklist.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762"/>
+        <updated>2021-06-13T18:04:38.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clever vs Insightful Code]]></title>
+        <id>https://hillelwayne.com/post/cleverness?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762</id>
+        <link href="https://hillelwayne.com/post/cleverness?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762"/>
+        <updated>2021-06-13T18:04:31.000Z</updated>
+        <summary type="html"><![CDATA[“Don’t write clever code.” Why not? “Because it’s hard to understand.” People who say this think of clever code such as Duff’s Device:
+
+
+
+Duff's Device
+
+send(to, from, count) register short *to, *from; register count; { register n = (count + 7) / 8; switch (count % 8) { case 0: do { *to = *from++; case 7: *to = *from++; case 6: *to = *from++; case 5: *to = *from++; case 4: *to = *from++; case 3: *to = *from++; case 2: *to = *from++; case 1: *to = *from++; } while (--n > 0); } }  
+This code is “clever” because it exploits knowledge about the language, in this case the peculiarities of fall-through.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your E-Mail Validation Logic is Wrong]]></title>
+        <id>https://netmeister.org/blog/email.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762</id>
+        <link href="https://netmeister.org/blog/email.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762"/>
+        <updated>2021-06-13T18:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Nope,
+you don't know how to validate an email address. Even
+if you think you'd get the domain part right,
+fuggeddabout the local part. Seriously.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is The Contract Programmer Thing Right For You?]]></title>
+        <id>https://bigmachine.io/productions/going-solo/is-the-contract-programmer-thing-right-for-you</id>
+        <link href="https://bigmachine.io/productions/going-solo/is-the-contract-programmer-thing-right-for-you"/>
+        <updated>2021-06-13T17:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Going out on your own is, essentially, turning up the volume on your career. The good parts get better: freedom to choose what you do and when you do it. The bad parts get worse: you will be the worst boss you’ve ever had, and a simple mistake can greatly affect your income.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Your Business Plan]]></title>
+        <id>https://bigmachine.io/productions/going-solo/creating-your-business-plan</id>
+        <link href="https://bigmachine.io/productions/going-solo/creating-your-business-plan"/>
+        <updated>2021-06-13T17:53:22.000Z</updated>
+        <summary type="html"><![CDATA[We’ll take a look at how a business plan can help solidify what it is we want to do when we go out on our own. We’ll use a simple template, choose a business name and detail the market that we’re about to enter. Finally, we’ll consider where we want this business to end up.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Branding Your Solo Contracting Business]]></title>
+        <id>https://bigmachine.io/productions/going-solo/branding-your-solo-contracting-business</id>
+        <link href="https://bigmachine.io/productions/going-solo/branding-your-solo-contracting-business"/>
+        <updated>2021-06-13T17:53:19.000Z</updated>
+        <summary type="html"><![CDATA[You need to stand out and make your virtual self look sharp and competent. This isn't about physical looks, it's about how you present yourself to others and the care you take in making an impression. These things matter a lot and they don't take a whole lot of effort.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manage your student loan balance]]></title>
+        <id>https://gov.uk/sign-in-to-manage-your-student-loan-balance</id>
+        <link href="https://gov.uk/sign-in-to-manage-your-student-loan-balance"/>
+        <updated>2021-06-13T17:45:08.000Z</updated>
+        <summary type="html"><![CDATA[Sign in to your student loan repayment account - check your balance, make regular or one-off repayments, or let SLC know if your details have changed]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a color scheme]]></title>
         <id>https://web.dev/building-a-color-scheme?s=09</id>
