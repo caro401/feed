@@ -1,143 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-14T00:27:34.482Z</id>
+    <id>urn:2021-06-15T00:29:27.157Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:27:34.482Z</updated>
+    <updated>2021-06-15T00:29:27.157Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Definition of a Creator]]></title>
-        <id>https://armthecreators.com/the-definition-of-a-creator/amp?__twitter_impression=true&amp;s=09</id>
-        <link href="https://armthecreators.com/the-definition-of-a-creator/amp?__twitter_impression=true&amp;s=09"/>
-        <updated>2021-06-13T18:19:00.000Z</updated>
-        <summary type="html"><![CDATA[As "Creators" became the word to define a whole new generation of internet explorers, I asked myself what a creator really is. And I came up with a definition.]]></summary>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://nesslabs.com/from-note-taking-to-note-making?s=09</id>
+        <link href="https://nesslabs.com/from-note-taking-to-note-making?s=09"/>
+        <updated>2021-06-14T18:42:43.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The pedantic checklist for changing your data model in a web application]]></title>
-        <id>https://rtpg.co/2021/06/07/changes-checklist.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762</id>
-        <link href="https://rtpg.co/2021/06/07/changes-checklist.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762"/>
-        <updated>2021-06-13T18:04:38.000Z</updated>
+        <title type="html"><![CDATA[Tiny Projects]]></title>
+        <id>https://tinyprojects.dev</id>
+        <link href="https://tinyprojects.dev"/>
+        <updated>2021-06-14T17:44:02.000Z</updated>
+        <summary type="html"><![CDATA[A website about completing tiny programming projects.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clever vs Insightful Code]]></title>
-        <id>https://hillelwayne.com/post/cleverness?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762</id>
-        <link href="https://hillelwayne.com/post/cleverness?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762"/>
-        <updated>2021-06-13T18:04:31.000Z</updated>
-        <summary type="html"><![CDATA[“Don’t write clever code.” Why not? “Because it’s hard to understand.” People who say this think of clever code such as Duff’s Device:
-
-
-
-Duff's Device
-
-send(to, from, count) register short *to, *from; register count; { register n = (count + 7) / 8; switch (count % 8) { case 0: do { *to = *from++; case 7: *to = *from++; case 6: *to = *from++; case 5: *to = *from++; case 4: *to = *from++; case 3: *to = *from++; case 2: *to = *from++; case 1: *to = *from++; } while (--n > 0); } }  
-This code is “clever” because it exploits knowledge about the language, in this case the peculiarities of fall-through.]]></summary>
+        <title type="html"><![CDATA[Doubling my side hustle earnings - 2020/21 income report]]></title>
+        <id>https://charlimarie.com/blog/2021-income?s=09</id>
+        <link href="https://charlimarie.com/blog/2021-income?s=09"/>
+        <updated>2021-06-14T16:11:42.000Z</updated>
+        <summary type="html"><![CDATA[A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your E-Mail Validation Logic is Wrong]]></title>
-        <id>https://netmeister.org/blog/email.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762</id>
-        <link href="https://netmeister.org/blog/email.html?utm_source=Pointer&amp;utm_campaign=59ff3c525e-ISSUE_232_COPY_01&amp;utm_medium=email&amp;utm_term=0_6ba2b83261-59ff3c525e-602663762"/>
-        <updated>2021-06-13T18:04:29.000Z</updated>
-        <summary type="html"><![CDATA[Nope,
-you don't know how to validate an email address. Even
-if you think you'd get the domain part right,
-fuggeddabout the local part. Seriously.]]></summary>
+        <title type="html"><![CDATA[Elderflower cordial]]></title>
+        <id>https://rivercottage.net/recipes/elderflower-cordial</id>
+        <link href="https://rivercottage.net/recipes/elderflower-cordial"/>
+        <updated>2021-06-14T12:21:04.000Z</updated>
+        <summary type="html"><![CDATA[The sweetly scented, creamy-white flowers of the elder tree appear in abundance in hedgerows, scrub, woodlands and wasteland at the beginning of summer. The fresh flowers make a terrific aromatic cordial. They are best gathered just as the many tiny buds are beginning to open, and some are still closed. Gather on a warm, dry day (never when wet), checking the perfume is fresh and pleasing. Trees do differ and you will soon get to know the good ones. Remember to leave some flowers for elderberry picking later in the year.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Is The Contract Programmer Thing Right For You?]]></title>
-        <id>https://bigmachine.io/productions/going-solo/is-the-contract-programmer-thing-right-for-you</id>
-        <link href="https://bigmachine.io/productions/going-solo/is-the-contract-programmer-thing-right-for-you"/>
-        <updated>2021-06-13T17:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Going out on your own is, essentially, turning up the volume on your career. The good parts get better: freedom to choose what you do and when you do it. The bad parts get worse: you will be the worst boss you’ve ever had, and a simple mistake can greatly affect your income.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Your Business Plan]]></title>
-        <id>https://bigmachine.io/productions/going-solo/creating-your-business-plan</id>
-        <link href="https://bigmachine.io/productions/going-solo/creating-your-business-plan"/>
-        <updated>2021-06-13T17:53:22.000Z</updated>
-        <summary type="html"><![CDATA[We’ll take a look at how a business plan can help solidify what it is we want to do when we go out on our own. We’ll use a simple template, choose a business name and detail the market that we’re about to enter. Finally, we’ll consider where we want this business to end up.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Branding Your Solo Contracting Business]]></title>
-        <id>https://bigmachine.io/productions/going-solo/branding-your-solo-contracting-business</id>
-        <link href="https://bigmachine.io/productions/going-solo/branding-your-solo-contracting-business"/>
-        <updated>2021-06-13T17:53:19.000Z</updated>
-        <summary type="html"><![CDATA[You need to stand out and make your virtual self look sharp and competent. This isn't about physical looks, it's about how you present yourself to others and the care you take in making an impression. These things matter a lot and they don't take a whole lot of effort.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage your student loan balance]]></title>
-        <id>https://gov.uk/sign-in-to-manage-your-student-loan-balance</id>
-        <link href="https://gov.uk/sign-in-to-manage-your-student-loan-balance"/>
-        <updated>2021-06-13T17:45:08.000Z</updated>
-        <summary type="html"><![CDATA[Sign in to your student loan repayment account - check your balance, make regular or one-off repayments, or let SLC know if your details have changed]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a color scheme]]></title>
-        <id>https://web.dev/building-a-color-scheme?s=09</id>
-        <link href="https://web.dev/building-a-color-scheme?s=09"/>
-        <updated>2021-06-09T19:15:29.000Z</updated>
-        <summary type="html"><![CDATA[A foundational overview of how to establish a dynamic and configurable color scheme]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 IIIF Annual Conference]]></title>
-        <id>https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357</id>
-        <link href="https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357"/>
-        <updated>2021-06-09T15:36:17.000Z</updated>
-        <summary type="html"><![CDATA[The 2021 IIIF Annual Conference is free to attend.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Library Assistant | StJohns]]></title>
-        <id>https://joh.cam.ac.uk/library-assistant-0</id>
-        <link href="https://joh.cam.ac.uk/library-assistant-0"/>
-        <updated>2021-06-09T15:28:03.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketching User Experiences]]></title>
-        <id>https://sciencedirect.com/book/9780123740373/sketching-user-experiences</id>
-        <link href="https://sciencedirect.com/book/9780123740373/sketching-user-experiences"/>
-        <updated>2021-06-09T11:05:14.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRODUCTS]]></title>
-        <id>https://puckpuck.me/collections/our-products</id>
-        <link href="https://puckpuck.me/collections/our-products"/>
-        <updated>2021-06-08T11:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Turn your Aeropress into a cold brew drip tower with PUCKPUCK. An easy and fun way to try cold dripped coffee at home or on the go!]]></summary>
+        <title type="html"><![CDATA[A Chat with Henry Zhu on OSS &amp;amp; Gift Economies]]></title>
+        <id>https://maggieappleton.com/maintainers</id>
+        <link href="https://maggieappleton.com/maintainers"/>
+        <updated>2021-06-14T11:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Maggie is a designer, illustrator, and anthropologist. This is her digital garden for growing visual explanations about design, culture, and programming]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -162,66 +74,6 @@ it’s hard to reproduce
 you don’t understand the overall…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 thoughts on “Sleeves – without a sweater”]]></title>
-        <id>https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli</id>
-        <link href="https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli"/>
-        <updated>2021-06-07T19:10:19.000Z</updated>
-        <summary type="html"><![CDATA[Sleeves –  Handcuffs The feeling to pull sleeves over my hands, when it’s cold or I need it cozy, was one I missed a lot. Most sleeves are to short or I’m deforming them.To be able to pull them over my hands, when it’s cold or my hands are hurting, I knitted this Sleeves – … Continue reading "Sleeves – without a sweater"]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easing Gradients]]></title>
-        <id>https://larsenwork.com/easing-gradients?s=09</id>
-        <link href="https://larsenwork.com/easing-gradients?s=09"/>
-        <updated>2021-06-07T18:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Supercharge your gradients with non-linear color mix and custom color spaces.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Img_link_to_local_Markdown]]></title>
-        <id>https://github.com/xZaR3y4p/Img_link_to_local_markdown</id>
-        <link href="https://github.com/xZaR3y4p/Img_link_to_local_markdown"/>
-        <updated>2021-06-07T15:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Contribute to xZaR3y4p/Img_link_to_local_markdown development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Chat with Henry Zhu on OSS &amp;amp; Gift Economies]]></title>
-        <id>https://maggieappleton.com/maintainers</id>
-        <link href="https://maggieappleton.com/maintainers"/>
-        <updated>2021-06-07T13:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Maggie is a designer, illustrator, and anthropologist. This is her digital garden for growing visual explanations about design, culture, and programming]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Second-Brain]]></title>
-        <id>https://github.com/KasperZutterman/Second-Brain</id>
-        <link href="https://github.com/KasperZutterman/Second-Brain"/>
-        <updated>2021-06-04T20:40:03.000Z</updated>
-        <summary type="html"><![CDATA[A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 - KasperZutterman/Second-Brain]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog about what you&#039;ve struggled with]]></title>
-        <id>https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with</id>
-        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with"/>
-        <updated>2021-06-04T10:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Blog about what you've struggled with]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
@@ -465,28 +317,6 @@ int main() {
         <updated>2021-05-17T05:32:19.000Z</updated>
         <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

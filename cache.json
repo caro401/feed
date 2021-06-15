@@ -49,24 +49,6 @@
           "publishedOn": "2021-05-17T05:32:19.000Z",
           "wordCount": 336,
           "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
         }
       ]
     },
@@ -76,175 +58,49 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
-          "id": "https://armthecreators.com/the-definition-of-a-creator/amp?__twitter_impression=true&s=09",
-          "author": null,
-          "description": "As \"Creators\" became the word to define a whole new generation of internet explorers, I asked myself what a creator really is. And I came up with a definition.",
-          "link": "https://armthecreators.com/the-definition-of-a-creator/amp?__twitter_impression=true&s=09",
-          "publishedOn": "2021-06-13T18:19:00.000Z",
-          "wordCount": 1097,
-          "title": "The Definition of a Creator"
-        },
-        {
-          "id": "https://rtpg.co/2021/06/07/changes-checklist.html?utm_source=Pointer&utm_campaign=59ff3c525e-ISSUE_232_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-59ff3c525e-602663762",
+          "id": "https://nesslabs.com/from-note-taking-to-note-making?s=09",
           "author": null,
           "description": "",
-          "link": "https://rtpg.co/2021/06/07/changes-checklist.html?utm_source=Pointer&utm_campaign=59ff3c525e-ISSUE_232_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-59ff3c525e-602663762",
-          "publishedOn": "2021-06-13T18:04:38.000Z",
-          "wordCount": 1305,
-          "title": "The pedantic checklist for changing your data model in a web application"
-        },
-        {
-          "id": "https://hillelwayne.com/post/cleverness?utm_source=Pointer&utm_campaign=59ff3c525e-ISSUE_232_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-59ff3c525e-602663762",
-          "author": null,
-          "description": "“Don’t write clever code.” Why not? “Because it’s hard to understand.” People who say this think of clever code such as Duff’s Device:\n\n\n\nDuff's Device\n\nsend(to, from, count) register short *to, *from; register count; { register n = (count + 7) / 8; switch (count % 8) { case 0: do { *to = *from++; case 7: *to = *from++; case 6: *to = *from++; case 5: *to = *from++; case 4: *to = *from++; case 3: *to = *from++; case 2: *to = *from++; case 1: *to = *from++; } while (--n > 0); } }  \nThis code is “clever” because it exploits knowledge about the language, in this case the peculiarities of fall-through.",
-          "link": "https://hillelwayne.com/post/cleverness?utm_source=Pointer&utm_campaign=59ff3c525e-ISSUE_232_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-59ff3c525e-602663762",
-          "publishedOn": "2021-06-13T18:04:31.000Z",
-          "wordCount": 1882,
-          "title": "Clever vs Insightful Code"
-        },
-        {
-          "id": "https://netmeister.org/blog/email.html?utm_source=Pointer&utm_campaign=59ff3c525e-ISSUE_232_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-59ff3c525e-602663762",
-          "author": null,
-          "description": "Nope,\nyou don't know how to validate an email address. Even\nif you think you'd get the domain part right,\nfuggeddabout the local part. Seriously.",
-          "link": "https://netmeister.org/blog/email.html?utm_source=Pointer&utm_campaign=59ff3c525e-ISSUE_232_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-59ff3c525e-602663762",
-          "publishedOn": "2021-06-13T18:04:29.000Z",
-          "wordCount": 1873,
-          "title": "Your E-Mail Validation Logic is Wrong"
-        },
-        {
-          "id": "https://bigmachine.io/productions/going-solo/is-the-contract-programmer-thing-right-for-you",
-          "author": null,
-          "description": "Going out on your own is, essentially, turning up the volume on your career. The good parts get better: freedom to choose what you do and when you do it. The bad parts get worse: you will be the worst boss you’ve ever had, and a simple mistake can greatly affect your income.",
-          "link": "https://bigmachine.io/productions/going-solo/is-the-contract-programmer-thing-right-for-you",
-          "publishedOn": "2021-06-13T17:53:25.000Z",
-          "wordCount": 1002,
-          "title": "Is The Contract Programmer Thing Right For You?"
-        },
-        {
-          "id": "https://bigmachine.io/productions/going-solo/creating-your-business-plan",
-          "author": null,
-          "description": "We’ll take a look at how a business plan can help solidify what it is we want to do when we go out on our own. We’ll use a simple template, choose a business name and detail the market that we’re about to enter. Finally, we’ll consider where we want this business to end up.",
-          "link": "https://bigmachine.io/productions/going-solo/creating-your-business-plan",
-          "publishedOn": "2021-06-13T17:53:22.000Z",
-          "wordCount": 897,
-          "title": "Creating Your Business Plan"
-        },
-        {
-          "id": "https://bigmachine.io/productions/going-solo/branding-your-solo-contracting-business",
-          "author": null,
-          "description": "You need to stand out and make your virtual self look sharp and competent. This isn't about physical looks, it's about how you present yourself to others and the care you take in making an impression. These things matter a lot and they don't take a whole lot of effort.",
-          "link": "https://bigmachine.io/productions/going-solo/branding-your-solo-contracting-business",
-          "publishedOn": "2021-06-13T17:53:19.000Z",
-          "wordCount": 1012,
-          "title": "Branding Your Solo Contracting Business"
-        },
-        {
-          "id": "https://gov.uk/sign-in-to-manage-your-student-loan-balance",
-          "author": null,
-          "description": "Sign in to your student loan repayment account - check your balance, make regular or one-off repayments, or let SLC know if your details have changed",
-          "link": "https://gov.uk/sign-in-to-manage-your-student-loan-balance",
-          "publishedOn": "2021-06-13T17:45:08.000Z",
-          "wordCount": 565,
-          "title": "Manage your student loan balance"
-        },
-        {
-          "id": "https://web.dev/building-a-color-scheme?s=09",
-          "author": null,
-          "description": "A foundational overview of how to establish a dynamic and configurable color scheme",
-          "link": "https://web.dev/building-a-color-scheme?s=09",
-          "publishedOn": "2021-06-09T19:15:29.000Z",
-          "wordCount": 2121,
-          "title": "Building a color scheme"
-        },
-        {
-          "id": "https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357",
-          "author": null,
-          "description": "The 2021 IIIF Annual Conference is free to attend.",
-          "link": "https://eventbrite.com/e/2021-iiif-annual-conference-registration-150096060357",
-          "publishedOn": "2021-06-09T15:36:17.000Z",
-          "wordCount": 587,
-          "title": "2021 IIIF Annual Conference"
-        },
-        {
-          "id": "https://joh.cam.ac.uk/library-assistant-0",
-          "author": null,
-          "description": "",
-          "link": "https://joh.cam.ac.uk/library-assistant-0",
-          "publishedOn": "2021-06-09T15:28:03.000Z",
+          "link": "https://nesslabs.com/from-note-taking-to-note-making?s=09",
+          "publishedOn": "2021-06-14T18:42:43.000Z",
           "wordCount": null,
-          "title": "Library Assistant | StJohns"
+          "title": "Untitled"
         },
         {
-          "id": "https://sciencedirect.com/book/9780123740373/sketching-user-experiences",
+          "id": "https://tinyprojects.dev",
           "author": null,
-          "description": "",
-          "link": "https://sciencedirect.com/book/9780123740373/sketching-user-experiences",
-          "publishedOn": "2021-06-09T11:05:14.000Z",
-          "wordCount": 705,
-          "title": "Sketching User Experiences"
+          "description": "A website about completing tiny programming projects.",
+          "link": "https://tinyprojects.dev",
+          "publishedOn": "2021-06-14T17:44:02.000Z",
+          "wordCount": 259,
+          "title": "Tiny Projects"
         },
         {
-          "id": "https://puckpuck.me/collections/our-products",
+          "id": "https://charlimarie.com/blog/2021-income?s=09",
           "author": null,
-          "description": "Turn your Aeropress into a cold brew drip tower with PUCKPUCK. An easy and fun way to try cold dripped coffee at home or on the go!",
-          "link": "https://puckpuck.me/collections/our-products",
-          "publishedOn": "2021-06-08T11:46:38.000Z",
-          "wordCount": 160,
-          "title": "PRODUCTS"
+          "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
+          "link": "https://charlimarie.com/blog/2021-income?s=09",
+          "publishedOn": "2021-06-14T16:11:42.000Z",
+          "wordCount": 2635,
+          "title": "Doubling my side hustle earnings - 2020/21 income report"
         },
         {
-          "id": "https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli",
+          "id": "https://rivercottage.net/recipes/elderflower-cordial",
           "author": null,
-          "description": "Sleeves –  Handcuffs The feeling to pull sleeves over my hands, when it’s cold or I need it cozy, was one I missed a lot. Most sleeves are to short or I’m deforming them.To be able to pull them over my hands, when it’s cold or my hands are hurting, I knitted this Sleeves – … Continue reading \"Sleeves – without a sweater\"",
-          "link": "https://wollinger-knitting.de/2018/12/09/sleeves-aermel-ohne-pulli",
-          "publishedOn": "2021-06-07T19:10:19.000Z",
-          "wordCount": 791,
-          "title": "4 thoughts on “Sleeves – without a sweater”"
-        },
-        {
-          "id": "https://larsenwork.com/easing-gradients?s=09",
-          "author": null,
-          "description": "Supercharge your gradients with non-linear color mix and custom color spaces.",
-          "link": "https://larsenwork.com/easing-gradients?s=09",
-          "publishedOn": "2021-06-07T18:08:12.000Z",
-          "wordCount": 478,
-          "title": "Easing Gradients"
-        },
-        {
-          "id": "https://github.com/xZaR3y4p/Img_link_to_local_markdown",
-          "author": null,
-          "description": "Contribute to xZaR3y4p/Img_link_to_local_markdown development by creating an account on GitHub.",
-          "link": "https://github.com/xZaR3y4p/Img_link_to_local_markdown",
-          "publishedOn": "2021-06-07T15:39:08.000Z",
-          "wordCount": 851,
-          "title": "Img_link_to_local_Markdown"
+          "description": "The sweetly scented, creamy-white flowers of the elder tree appear in abundance in hedgerows, scrub, woodlands and wasteland at the beginning of summer. The fresh flowers make a terrific aromatic cordial. They are best gathered just as the many tiny buds are beginning to open, and some are still closed. Gather on a warm, dry day (never when wet), checking the perfume is fresh and pleasing. Trees do differ and you will soon get to know the good ones. Remember to leave some flowers for elderberry picking later in the year.",
+          "link": "https://rivercottage.net/recipes/elderflower-cordial",
+          "publishedOn": "2021-06-14T12:21:04.000Z",
+          "wordCount": 598,
+          "title": "Elderflower cordial"
         },
         {
           "id": "https://maggieappleton.com/maintainers",
           "author": null,
           "description": "Maggie is a designer, illustrator, and anthropologist. This is her digital garden for growing visual explanations about design, culture, and programming",
           "link": "https://maggieappleton.com/maintainers",
-          "publishedOn": "2021-06-07T13:52:03.000Z",
+          "publishedOn": "2021-06-14T11:13:19.000Z",
           "wordCount": 887,
           "title": "A Chat with Henry Zhu on OSS &amp;amp; Gift Economies"
-        },
-        {
-          "id": "https://github.com/KasperZutterman/Second-Brain",
-          "author": null,
-          "description": "A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱 - KasperZutterman/Second-Brain",
-          "link": "https://github.com/KasperZutterman/Second-Brain",
-          "publishedOn": "2021-06-04T20:40:03.000Z",
-          "wordCount": 1055,
-          "title": "Second-Brain"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with",
-          "author": null,
-          "description": "Blog about what you've struggled with",
-          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with",
-          "publishedOn": "2021-06-04T10:51:59.000Z",
-          "wordCount": 1878,
-          "title": "Blog about what you&#039;ve struggled with"
         },
         {
           "id": "https://youtu.be/8snrXgzM1bM",
