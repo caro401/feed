@@ -40,15 +40,6 @@
           "publishedOn": "2021-05-23T05:12:08.000Z",
           "wordCount": 341,
           "title": "v1.8.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "author": null,
-          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 336,
-          "title": "v1.7.2"
         }
       ]
     },
@@ -57,6 +48,69 @@
       "feedUrl": "http://getpocket.com/users/*sso1503093515801537/feed/unread",
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
+        {
+          "id": "https://miro.com/app/board/o9J_lEwGSa8=",
+          "author": null,
+          "description": "",
+          "link": "https://miro.com/app/board/o9J_lEwGSa8=",
+          "publishedOn": "2021-06-15T15:20:02.000Z",
+          "wordCount": 15,
+          "title": "BASB 12"
+        },
+        {
+          "id": "https://youtube.com/watch?v=uiZqDLqjGRY&list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&index=6",
+          "author": null,
+          "description": "In today’s GUI challenge we create a responsive, accessible slide out side navigation user experience using CSS and JS. The sidenav works on multiple browser...",
+          "link": "https://youtube.com/watch?v=uiZqDLqjGRY&list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&index=6",
+          "publishedOn": "2021-06-15T14:43:02.000Z",
+          "wordCount": 19,
+          "title": "Thinking on ways to solve a SIDENAV"
+        },
+        {
+          "id": "https://boringavatars.com",
+          "author": null,
+          "description": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.",
+          "link": "https://boringavatars.com",
+          "publishedOn": "2021-06-15T14:19:53.000Z",
+          "wordCount": 14,
+          "title": "Avatar generator playground - Boring Avatars"
+        },
+        {
+          "id": "https://inclusivedesignprinciples.org?utm_source=CSS-Weekly&utm_campaign=Issue-462&utm_medium=email",
+          "author": null,
+          "description": "",
+          "link": "https://inclusivedesignprinciples.org?utm_source=CSS-Weekly&utm_campaign=Issue-462&utm_medium=email",
+          "publishedOn": "2021-06-15T14:19:34.000Z",
+          "wordCount": 1473,
+          "title": "Inclusive Design Principles"
+        },
+        {
+          "id": "https://audreybriot.fr?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://audreybriot.fr?s=09",
+          "publishedOn": "2021-06-15T14:10:26.000Z",
+          "wordCount": 495,
+          "title": "Audrey Briot"
+        },
+        {
+          "id": "https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09",
+          "author": null,
+          "description": "Developers understand that marketing is beneficial, but can be put off by marketing tactics that seem more focused on making a sale than with sharing something they need or value. But self-promotion doesn’t have to be self-centered, and marketing content can, and should, be relevant to what software developers have created.\n\nLearn how developers successfully use marketing to spread the word about their projects, blogs, and more, often without trying to sell anything.",
+          "link": "https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09",
+          "publishedOn": "2021-06-15T14:08:30.000Z",
+          "wordCount": 97,
+          "title": "Marketing Tactics for Software Developers"
+        },
+        {
+          "id": "https://youtube.com/watch?v=EeowFfR9Bqs",
+          "author": null,
+          "description": "This is a live webinar all about procrastination (one of my favorite topics!)We will discuss:- What procrastination is and why we all do it- The many differe...",
+          "link": "https://youtube.com/watch?v=EeowFfR9Bqs",
+          "publishedOn": "2021-06-15T11:16:45.000Z",
+          "wordCount": 23,
+          "title": "Procrastination - Why we do it and how to beat it"
+        },
         {
           "id": "https://nesslabs.com/from-note-taking-to-note-making?s=09",
           "author": null,
@@ -81,7 +135,7 @@
           "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
           "link": "https://charlimarie.com/blog/2021-income?s=09",
           "publishedOn": "2021-06-14T16:11:42.000Z",
-          "wordCount": 2635,
+          "wordCount": 2651,
           "title": "Doubling my side hustle earnings - 2020/21 income report"
         },
         {
@@ -234,15 +288,6 @@
           "publishedOn": "2021-05-24T13:59:07.000Z",
           "wordCount": 1878,
           "title": "Blog about what you've struggled with"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-          "author": null,
-          "description": "I was chatting with someone yesterday and they mentioned that they don’t really\nunderstand exactly how the stack works or how to look at it.\nSo here’s a quick walkthrough of how you can use gdb to look at the stack of a C\nprogram. I think this would be similar for a Rust program, but I’m going to use\nC because I find it a little simpler for a toy example and also you can do Terrible\nThings in C more easily.\nour test program\nHere’s a simple C program that declares a few variables and reads two strings\nfrom standard input. One of the strings is on the heap, and one is on the\nstack.\n#include <stdio.h>\n#include <stdlib.h>\n\nint main() {\n    char stack_string[10] = \"stack\";\n    int x = 10;\n    char *heap_string;\n\n    heap_string = malloc(50);\n\n    printf(\"Enter a string for the stack: \");\n    ge…",
-          "link": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-          "publishedOn": "2021-05-17T09:14:37.000Z",
-          "wordCount": 2505,
-          "title": "How to look at the stack with gdb"
         }
       ]
     }

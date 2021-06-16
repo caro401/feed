@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-15T00:29:27.157Z</id>
+    <id>urn:2021-06-16T00:29:51.923Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T00:29:27.157Z</updated>
+    <updated>2021-06-16T00:29:51.923Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BASB 12]]></title>
+        <id>https://miro.com/app/board/o9J_lEwGSa8=</id>
+        <link href="https://miro.com/app/board/o9J_lEwGSa8="/>
+        <updated>2021-06-15T15:20:02.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking on ways to solve a SIDENAV]]></title>
+        <id>https://youtube.com/watch?v=uiZqDLqjGRY&amp;list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&amp;index=6</id>
+        <link href="https://youtube.com/watch?v=uiZqDLqjGRY&amp;list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&amp;index=6"/>
+        <updated>2021-06-15T14:43:02.000Z</updated>
+        <summary type="html"><![CDATA[In today’s GUI challenge we create a responsive, accessible slide out side navigation user experience using CSS and JS. The sidenav works on multiple browser...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avatar generator playground - Boring Avatars]]></title>
+        <id>https://boringavatars.com</id>
+        <link href="https://boringavatars.com"/>
+        <updated>2021-06-15T14:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inclusive Design Principles]]></title>
+        <id>https://inclusivedesignprinciples.org?utm_source=CSS-Weekly&amp;utm_campaign=Issue-462&amp;utm_medium=email</id>
+        <link href="https://inclusivedesignprinciples.org?utm_source=CSS-Weekly&amp;utm_campaign=Issue-462&amp;utm_medium=email"/>
+        <updated>2021-06-15T14:19:34.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audrey Briot]]></title>
+        <id>https://audreybriot.fr?s=09</id>
+        <link href="https://audreybriot.fr?s=09"/>
+        <updated>2021-06-15T14:10:26.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marketing Tactics for Software Developers]]></title>
+        <id>https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09</id>
+        <link href="https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09"/>
+        <updated>2021-06-15T14:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Developers understand that marketing is beneficial, but can be put off by marketing tactics that seem more focused on making a sale than with sharing something they need or value. But self-promotion doesn’t have to be self-centered, and marketing content can, and should, be relevant to what software developers have created.
+
+Learn how developers successfully use marketing to spread the word about their projects, blogs, and more, often without trying to sell anything.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procrastination - Why we do it and how to beat it]]></title>
+        <id>https://youtube.com/watch?v=EeowFfR9Bqs</id>
+        <link href="https://youtube.com/watch?v=EeowFfR9Bqs"/>
+        <updated>2021-06-15T11:16:45.000Z</updated>
+        <summary type="html"><![CDATA[This is a live webinar all about procrastination (one of my favorite topics!)We will discuss:- What procrastination is and why we all do it- The many differe...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://nesslabs.com/from-note-taking-to-note-making?s=09</id>
@@ -277,48 +346,6 @@ Thank you: @LooperXX.]]></summary>
         <summary type="html"><![CDATA[For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to look at the stack with gdb]]></title>
-        <id>https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/</id>
-        <link href="https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/"/>
-        <updated>2021-05-17T09:14:37.000Z</updated>
-        <summary type="html"><![CDATA[I was chatting with someone yesterday and they mentioned that they don’t really
-understand exactly how the stack works or how to look at it.
-So here’s a quick walkthrough of how you can use gdb to look at the stack of a C
-program. I think this would be similar for a Rust program, but I’m going to use
-C because I find it a little simpler for a toy example and also you can do Terrible
-Things in C more easily.
-our test program
-Here’s a simple C program that declares a few variables and reads two strings
-from standard input. One of the strings is on the heap, and one is on the
-stack.
-#include <stdio.h>
-#include <stdlib.h>
-
-int main() {
-    char stack_string[10] = "stack";
-    int x = 10;
-    char *heap_string;
-
-    heap_string = malloc(50);
-
-    printf("Enter a string for the stack: ");
-    ge…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
-        <updated>2021-05-17T05:32:19.000Z</updated>
-        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
-Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
