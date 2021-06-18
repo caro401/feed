@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-17T00:27:00.970Z</id>
+    <id>urn:2021-06-18T00:28:30.839Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:27:00.970Z</updated>
+    <updated>2021-06-18T00:28:30.839Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deploy Empathy]]></title>
+        <id>https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll</id>
+        <link href="https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll"/>
+        <updated>2021-06-17T13:55:25.000Z</updated>
+        <summary type="html"><![CDATA[A practical guide for talking to customers]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramp-up to any codebase at super speed]]></title>
+        <id>https://swimm.io</id>
+        <link href="https://swimm.io"/>
+        <updated>2021-06-17T10:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Never let onboarding, outdated documents, or project switching slow you down. Swimm keeps development smooth with smart docs that are always synced with your code.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Word - Ackoff - DataWisdom.pdf]]></title>
         <id>https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf</id>
