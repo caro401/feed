@@ -49,12 +49,39 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://codepen.io/denic/pen/YzZgrob?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://codepen.io/denic/pen/YzZgrob?s=09",
+          "publishedOn": "2021-06-18T12:04:46.000Z",
+          "wordCount": null,
+          "title": "Untitled"
+        },
+        {
+          "id": "https://codepen.io/denic/pen/YzZgrob?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://codepen.io/denic/pen/YzZgrob?s=09",
+          "publishedOn": "2021-06-18T12:04:44.000Z",
+          "wordCount": null,
+          "title": "Untitled"
+        },
+        {
+          "id": "https://github.com/deniseyu/crochet-programming?s=09",
+          "author": null,
+          "description": "notes for a new talk. Contribute to deniseyu/crochet-programming development by creating an account on GitHub.",
+          "link": "https://github.com/deniseyu/crochet-programming?s=09",
+          "publishedOn": "2021-06-18T08:09:54.000Z",
+          "wordCount": 3246,
+          "title": "Talk info"
+        },
+        {
           "id": "https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll",
           "author": null,
           "description": "A practical guide for talking to customers",
           "link": "https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll",
           "publishedOn": "2021-06-17T13:55:25.000Z",
-          "wordCount": 1264,
+          "wordCount": 1263,
           "title": "Deploy Empathy"
         },
         {
@@ -171,7 +198,7 @@
           "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
           "link": "https://charlimarie.com/blog/2021-income?s=09",
           "publishedOn": "2021-06-14T16:11:42.000Z",
-          "wordCount": 2657,
+          "wordCount": 2635,
           "title": "Doubling my side hustle earnings - 2020/21 income report"
         },
         {
@@ -281,15 +308,6 @@
           "publishedOn": "2021-05-20T14:22:07.000Z",
           "wordCount": 2191,
           "title": "Wiki workflow"
-        },
-        {
-          "id": "https://youtube.com/watch?v=0lqyYJl9vuM",
-          "author": null,
-          "description": "For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...",
-          "link": "https://youtube.com/watch?v=0lqyYJl9vuM",
-          "publishedOn": "2021-05-20T12:01:25.000Z",
-          "wordCount": 17,
-          "title": "Kris Howard - Knitted Disruption"
         }
       ]
     },

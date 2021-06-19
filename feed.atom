@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-18T00:28:30.839Z</id>
+    <id>urn:2021-06-19T00:28:48.154Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T00:28:30.839Z</updated>
+    <updated>2021-06-19T00:28:48.154Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://codepen.io/denic/pen/YzZgrob?s=09</id>
+        <link href="https://codepen.io/denic/pen/YzZgrob?s=09"/>
+        <updated>2021-06-18T12:04:46.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://codepen.io/denic/pen/YzZgrob?s=09</id>
+        <link href="https://codepen.io/denic/pen/YzZgrob?s=09"/>
+        <updated>2021-06-18T12:04:44.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talk info]]></title>
+        <id>https://github.com/deniseyu/crochet-programming?s=09</id>
+        <link href="https://github.com/deniseyu/crochet-programming?s=09"/>
+        <updated>2021-06-18T08:09:54.000Z</updated>
+        <summary type="html"><![CDATA[notes for a new talk. Contribute to deniseyu/crochet-programming development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploy Empathy]]></title>
         <id>https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll</id>
@@ -373,16 +401,6 @@ Thank you: @LooperXX.]]></summary>
         <id>https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked</id>
         <link href="https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked"/>
         <updated>2021-05-20T14:22:07.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kris Howard - Knitted Disruption]]></title>
-        <id>https://youtube.com/watch?v=0lqyYJl9vuM</id>
-        <link href="https://youtube.com/watch?v=0lqyYJl9vuM"/>
-        <updated>2021-05-20T12:01:25.000Z</updated>
-        <summary type="html"><![CDATA[For those versed in both technology and craft, knitting patterns are just another form of programming language. An experienced knitter can reverse engineer m...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
