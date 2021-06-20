@@ -49,40 +49,22 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
-          "id": "https://codepen.io/denic/pen/YzZgrob?s=09",
+          "id": "https://nesslabs.com/from-note-taking-to-note-making",
           "author": null,
-          "description": "",
-          "link": "https://codepen.io/denic/pen/YzZgrob?s=09",
-          "publishedOn": "2021-06-18T12:04:46.000Z",
-          "wordCount": null,
-          "title": "Untitled"
+          "description": "Note-taking is fast, uses the original author's language, and feels easier. Note-making is slower, more involved, and uses your own language.",
+          "link": "https://nesslabs.com/from-note-taking-to-note-making",
+          "publishedOn": "2021-06-19T11:26:17.000Z",
+          "wordCount": 1144,
+          "title": "From note-taking to note-making"
         },
         {
-          "id": "https://codepen.io/denic/pen/YzZgrob?s=09",
+          "id": "https://notion.so/Deploy-Empathy-Scripts-and-Templates-94a2666a72204a77b63664e5984e28f1",
           "author": null,
-          "description": "",
-          "link": "https://codepen.io/denic/pen/YzZgrob?s=09",
-          "publishedOn": "2021-06-18T12:04:44.000Z",
-          "wordCount": null,
-          "title": "Untitled"
-        },
-        {
-          "id": "https://github.com/deniseyu/crochet-programming?s=09",
-          "author": null,
-          "description": "notes for a new talk. Contribute to deniseyu/crochet-programming development by creating an account on GitHub.",
-          "link": "https://github.com/deniseyu/crochet-programming?s=09",
-          "publishedOn": "2021-06-18T08:09:54.000Z",
-          "wordCount": 3246,
-          "title": "Talk info"
-        },
-        {
-          "id": "https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll",
-          "author": null,
-          "description": "A practical guide for talking to customers",
-          "link": "https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll",
-          "publishedOn": "2021-06-17T13:55:25.000Z",
-          "wordCount": 1263,
-          "title": "Deploy Empathy"
+          "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+          "link": "https://notion.so/Deploy-Empathy-Scripts-and-Templates-94a2666a72204a77b63664e5984e28f1",
+          "publishedOn": "2021-06-19T10:39:58.000Z",
+          "wordCount": 12,
+          "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
         },
         {
           "id": "https://swimm.io",
@@ -92,33 +74,6 @@
           "publishedOn": "2021-06-17T10:18:21.000Z",
           "wordCount": 558,
           "title": "Ramp-up to any codebase at super speed"
-        },
-        {
-          "id": "https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf",
-          "author": null,
-          "description": "",
-          "link": "https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf",
-          "publishedOn": "2021-06-16T13:13:38.000Z",
-          "wordCount": 1370,
-          "title": "Microsoft Word - Ackoff - DataWisdom.pdf"
-        },
-        {
-          "id": "https://github.com/alyssaxuu/carden?s=09",
-          "author": null,
-          "description": "Flashcards with spaced repetition and gamification 🌱 - alyssaxuu/carden",
-          "link": "https://github.com/alyssaxuu/carden?s=09",
-          "publishedOn": "2021-06-16T12:40:24.000Z",
-          "wordCount": 850,
-          "title": "Carden"
-        },
-        {
-          "id": "https://miro.com/app/board/o9J_lEwGSa8=",
-          "author": null,
-          "description": "",
-          "link": "https://miro.com/app/board/o9J_lEwGSa8=",
-          "publishedOn": "2021-06-15T15:20:02.000Z",
-          "wordCount": 15,
-          "title": "BASB 12"
         },
         {
           "id": "https://youtube.com/watch?v=uiZqDLqjGRY&list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&index=6",
@@ -148,15 +103,6 @@
           "title": "Inclusive Design Principles"
         },
         {
-          "id": "https://audreybriot.fr?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://audreybriot.fr?s=09",
-          "publishedOn": "2021-06-15T14:10:26.000Z",
-          "wordCount": 495,
-          "title": "Audrey Briot"
-        },
-        {
           "id": "https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09",
           "author": null,
           "description": "Developers understand that marketing is beneficial, but can be put off by marketing tactics that seem more focused on making a sale than with sharing something they need or value. But self-promotion doesn’t have to be self-centered, and marketing content can, and should, be relevant to what software developers have created.\n\nLearn how developers successfully use marketing to spread the word about their projects, blogs, and more, often without trying to sell anything.",
@@ -166,49 +112,13 @@
           "title": "Marketing Tactics for Software Developers"
         },
         {
-          "id": "https://youtube.com/watch?v=EeowFfR9Bqs",
-          "author": null,
-          "description": "This is a live webinar all about procrastination (one of my favorite topics!)We will discuss:- What procrastination is and why we all do it- The many differe...",
-          "link": "https://youtube.com/watch?v=EeowFfR9Bqs",
-          "publishedOn": "2021-06-15T11:16:45.000Z",
-          "wordCount": 23,
-          "title": "Procrastination - Why we do it and how to beat it"
-        },
-        {
-          "id": "https://nesslabs.com/from-note-taking-to-note-making?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://nesslabs.com/from-note-taking-to-note-making?s=09",
-          "publishedOn": "2021-06-14T18:42:43.000Z",
-          "wordCount": null,
-          "title": "Untitled"
-        },
-        {
-          "id": "https://tinyprojects.dev",
-          "author": null,
-          "description": "A website about completing tiny programming projects.",
-          "link": "https://tinyprojects.dev",
-          "publishedOn": "2021-06-14T17:44:02.000Z",
-          "wordCount": 259,
-          "title": "Tiny Projects"
-        },
-        {
           "id": "https://charlimarie.com/blog/2021-income?s=09",
           "author": null,
           "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
           "link": "https://charlimarie.com/blog/2021-income?s=09",
           "publishedOn": "2021-06-14T16:11:42.000Z",
-          "wordCount": 2635,
+          "wordCount": 2620,
           "title": "Doubling my side hustle earnings - 2020/21 income report"
-        },
-        {
-          "id": "https://rivercottage.net/recipes/elderflower-cordial",
-          "author": null,
-          "description": "The sweetly scented, creamy-white flowers of the elder tree appear in abundance in hedgerows, scrub, woodlands and wasteland at the beginning of summer. The fresh flowers make a terrific aromatic cordial. They are best gathered just as the many tiny buds are beginning to open, and some are still closed. Gather on a warm, dry day (never when wet), checking the perfume is fresh and pleasing. Trees do differ and you will soon get to know the good ones. Remember to leave some flowers for elderberry picking later in the year.",
-          "link": "https://rivercottage.net/recipes/elderflower-cordial",
-          "publishedOn": "2021-06-14T12:21:04.000Z",
-          "wordCount": 598,
-          "title": "Elderflower cordial"
         },
         {
           "id": "https://maggieappleton.com/maintainers",
@@ -281,33 +191,6 @@
           "publishedOn": "2021-05-21T15:36:58.000Z",
           "wordCount": 1041,
           "title": "Learn CSS"
-        },
-        {
-          "id": "https://citeproc-js.readthedocs.io/en/latest/deployments.html",
-          "author": null,
-          "description": "",
-          "link": "https://citeproc-js.readthedocs.io/en/latest/deployments.html",
-          "publishedOn": "2021-05-20T16:26:03.000Z",
-          "wordCount": 593,
-          "title": "Demo: Standalone Bibliography"
-        },
-        {
-          "id": "https://github.com/sw-yx/spark-joy",
-          "author": null,
-          "description": "✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy",
-          "link": "https://github.com/sw-yx/spark-joy",
-          "publishedOn": "2021-05-20T14:23:47.000Z",
-          "wordCount": 7510,
-          "title": "sw-yx/spark-joy"
-        },
-        {
-          "id": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
-          "author": null,
-          "description": "",
-          "link": "https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked",
-          "publishedOn": "2021-05-20T14:22:07.000Z",
-          "wordCount": 2191,
-          "title": "Wiki workflow"
         }
       ]
     },

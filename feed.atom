@@ -1,44 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-19T00:28:48.154Z</id>
+    <id>urn:2021-06-20T00:30:41.306Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-19T00:28:48.154Z</updated>
+    <updated>2021-06-20T00:30:41.306Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://codepen.io/denic/pen/YzZgrob?s=09</id>
-        <link href="https://codepen.io/denic/pen/YzZgrob?s=09"/>
-        <updated>2021-06-18T12:04:46.000Z</updated>
+        <title type="html"><![CDATA[From note-taking to note-making]]></title>
+        <id>https://nesslabs.com/from-note-taking-to-note-making</id>
+        <link href="https://nesslabs.com/from-note-taking-to-note-making"/>
+        <updated>2021-06-19T11:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Note-taking is fast, uses the original author's language, and feels easier. Note-making is slower, more involved, and uses your own language.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://codepen.io/denic/pen/YzZgrob?s=09</id>
-        <link href="https://codepen.io/denic/pen/YzZgrob?s=09"/>
-        <updated>2021-06-18T12:04:44.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk info]]></title>
-        <id>https://github.com/deniseyu/crochet-programming?s=09</id>
-        <link href="https://github.com/deniseyu/crochet-programming?s=09"/>
-        <updated>2021-06-18T08:09:54.000Z</updated>
-        <summary type="html"><![CDATA[notes for a new talk. Contribute to deniseyu/crochet-programming development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deploy Empathy]]></title>
-        <id>https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll</id>
-        <link href="https://learnetto.com/users/michele/courses/deploy-empathy?s=09#enroll"/>
-        <updated>2021-06-17T13:55:25.000Z</updated>
-        <summary type="html"><![CDATA[A practical guide for talking to customers]]></summary>
+        <title type="html"><![CDATA[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.]]></title>
+        <id>https://notion.so/Deploy-Empathy-Scripts-and-Templates-94a2666a72204a77b63664e5984e28f1</id>
+        <link href="https://notion.so/Deploy-Empathy-Scripts-and-Templates-94a2666a72204a77b63664e5984e28f1"/>
+        <updated>2021-06-19T10:39:58.000Z</updated>
+        <summary type="html"><![CDATA[A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -49,34 +31,6 @@
         <link href="https://swimm.io"/>
         <updated>2021-06-17T10:18:21.000Z</updated>
         <summary type="html"><![CDATA[Never let onboarding, outdated documents, or project switching slow you down. Swimm keeps development smooth with smart docs that are always synced with your code.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Word - Ackoff - DataWisdom.pdf]]></title>
-        <id>https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf</id>
-        <link href="https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf"/>
-        <updated>2021-06-16T13:13:38.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carden]]></title>
-        <id>https://github.com/alyssaxuu/carden?s=09</id>
-        <link href="https://github.com/alyssaxuu/carden?s=09"/>
-        <updated>2021-06-16T12:40:24.000Z</updated>
-        <summary type="html"><![CDATA[Flashcards with spaced repetition and gamification 🌱 - alyssaxuu/carden]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BASB 12]]></title>
-        <id>https://miro.com/app/board/o9J_lEwGSa8=</id>
-        <link href="https://miro.com/app/board/o9J_lEwGSa8="/>
-        <updated>2021-06-15T15:20:02.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -111,15 +65,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audrey Briot]]></title>
-        <id>https://audreybriot.fr?s=09</id>
-        <link href="https://audreybriot.fr?s=09"/>
-        <updated>2021-06-15T14:10:26.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Marketing Tactics for Software Developers]]></title>
         <id>https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09</id>
         <link href="https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09"/>
@@ -132,50 +77,11 @@ Learn how developers successfully use marketing to spread the word about their p
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Procrastination - Why we do it and how to beat it]]></title>
-        <id>https://youtube.com/watch?v=EeowFfR9Bqs</id>
-        <link href="https://youtube.com/watch?v=EeowFfR9Bqs"/>
-        <updated>2021-06-15T11:16:45.000Z</updated>
-        <summary type="html"><![CDATA[This is a live webinar all about procrastination (one of my favorite topics!)We will discuss:- What procrastination is and why we all do it- The many differe...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://nesslabs.com/from-note-taking-to-note-making?s=09</id>
-        <link href="https://nesslabs.com/from-note-taking-to-note-making?s=09"/>
-        <updated>2021-06-14T18:42:43.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Projects]]></title>
-        <id>https://tinyprojects.dev</id>
-        <link href="https://tinyprojects.dev"/>
-        <updated>2021-06-14T17:44:02.000Z</updated>
-        <summary type="html"><![CDATA[A website about completing tiny programming projects.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Doubling my side hustle earnings - 2020/21 income report]]></title>
         <id>https://charlimarie.com/blog/2021-income?s=09</id>
         <link href="https://charlimarie.com/blog/2021-income?s=09"/>
         <updated>2021-06-14T16:11:42.000Z</updated>
         <summary type="html"><![CDATA[A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elderflower cordial]]></title>
-        <id>https://rivercottage.net/recipes/elderflower-cordial</id>
-        <link href="https://rivercottage.net/recipes/elderflower-cordial"/>
-        <updated>2021-06-14T12:21:04.000Z</updated>
-        <summary type="html"><![CDATA[The sweetly scented, creamy-white flowers of the elder tree appear in abundance in hedgerows, scrub, woodlands and wasteland at the beginning of summer. The fresh flowers make a terrific aromatic cordial. They are best gathered just as the many tiny buds are beginning to open, and some are still closed. Gather on a warm, dry day (never when wet), checking the perfume is fresh and pleasing. Trees do differ and you will soon get to know the good ones. Remember to leave some flowers for elderberry picking later in the year.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -373,34 +279,6 @@ Thank you: @LooperXX.]]></summary>
         <link href="https://web.dev/learn/css"/>
         <updated>2021-05-21T15:36:58.000Z</updated>
         <summary type="html"><![CDATA[An evergreen CSS course and reference to level up your web styling expertise.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demo: Standalone Bibliography]]></title>
-        <id>https://citeproc-js.readthedocs.io/en/latest/deployments.html</id>
-        <link href="https://citeproc-js.readthedocs.io/en/latest/deployments.html"/>
-        <updated>2021-05-20T16:26:03.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sw-yx/spark-joy]]></title>
-        <id>https://github.com/sw-yx/spark-joy</id>
-        <link href="https://github.com/sw-yx/spark-joy"/>
-        <updated>2021-05-20T14:23:47.000Z</updated>
-        <summary type="html"><![CDATA[✨😂easy ways to add design flair, user delight, and whimsy to your product. - sw-yx/spark-joy]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wiki workflow]]></title>
-        <id>https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked</id>
-        <link href="https://wiki.nikitavoloboev.xyz/other/wiki-workflow#similar-wikis-i-liked"/>
-        <updated>2021-05-20T14:22:07.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
