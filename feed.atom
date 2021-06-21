@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-20T00:30:41.306Z</id>
+    <id>urn:2021-06-21T00:30:27.665Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:30:41.306Z</updated>
+    <updated>2021-06-21T00:30:27.665Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[&amp;quot;Literary Toolbox&amp;quot; Palette]]></title>
+        <id>https://forum.keyboardmaestro.com/t/literary-toolbox-palette/12301/8</id>
+        <link href="https://forum.keyboardmaestro.com/t/literary-toolbox-palette/12301/8"/>
+        <updated>2021-06-20T17:40:14.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I managed to install everything but some macros are not running. During the installation process these were the errors:  ERROR #1  ==> Found dependencies: Package::Stash::XS  --> Working on Package::Stash::XS  Fetching http://www.cpan.org/authors/id/E/ET/ETHER/Package-Stash-XS-0.29.tar.gz ... OK  Configuring Package-Stash-XS-0.29 ... OK  Building and testing Package-Stash-XS-0.29 ... FAIL  ! Installing Package::Stash::XS failed. See /Users/Alfredo/.cpanm/work/1547686509.2318/build.log for de...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I&#039;m learning Clojure]]></title>
+        <id>https://robhaisfield.com/notes/how-i'm-learning-clojure?s=09</id>
+        <link href="https://robhaisfield.com/notes/how-i'm-learning-clojure?s=09"/>
+        <updated>2021-06-20T08:11:58.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From note-taking to note-making]]></title>
         <id>https://nesslabs.com/from-note-taking-to-note-making</id>
@@ -271,16 +290,6 @@ specific blog…]]></summary>
 Thank you: @LooperXX.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS]]></title>
-        <id>https://web.dev/learn/css</id>
-        <link href="https://web.dev/learn/css"/>
-        <updated>2021-05-21T15:36:58.000Z</updated>
-        <summary type="html"><![CDATA[An evergreen CSS course and reference to level up your web styling expertise.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
         </author>
     </entry>
 </feed>
