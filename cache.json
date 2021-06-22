@@ -22,24 +22,6 @@
           "publishedOn": "2021-05-26T06:02:55.000Z",
           "wordCount": 413,
           "title": "v1.9.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "author": null,
-          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "publishedOn": "2021-05-23T05:40:12.000Z",
-          "wordCount": 278,
-          "title": "v1.8.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "author": null,
-          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "publishedOn": "2021-05-23T05:12:08.000Z",
-          "wordCount": 341,
-          "title": "v1.8.0"
         }
       ]
     },
@@ -48,6 +30,15 @@
       "feedUrl": "http://getpocket.com/users/*sso1503093515801537/feed/unread",
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
+        {
+          "id": "https://reallifemag.com/cozy-tech?s=09",
+          "author": null,
+          "description": "In product design, textiles replace metals and glass for a softer, gentler intrusion into our intimate space",
+          "link": "https://reallifemag.com/cozy-tech?s=09",
+          "publishedOn": "2021-06-21T12:36:03.000Z",
+          "wordCount": 3446,
+          "title": "Cozy Tech — Real Life"
+        },
         {
           "id": "https://forum.keyboardmaestro.com/t/literary-toolbox-palette/12301/8",
           "author": null,
@@ -135,7 +126,7 @@
           "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
           "link": "https://charlimarie.com/blog/2021-income?s=09",
           "publishedOn": "2021-06-14T16:11:42.000Z",
-          "wordCount": 2620,
+          "wordCount": 2631,
           "title": "Doubling my side hustle earnings - 2020/21 income report"
         },
         {

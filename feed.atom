@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-21T00:30:27.665Z</id>
+    <id>urn:2021-06-22T00:27:27.898Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T00:30:27.665Z</updated>
+    <updated>2021-06-22T00:27:27.898Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cozy Tech — Real Life]]></title>
+        <id>https://reallifemag.com/cozy-tech?s=09</id>
+        <link href="https://reallifemag.com/cozy-tech?s=09"/>
+        <updated>2021-06-21T12:36:03.000Z</updated>
+        <summary type="html"><![CDATA[In product design, textiles replace metals and glass for a softer, gentler intrusion into our intimate space]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[&amp;quot;Literary Toolbox&amp;quot; Palette]]></title>
         <id>https://forum.keyboardmaestro.com/t/literary-toolbox-palette/12301/8</id>
@@ -269,27 +279,6 @@ that’s what I’m going to write about here :). I’ll give a few examples of
 specific blog…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
-        <updated>2021-05-23T05:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.8.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
-        <updated>2021-05-23T05:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
-Thank you: @LooperXX.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
