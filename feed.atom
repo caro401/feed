@@ -1,10 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-22T00:27:27.898Z</id>
+    <id>urn:2021-06-23T00:27:59.160Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:27:27.898Z</updated>
+    <updated>2021-06-23T00:27:59.160Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Scholastic Commentaries and Texts Archive]]></title>
+        <id>https://scta.info</id>
+        <link href="https://scta.info"/>
+        <updated>2021-06-22T19:48:08.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zotero 101 - Obsidian Community Talk]]></title>
+        <id>https://youtube.com/watch?v=YaMH_d4dj1k</id>
+        <link href="https://youtube.com/watch?v=YaMH_d4dj1k"/>
+        <updated>2021-06-22T19:44:51.000Z</updated>
+        <summary type="html"><![CDATA[Argentina Ortega Sainz takes viewers on an incredibly deep dive into Zotero and how to use a reference manager as part of your knowledge management system. S...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[[the-future-of-note-taking]]]]></title>
+        <id>https://anagora.org/the-future-of-note-taking</id>
+        <link href="https://anagora.org/the-future-of-note-taking"/>
+        <updated>2021-06-22T19:41:21.000Z</updated>
+        <summary type="html"><![CDATA[The Agora is a crowdsourced distributed knowledge graph: .]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rerum]]></title>
+        <id>https://centerfordigitalhumanities.github.io/rerum#/welcome</id>
+        <link href="https://centerfordigitalhumanities.github.io/rerum#/welcome"/>
+        <updated>2021-06-22T19:27:40.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPEN Version 2.0]]></title>
+        <id>http://t-pen.org/TPEN</id>
+        <link href="http://t-pen.org/TPEN"/>
+        <updated>2021-06-22T19:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Transcription for paleographical and editorial 
+              notation]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIIF at the University of Cambridge -- Andy Corrigan]]></title>
+        <id>https://youtube.com/watch?v=GKQRa-bko2E</id>
+        <link href="https://youtube.com/watch?v=GKQRa-bko2E"/>
+        <updated>2021-06-22T16:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Lightning Talk from the 2019 International Image Interoperability Framework (IIIF) Conference, held June 24-28 in Göttingen, hosted by the University of Gött...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[readsoftware/read]]></title>
+        <id>https://github.com/readsoftware/read</id>
+        <link href="https://github.com/readsoftware/read"/>
+        <updated>2021-06-22T16:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Research Environment for Ancient Documents. Contribute to readsoftware/read development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Named Entity Recognition with Python]]></title>
+        <id>https://github.com/mchesterkadwell/named-entity-recognition</id>
+        <link href="https://github.com/mchesterkadwell/named-entity-recognition"/>
+        <updated>2021-06-22T09:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Notebooks for teaching Named Entity Recognition at the Cultural Heritage Data School, run by Cambridge Digital Humanities - mchesterkadwell/named-entity-recognition]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Text-Mining with Python 2020]]></title>
+        <id>https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020</id>
+        <link href="https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020"/>
+        <updated>2021-06-22T09:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Cambridge Digital Humanities Learning, Methods Workshop: "Introduction to Text-Mining with Python" - mchesterkadwell/intro-to-text-mining-with-python-2020]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities &amp;amp; Research Software Engineering]]></title>
+        <id>https://eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=23222&amp;eventID=72&amp;CSPCHD=00100100000009e2MvVdeVeHMjW3jrkWxsLEKdgVyJdiUB6w$g</id>
+        <link href="https://eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=23222&amp;eventID=72&amp;CSPCHD=00100100000009e2MvVdeVeHMjW3jrkWxsLEKdgVyJdiUB6w$g"/>
+        <updated>2021-06-22T09:14:49.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pico-8 Fanzine #1]]></title>
+        <id>https://sectordub.itch.io/pico-8-fanzine-1</id>
+        <link href="https://sectordub.itch.io/pico-8-fanzine-1"/>
+        <updated>2021-06-22T08:20:41.000Z</updated>
+        <summary type="html"><![CDATA[fanzine, pico8, pico 8, retro, coding, learning]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cozy Tech — Real Life]]></title>
         <id>https://reallifemag.com/cozy-tech?s=09</id>

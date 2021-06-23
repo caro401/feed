@@ -31,12 +31,111 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://scta.info",
+          "author": null,
+          "description": "",
+          "link": "https://scta.info",
+          "publishedOn": "2021-06-22T19:48:08.000Z",
+          "wordCount": 1085,
+          "title": "Scholastic Commentaries and Texts Archive"
+        },
+        {
+          "id": "https://youtube.com/watch?v=YaMH_d4dj1k",
+          "author": null,
+          "description": "Argentina Ortega Sainz takes viewers on an incredibly deep dive into Zotero and how to use a reference manager as part of your knowledge management system. S...",
+          "link": "https://youtube.com/watch?v=YaMH_d4dj1k",
+          "publishedOn": "2021-06-22T19:44:51.000Z",
+          "wordCount": 18,
+          "title": "Zotero 101 - Obsidian Community Talk"
+        },
+        {
+          "id": "https://anagora.org/the-future-of-note-taking",
+          "author": null,
+          "description": "The Agora is a crowdsourced distributed knowledge graph: .",
+          "link": "https://anagora.org/the-future-of-note-taking",
+          "publishedOn": "2021-06-22T19:41:21.000Z",
+          "wordCount": 809,
+          "title": "[[the-future-of-note-taking]]"
+        },
+        {
+          "id": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
+          "author": null,
+          "description": "",
+          "link": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
+          "publishedOn": "2021-06-22T19:27:40.000Z",
+          "wordCount": 23,
+          "title": "rerum"
+        },
+        {
+          "id": "http://t-pen.org/TPEN",
+          "author": null,
+          "description": "Transcription for paleographical and editorial \n              notation",
+          "link": "http://t-pen.org/TPEN",
+          "publishedOn": "2021-06-22T19:27:31.000Z",
+          "wordCount": 630,
+          "title": "TPEN Version 2.0"
+        },
+        {
+          "id": "https://youtube.com/watch?v=GKQRa-bko2E",
+          "author": null,
+          "description": "Lightning Talk from the 2019 International Image Interoperability Framework (IIIF) Conference, held June 24-28 in Göttingen, hosted by the University of Gött...",
+          "link": "https://youtube.com/watch?v=GKQRa-bko2E",
+          "publishedOn": "2021-06-22T16:57:00.000Z",
+          "wordCount": 21,
+          "title": "IIIF at the University of Cambridge -- Andy Corrigan"
+        },
+        {
+          "id": "https://github.com/readsoftware/read",
+          "author": null,
+          "description": "Research Environment for Ancient Documents. Contribute to readsoftware/read development by creating an account on GitHub.",
+          "link": "https://github.com/readsoftware/read",
+          "publishedOn": "2021-06-22T16:33:01.000Z",
+          "wordCount": 1279,
+          "title": "readsoftware/read"
+        },
+        {
+          "id": "https://github.com/mchesterkadwell/named-entity-recognition",
+          "author": null,
+          "description": "Notebooks for teaching Named Entity Recognition at the Cultural Heritage Data School, run by Cambridge Digital Humanities - mchesterkadwell/named-entity-recognition",
+          "link": "https://github.com/mchesterkadwell/named-entity-recognition",
+          "publishedOn": "2021-06-22T09:17:58.000Z",
+          "wordCount": 2061,
+          "title": "Introduction to Named Entity Recognition with Python"
+        },
+        {
+          "id": "https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020",
+          "author": null,
+          "description": "Cambridge Digital Humanities Learning, Methods Workshop: \"Introduction to Text-Mining with Python\" - mchesterkadwell/intro-to-text-mining-with-python-2020",
+          "link": "https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020",
+          "publishedOn": "2021-06-22T09:17:55.000Z",
+          "wordCount": 1397,
+          "title": "Introduction to Text-Mining with Python 2020"
+        },
+        {
+          "id": "https://eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=23222&eventID=72&CSPCHD=00100100000009e2MvVdeVeHMjW3jrkWxsLEKdgVyJdiUB6w$g",
+          "author": null,
+          "description": "",
+          "link": "https://eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=23222&eventID=72&CSPCHD=00100100000009e2MvVdeVeHMjW3jrkWxsLEKdgVyJdiUB6w$g",
+          "publishedOn": "2021-06-22T09:14:49.000Z",
+          "wordCount": 1225,
+          "title": "Digital Humanities &amp;amp; Research Software Engineering"
+        },
+        {
+          "id": "https://sectordub.itch.io/pico-8-fanzine-1",
+          "author": null,
+          "description": "fanzine, pico8, pico 8, retro, coding, learning",
+          "link": "https://sectordub.itch.io/pico-8-fanzine-1",
+          "publishedOn": "2021-06-22T08:20:41.000Z",
+          "wordCount": 168,
+          "title": "Pico-8 Fanzine #1"
+        },
+        {
           "id": "https://reallifemag.com/cozy-tech?s=09",
           "author": null,
           "description": "In product design, textiles replace metals and glass for a softer, gentler intrusion into our intimate space",
           "link": "https://reallifemag.com/cozy-tech?s=09",
           "publishedOn": "2021-06-21T12:36:03.000Z",
-          "wordCount": 3446,
+          "wordCount": 3507,
           "title": "Cozy Tech — Real Life"
         },
         {
@@ -126,7 +225,7 @@
           "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
           "link": "https://charlimarie.com/blog/2021-income?s=09",
           "publishedOn": "2021-06-14T16:11:42.000Z",
-          "wordCount": 2631,
+          "wordCount": 2643,
           "title": "Doubling my side hustle earnings - 2020/21 income report"
         },
         {
