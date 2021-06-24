@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "author": null,
+          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "publishedOn": "2021-06-23T05:57:59.000Z",
+          "wordCount": 368,
+          "title": "v1.11.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
           "author": null,
           "description": "Added: testing and CI/CD workflows",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
           "publishedOn": "2021-06-01T04:39:30.000Z",
-          "wordCount": 268,
+          "wordCount": 263,
           "title": "v1.10.2"
         },
         {
@@ -20,7 +29,7 @@
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 413,
+          "wordCount": 412,
           "title": "v1.9.0"
         }
       ]
@@ -30,6 +39,258 @@
       "feedUrl": "http://getpocket.com/users/*sso1503093515801537/feed/unread",
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
+        {
+          "id": "https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4",
+          "author": null,
+          "description": "",
+          "link": "https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4",
+          "publishedOn": "2021-06-23T21:07:17.000Z",
+          "wordCount": 10,
+          "title": "Airmeet"
+        },
+        {
+          "id": "https://youtu.be/M5tyaBBqKIw",
+          "author": null,
+          "description": "Jen Luker (https://twitter.com/knitcodemonkey) at React Rally 2019",
+          "link": "https://youtu.be/M5tyaBBqKIw",
+          "publishedOn": "2021-06-23T20:19:47.000Z",
+          "wordCount": 19,
+          "title": "Weaving Tapestries of Code - Jen Luker"
+        },
+        {
+          "id": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
+          "author": null,
+          "description": "",
+          "link": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
+          "publishedOn": "2021-06-23T19:17:52.000Z",
+          "wordCount": 23,
+          "title": "rerum"
+        },
+        {
+          "id": "http://read.rerum.io#/read",
+          "author": null,
+          "description": "",
+          "link": "http://read.rerum.io#/read",
+          "publishedOn": "2021-06-23T19:16:49.000Z",
+          "wordCount": 11,
+          "title": "RERUM"
+        },
+        {
+          "id": "http://t-pen.org/TPEN",
+          "author": null,
+          "description": "Transcription for paleographical and editorial \n              notation",
+          "link": "http://t-pen.org/TPEN",
+          "publishedOn": "2021-06-23T19:06:29.000Z",
+          "wordCount": 630,
+          "title": "TPEN Version 2.0"
+        },
+        {
+          "id": "https://mmmonk.be/en",
+          "author": null,
+          "description": "",
+          "link": "https://mmmonk.be/en",
+          "publishedOn": "2021-06-23T18:17:13.000Z",
+          "wordCount": 180,
+          "title": "Join our Mmmonk session at the IIIF Conference 24/6/21"
+        },
+        {
+          "id": "https://isos.dias.ie/english/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://isos.dias.ie/english/index.html",
+          "publishedOn": "2021-06-23T18:15:57.000Z",
+          "wordCount": 12,
+          "title": "Irish Script On Screen - Meamram Páipéar Ríomhaire"
+        },
+        {
+          "id": "https://2019.semantics.cc/linked-data-supported-content-analysis-sociology",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/linked-data-supported-content-analysis-sociology",
+          "publishedOn": "2021-06-23T16:03:08.000Z",
+          "wordCount": 357,
+          "title": "Linked Data supported Content Analysis for Sociology"
+        },
+        {
+          "id": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
+          "publishedOn": "2021-06-23T16:03:05.000Z",
+          "wordCount": 303,
+          "title": "MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data"
+        },
+        {
+          "id": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
+          "publishedOn": "2021-06-23T16:03:01.000Z",
+          "wordCount": 285,
+          "title": "Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more"
+        },
+        {
+          "id": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
+          "publishedOn": "2021-06-23T16:00:50.000Z",
+          "wordCount": 354,
+          "title": "Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata."
+        },
+        {
+          "id": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
+          "publishedOn": "2021-06-23T16:00:46.000Z",
+          "wordCount": 374,
+          "title": "Creating a semantic food knowledge base with cooking recipes for a meal recommender system"
+        },
+        {
+          "id": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
+          "publishedOn": "2021-06-23T16:00:43.000Z",
+          "wordCount": 278,
+          "title": "Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople"
+        },
+        {
+          "id": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
+          "publishedOn": "2021-06-23T16:00:40.000Z",
+          "wordCount": 248,
+          "title": "Creating Value from Data with Knowledge Graphs"
+        },
+        {
+          "id": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
+          "publishedOn": "2021-06-23T16:00:37.000Z",
+          "wordCount": 272,
+          "title": "Towards a Framework for Semantic Data Analytics Workflows"
+        },
+        {
+          "id": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
+          "publishedOn": "2021-06-23T16:00:33.000Z",
+          "wordCount": 256,
+          "title": "Improving NLU Training over Linked Data with Placeholder Concepts"
+        },
+        {
+          "id": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
+          "publishedOn": "2021-06-23T16:00:33.000Z",
+          "wordCount": 592,
+          "title": "Deep Text Analytics with Knowledge Graphs and Machine Learning"
+        },
+        {
+          "id": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
+          "publishedOn": "2021-06-23T16:00:24.000Z",
+          "wordCount": 193,
+          "title": "Knowledge Graphs: Fundamental concepts of linking data to knowledge"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
+          "author": null,
+          "description": "Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.",
+          "link": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
+          "publishedOn": "2021-06-23T15:56:50.000Z",
+          "wordCount": 312,
+          "title": "Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/taxonomy-trends",
+          "author": null,
+          "description": "Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.",
+          "link": "https://2020-eu.semantics.cc/taxonomy-trends",
+          "publishedOn": "2021-06-23T15:56:33.000Z",
+          "wordCount": 166,
+          "title": "Taxonomy Trends"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/power-publication",
+          "author": null,
+          "description": "If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.",
+          "link": "https://2020-eu.semantics.cc/power-publication",
+          "publishedOn": "2021-06-23T15:56:24.000Z",
+          "wordCount": 218,
+          "title": "The Power of Publication"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design",
+          "author": null,
+          "description": "Ontologies can help in the digitalization of engineering design processes. We focus on the design and development of spacecraft, in particular on archiving and discovery of spacecraft part specifications. We created an ontology that is used as a skeleton for creating database schemas and data exchange APIs as well as populating a knowledge graph.",
+          "link": "https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design",
+          "publishedOn": "2021-06-23T15:56:14.000Z",
+          "wordCount": 364,
+          "title": "NLP for Ontology Development: A Use Case in Spacecraft Design"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
+          "author": null,
+          "description": "There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.",
+          "link": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
+          "publishedOn": "2021-06-23T15:56:13.000Z",
+          "wordCount": 224,
+          "title": "The Knowledge Graph Cookbook"
+        },
+        {
+          "id": "https://vanhamel.nl/codecs/Show:Manuscripts",
+          "author": null,
+          "description": "",
+          "link": "https://vanhamel.nl/codecs/Show:Manuscripts",
+          "publishedOn": "2021-06-23T14:38:58.000Z",
+          "wordCount": 202,
+          "title": "Manuscripts"
+        },
+        {
+          "id": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
+          "author": null,
+          "description": "",
+          "link": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
+          "publishedOn": "2021-06-23T14:38:24.000Z",
+          "wordCount": 4,
+          "title": "Whova Community Web App"
+        },
+        {
+          "id": "https://metascripta.org",
+          "author": null,
+          "description": "",
+          "link": "https://metascripta.org",
+          "publishedOn": "2021-06-23T13:52:41.000Z",
+          "wordCount": 175,
+          "title": "METAscripta Web Catalog · Home · METAscripta: Vatican Film Library, St. Louis University"
+        },
+        {
+          "id": "https://digmanclass.universiteitleiden.nl",
+          "author": null,
+          "description": "We offer digital manuscripts for your classroom.",
+          "link": "https://digmanclass.universiteitleiden.nl",
+          "publishedOn": "2021-06-23T13:52:33.000Z",
+          "wordCount": 221,
+          "title": "Digital Manuscripts in the Classroom"
+        },
+        {
+          "id": "https://components.ai/theme?tab=editor&s=09",
+          "author": null,
+          "description": "Parametric and generative design tools",
+          "link": "https://components.ai/theme?tab=editor&s=09",
+          "publishedOn": "2021-06-23T07:26:46.000Z",
+          "wordCount": 161,
+          "title": "Generative design tools for the web"
+        },
         {
           "id": "https://scta.info",
           "author": null,
@@ -47,249 +308,6 @@
           "publishedOn": "2021-06-22T19:44:51.000Z",
           "wordCount": 18,
           "title": "Zotero 101 - Obsidian Community Talk"
-        },
-        {
-          "id": "https://anagora.org/the-future-of-note-taking",
-          "author": null,
-          "description": "The Agora is a crowdsourced distributed knowledge graph: .",
-          "link": "https://anagora.org/the-future-of-note-taking",
-          "publishedOn": "2021-06-22T19:41:21.000Z",
-          "wordCount": 809,
-          "title": "[[the-future-of-note-taking]]"
-        },
-        {
-          "id": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
-          "author": null,
-          "description": "",
-          "link": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
-          "publishedOn": "2021-06-22T19:27:40.000Z",
-          "wordCount": 23,
-          "title": "rerum"
-        },
-        {
-          "id": "http://t-pen.org/TPEN",
-          "author": null,
-          "description": "Transcription for paleographical and editorial \n              notation",
-          "link": "http://t-pen.org/TPEN",
-          "publishedOn": "2021-06-22T19:27:31.000Z",
-          "wordCount": 630,
-          "title": "TPEN Version 2.0"
-        },
-        {
-          "id": "https://youtube.com/watch?v=GKQRa-bko2E",
-          "author": null,
-          "description": "Lightning Talk from the 2019 International Image Interoperability Framework (IIIF) Conference, held June 24-28 in Göttingen, hosted by the University of Gött...",
-          "link": "https://youtube.com/watch?v=GKQRa-bko2E",
-          "publishedOn": "2021-06-22T16:57:00.000Z",
-          "wordCount": 21,
-          "title": "IIIF at the University of Cambridge -- Andy Corrigan"
-        },
-        {
-          "id": "https://github.com/readsoftware/read",
-          "author": null,
-          "description": "Research Environment for Ancient Documents. Contribute to readsoftware/read development by creating an account on GitHub.",
-          "link": "https://github.com/readsoftware/read",
-          "publishedOn": "2021-06-22T16:33:01.000Z",
-          "wordCount": 1279,
-          "title": "readsoftware/read"
-        },
-        {
-          "id": "https://github.com/mchesterkadwell/named-entity-recognition",
-          "author": null,
-          "description": "Notebooks for teaching Named Entity Recognition at the Cultural Heritage Data School, run by Cambridge Digital Humanities - mchesterkadwell/named-entity-recognition",
-          "link": "https://github.com/mchesterkadwell/named-entity-recognition",
-          "publishedOn": "2021-06-22T09:17:58.000Z",
-          "wordCount": 2061,
-          "title": "Introduction to Named Entity Recognition with Python"
-        },
-        {
-          "id": "https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020",
-          "author": null,
-          "description": "Cambridge Digital Humanities Learning, Methods Workshop: \"Introduction to Text-Mining with Python\" - mchesterkadwell/intro-to-text-mining-with-python-2020",
-          "link": "https://github.com/mchesterkadwell/intro-to-text-mining-with-python-2020",
-          "publishedOn": "2021-06-22T09:17:55.000Z",
-          "wordCount": 1397,
-          "title": "Introduction to Text-Mining with Python 2020"
-        },
-        {
-          "id": "https://eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=23222&eventID=72&CSPCHD=00100100000009e2MvVdeVeHMjW3jrkWxsLEKdgVyJdiUB6w$g",
-          "author": null,
-          "description": "",
-          "link": "https://eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=23222&eventID=72&CSPCHD=00100100000009e2MvVdeVeHMjW3jrkWxsLEKdgVyJdiUB6w$g",
-          "publishedOn": "2021-06-22T09:14:49.000Z",
-          "wordCount": 1225,
-          "title": "Digital Humanities &amp;amp; Research Software Engineering"
-        },
-        {
-          "id": "https://sectordub.itch.io/pico-8-fanzine-1",
-          "author": null,
-          "description": "fanzine, pico8, pico 8, retro, coding, learning",
-          "link": "https://sectordub.itch.io/pico-8-fanzine-1",
-          "publishedOn": "2021-06-22T08:20:41.000Z",
-          "wordCount": 168,
-          "title": "Pico-8 Fanzine #1"
-        },
-        {
-          "id": "https://reallifemag.com/cozy-tech?s=09",
-          "author": null,
-          "description": "In product design, textiles replace metals and glass for a softer, gentler intrusion into our intimate space",
-          "link": "https://reallifemag.com/cozy-tech?s=09",
-          "publishedOn": "2021-06-21T12:36:03.000Z",
-          "wordCount": 3507,
-          "title": "Cozy Tech — Real Life"
-        },
-        {
-          "id": "https://forum.keyboardmaestro.com/t/literary-toolbox-palette/12301/8",
-          "author": null,
-          "description": "Hi, I managed to install everything but some macros are not running. During the installation process these were the errors:  ERROR #1  ==> Found dependencies: Package::Stash::XS  --> Working on Package::Stash::XS  Fetching http://www.cpan.org/authors/id/E/ET/ETHER/Package-Stash-XS-0.29.tar.gz ... OK  Configuring Package-Stash-XS-0.29 ... OK  Building and testing Package-Stash-XS-0.29 ... FAIL  ! Installing Package::Stash::XS failed. See /Users/Alfredo/.cpanm/work/1547686509.2318/build.log for de...",
-          "link": "https://forum.keyboardmaestro.com/t/literary-toolbox-palette/12301/8",
-          "publishedOn": "2021-06-20T17:40:14.000Z",
-          "wordCount": 1897,
-          "title": "&amp;quot;Literary Toolbox&amp;quot; Palette"
-        },
-        {
-          "id": "https://robhaisfield.com/notes/how-i'm-learning-clojure?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://robhaisfield.com/notes/how-i'm-learning-clojure?s=09",
-          "publishedOn": "2021-06-20T08:11:58.000Z",
-          "wordCount": null,
-          "title": "How I&#039;m learning Clojure"
-        },
-        {
-          "id": "https://nesslabs.com/from-note-taking-to-note-making",
-          "author": null,
-          "description": "Note-taking is fast, uses the original author's language, and feels easier. Note-making is slower, more involved, and uses your own language.",
-          "link": "https://nesslabs.com/from-note-taking-to-note-making",
-          "publishedOn": "2021-06-19T11:26:17.000Z",
-          "wordCount": 1144,
-          "title": "From note-taking to note-making"
-        },
-        {
-          "id": "https://notion.so/Deploy-Empathy-Scripts-and-Templates-94a2666a72204a77b63664e5984e28f1",
-          "author": null,
-          "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
-          "link": "https://notion.so/Deploy-Empathy-Scripts-and-Templates-94a2666a72204a77b63664e5984e28f1",
-          "publishedOn": "2021-06-19T10:39:58.000Z",
-          "wordCount": 12,
-          "title": "Notion – The all-in-one workspace for your notes, tasks, wikis, and databases."
-        },
-        {
-          "id": "https://swimm.io",
-          "author": null,
-          "description": "Never let onboarding, outdated documents, or project switching slow you down. Swimm keeps development smooth with smart docs that are always synced with your code.",
-          "link": "https://swimm.io",
-          "publishedOn": "2021-06-17T10:18:21.000Z",
-          "wordCount": 558,
-          "title": "Ramp-up to any codebase at super speed"
-        },
-        {
-          "id": "https://youtube.com/watch?v=uiZqDLqjGRY&list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&index=6",
-          "author": null,
-          "description": "In today’s GUI challenge we create a responsive, accessible slide out side navigation user experience using CSS and JS. The sidenav works on multiple browser...",
-          "link": "https://youtube.com/watch?v=uiZqDLqjGRY&list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ&index=6",
-          "publishedOn": "2021-06-15T14:43:02.000Z",
-          "wordCount": 19,
-          "title": "Thinking on ways to solve a SIDENAV"
-        },
-        {
-          "id": "https://boringavatars.com",
-          "author": null,
-          "description": "Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.",
-          "link": "https://boringavatars.com",
-          "publishedOn": "2021-06-15T14:19:53.000Z",
-          "wordCount": 14,
-          "title": "Avatar generator playground - Boring Avatars"
-        },
-        {
-          "id": "https://inclusivedesignprinciples.org?utm_source=CSS-Weekly&utm_campaign=Issue-462&utm_medium=email",
-          "author": null,
-          "description": "",
-          "link": "https://inclusivedesignprinciples.org?utm_source=CSS-Weekly&utm_campaign=Issue-462&utm_medium=email",
-          "publishedOn": "2021-06-15T14:19:34.000Z",
-          "wordCount": 1473,
-          "title": "Inclusive Design Principles"
-        },
-        {
-          "id": "https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09",
-          "author": null,
-          "description": "Developers understand that marketing is beneficial, but can be put off by marketing tactics that seem more focused on making a sale than with sharing something they need or value. But self-promotion doesn’t have to be self-centered, and marketing content can, and should, be relevant to what software developers have created.\n\nLearn how developers successfully use marketing to spread the word about their projects, blogs, and more, often without trying to sell anything.",
-          "link": "https://egghead.io/talks/egghead-marketing-tactics-for-software-developers?s=09",
-          "publishedOn": "2021-06-15T14:08:30.000Z",
-          "wordCount": 97,
-          "title": "Marketing Tactics for Software Developers"
-        },
-        {
-          "id": "https://charlimarie.com/blog/2021-income?s=09",
-          "author": null,
-          "description": "A full report on what I earned in the 2020/21 accounting year & the income streams that led to me doubling my side hustle revenue.",
-          "link": "https://charlimarie.com/blog/2021-income?s=09",
-          "publishedOn": "2021-06-14T16:11:42.000Z",
-          "wordCount": 2643,
-          "title": "Doubling my side hustle earnings - 2020/21 income report"
-        },
-        {
-          "id": "https://maggieappleton.com/maintainers",
-          "author": null,
-          "description": "Maggie is a designer, illustrator, and anthropologist. This is her digital garden for growing visual explanations about design, culture, and programming",
-          "link": "https://maggieappleton.com/maintainers",
-          "publishedOn": "2021-06-14T11:13:19.000Z",
-          "wordCount": 887,
-          "title": "A Chat with Henry Zhu on OSS &amp;amp; Gift Economies"
-        },
-        {
-          "id": "https://youtu.be/8snrXgzM1bM",
-          "author": null,
-          "description": "",
-          "link": "https://youtu.be/8snrXgzM1bM",
-          "publishedOn": "2021-05-30T20:43:14.000Z",
-          "wordCount": 20,
-          "title": "Maggie Appleton - The Cultural Anthropology of React"
-        },
-        {
-          "id": "https://m.youtube.com/watch?v=dz6aFfme_hg&s=09",
-          "author": null,
-          "description": "If you love CSS, have a look at the CSS Café - Online Meetup: https://www.meetup.com/de-DE/CSS-Cafehttps://twitter.com/CSS__Cafe// For more CSS tricks and ti...",
-          "link": "https://m.youtube.com/watch?v=dz6aFfme_hg&s=09",
-          "publishedOn": "2021-05-29T11:38:53.000Z",
-          "wordCount": 24,
-          "title": "Minimal CSS Solutions to (Previously) Complex Problems /w Stephanie Eckles [CSSCafe / english]"
-        },
-        {
-          "id": "https://ellenyin.com/replay",
-          "author": null,
-          "description": "How to attract consistent clients without a large audience",
-          "link": "https://ellenyin.com/replay",
-          "publishedOn": "2021-05-27T14:41:10.000Z",
-          "wordCount": 120,
-          "title": "Watch Now - FREE MASTERCLASS"
-        },
-        {
-          "id": "https://dl.acm.org/doi/10.1145/3359591.3359739",
-          "author": null,
-          "description": "",
-          "link": "https://dl.acm.org/doi/10.1145/3359591.3359739",
-          "publishedOn": "2021-05-27T14:33:22.000Z",
-          "wordCount": 148,
-          "title": "Next-paradigm programming languages: what will they look like and what chan"
-        },
-        {
-          "id": "https://dl.acm.org/doi/10.1145/3359591.3359737",
-          "author": null,
-          "description": "",
-          "link": "https://dl.acm.org/doi/10.1145/3359591.3359737",
-          "publishedOn": "2021-05-27T14:33:08.000Z",
-          "wordCount": 148,
-          "title": "Local-first software: you own your data, in spite of the cloud | Proceeding"
-        },
-        {
-          "id": "https://markodenic.com/css-tips",
-          "author": null,
-          "description": "CSS tips and tricks you will not see in most of tutorials.",
-          "link": "https://markodenic.com/css-tips",
-          "publishedOn": "2021-05-25T21:33:19.000Z",
-          "wordCount": 746,
-          "title": "CSS Tips"
         }
       ]
     },
@@ -315,18 +333,9 @@
           "publishedOn": "2021-06-02T10:48:15.000Z",
           "wordCount": 675,
           "title": "You can now buy print version of my zines!"
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
-          "author": null,
-          "description": "I was talking to Jemma recently about what stops people\nfrom blogging. One barrier that stood out to me was: it’s hard to identify\nwhich things you know will be useful to other people!\nThe process I use for a lot of my blog posts is:\nStruggle with something (usually computer-related)\nEventually (days or months or years later), figure out how to solve some of\nthe problems I had\nWrite a blog post about what helped me\nI think this approach is effective because if I struggled with something,\nthere’s a pretty good chance that other people are struggling with it too, and\nwhat I learned is likely to be useful to at least some of them!\nObviously this isn’t the only approach to blogging, but it’s my approach, so\nthat’s what I’m going to write about here :). I’ll give a few examples of\nspecific blog…",
-          "link": "https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/",
-          "publishedOn": "2021-05-24T13:59:07.000Z",
-          "wordCount": 1878,
-          "title": "Blog about what you've struggled with"
         }
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
