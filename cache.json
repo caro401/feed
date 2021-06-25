@@ -11,7 +11,7 @@
           "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
           "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 368,
+          "wordCount": 370,
           "title": "v1.11.0"
         },
         {
@@ -22,15 +22,6 @@
           "publishedOn": "2021-06-01T04:39:30.000Z",
           "wordCount": 263,
           "title": "v1.10.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
-          "author": null,
-          "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
-          "publishedOn": "2021-05-26T06:02:55.000Z",
-          "wordCount": 412,
-          "title": "v1.9.0"
         }
       ]
     },
@@ -39,6 +30,78 @@
       "feedUrl": "http://getpocket.com/users/*sso1503093515801537/feed/unread",
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
+        {
+          "id": "https://pakstech.com/blog/obsidian-kanban",
+          "author": null,
+          "description": "I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.",
+          "link": "https://pakstech.com/blog/obsidian-kanban",
+          "publishedOn": "2021-06-24T18:14:06.000Z",
+          "wordCount": 1769,
+          "title": "Markdown Kanban with Obsidian"
+        },
+        {
+          "id": "https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7",
+          "author": null,
+          "description": "I highly want this plugin. Unfortunately, I’m not a programmer!",
+          "link": "https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7",
+          "publishedOn": "2021-06-24T17:20:32.000Z",
+          "wordCount": 412,
+          "title": "Hemingway Editor Plugin"
+        },
+        {
+          "id": "https://github.com/shawngraham/obsidian-student-starter-vault",
+          "author": null,
+          "description": "a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault",
+          "link": "https://github.com/shawngraham/obsidian-student-starter-vault",
+          "publishedOn": "2021-06-24T14:44:49.000Z",
+          "wordCount": 585,
+          "title": "obsidian-student-starter-vault"
+        },
+        {
+          "id": "https://github.com/chhoumann/quickadd",
+          "author": null,
+          "description": "QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.",
+          "link": "https://github.com/chhoumann/quickadd",
+          "publishedOn": "2021-06-24T14:44:29.000Z",
+          "wordCount": 976,
+          "title": "QuickAdd"
+        },
+        {
+          "id": "https://snowtrack.io",
+          "author": null,
+          "description": "Version control for graphic designers and 2D/3D artists.",
+          "link": "https://snowtrack.io",
+          "publishedOn": "2021-06-24T14:44:20.000Z",
+          "wordCount": 334,
+          "title": "Snowtrack."
+        },
+        {
+          "id": "https://alistapart.com/article/async-design-critique-giving-feedback",
+          "author": null,
+          "description": "How do you know that you’re giving good feedback? Erin ‘Folletto’ Casali offers a tangible framework for delivering feedback through the lens of the design critique process in this first installmen…",
+          "link": "https://alistapart.com/article/async-design-critique-giving-feedback",
+          "publishedOn": "2021-06-24T14:44:04.000Z",
+          "wordCount": 4041,
+          "title": "Asynchronous Design Critique: Giving Feedback"
+        },
+        {
+          "id": "https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2",
+          "author": null,
+          "description": "For the last couple of years, original illustrations for users interfaces have been one of the most popular and solid design trends. Let’s…",
+          "link": "https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2",
+          "publishedOn": "2021-06-24T13:57:01.000Z",
+          "wordCount": 3077,
+          "title": "User Experience: 10 Big Reasons to Apply Illustrations in UI Design"
+        },
+        {
+          "id": "https://secretstache.com/blog/ui-illustrations",
+          "author": null,
+          "description": "In the context of UI design, illustrations can be drawings, sketches, graphic designs, or printed works of art. They are used to clarify, decorate, or visually represent text or complex ideas.",
+          "link": "https://secretstache.com/blog/ui-illustrations",
+          "publishedOn": "2021-06-24T13:56:55.000Z",
+          "wordCount": 1341,
+          "title": "How UI illustrations improve UX"
+        },
         {
           "id": "https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4",
           "author": null,
@@ -236,78 +299,6 @@
           "publishedOn": "2021-06-23T15:56:14.000Z",
           "wordCount": 364,
           "title": "NLP for Ontology Development: A Use Case in Spacecraft Design"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
-          "author": null,
-          "description": "There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.",
-          "link": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
-          "publishedOn": "2021-06-23T15:56:13.000Z",
-          "wordCount": 224,
-          "title": "The Knowledge Graph Cookbook"
-        },
-        {
-          "id": "https://vanhamel.nl/codecs/Show:Manuscripts",
-          "author": null,
-          "description": "",
-          "link": "https://vanhamel.nl/codecs/Show:Manuscripts",
-          "publishedOn": "2021-06-23T14:38:58.000Z",
-          "wordCount": 202,
-          "title": "Manuscripts"
-        },
-        {
-          "id": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
-          "author": null,
-          "description": "",
-          "link": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
-          "publishedOn": "2021-06-23T14:38:24.000Z",
-          "wordCount": 4,
-          "title": "Whova Community Web App"
-        },
-        {
-          "id": "https://metascripta.org",
-          "author": null,
-          "description": "",
-          "link": "https://metascripta.org",
-          "publishedOn": "2021-06-23T13:52:41.000Z",
-          "wordCount": 175,
-          "title": "METAscripta Web Catalog · Home · METAscripta: Vatican Film Library, St. Louis University"
-        },
-        {
-          "id": "https://digmanclass.universiteitleiden.nl",
-          "author": null,
-          "description": "We offer digital manuscripts for your classroom.",
-          "link": "https://digmanclass.universiteitleiden.nl",
-          "publishedOn": "2021-06-23T13:52:33.000Z",
-          "wordCount": 221,
-          "title": "Digital Manuscripts in the Classroom"
-        },
-        {
-          "id": "https://components.ai/theme?tab=editor&s=09",
-          "author": null,
-          "description": "Parametric and generative design tools",
-          "link": "https://components.ai/theme?tab=editor&s=09",
-          "publishedOn": "2021-06-23T07:26:46.000Z",
-          "wordCount": 161,
-          "title": "Generative design tools for the web"
-        },
-        {
-          "id": "https://scta.info",
-          "author": null,
-          "description": "",
-          "link": "https://scta.info",
-          "publishedOn": "2021-06-22T19:48:08.000Z",
-          "wordCount": 1085,
-          "title": "Scholastic Commentaries and Texts Archive"
-        },
-        {
-          "id": "https://youtube.com/watch?v=YaMH_d4dj1k",
-          "author": null,
-          "description": "Argentina Ortega Sainz takes viewers on an incredibly deep dive into Zotero and how to use a reference manager as part of your knowledge management system. S...",
-          "link": "https://youtube.com/watch?v=YaMH_d4dj1k",
-          "publishedOn": "2021-06-22T19:44:51.000Z",
-          "wordCount": 18,
-          "title": "Zotero 101 - Obsidian Community Talk"
         }
       ]
     },

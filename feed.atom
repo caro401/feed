@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-24T00:22:13.250Z</id>
+    <id>urn:2021-06-25T00:31:46.768Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:22:13.250Z</updated>
+    <updated>2021-06-25T00:31:46.768Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Markdown Kanban with Obsidian]]></title>
+        <id>https://pakstech.com/blog/obsidian-kanban</id>
+        <link href="https://pakstech.com/blog/obsidian-kanban"/>
+        <updated>2021-06-24T18:14:06.000Z</updated>
+        <summary type="html"><![CDATA[I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hemingway Editor Plugin]]></title>
+        <id>https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7</id>
+        <link href="https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7"/>
+        <updated>2021-06-24T17:20:32.000Z</updated>
+        <summary type="html"><![CDATA[I highly want this plugin. Unfortunately, I’m not a programmer!]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[obsidian-student-starter-vault]]></title>
+        <id>https://github.com/shawngraham/obsidian-student-starter-vault</id>
+        <link href="https://github.com/shawngraham/obsidian-student-starter-vault"/>
+        <updated>2021-06-24T14:44:49.000Z</updated>
+        <summary type="html"><![CDATA[a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuickAdd]]></title>
+        <id>https://github.com/chhoumann/quickadd</id>
+        <link href="https://github.com/chhoumann/quickadd"/>
+        <updated>2021-06-24T14:44:29.000Z</updated>
+        <summary type="html"><![CDATA[QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snowtrack.]]></title>
+        <id>https://snowtrack.io</id>
+        <link href="https://snowtrack.io"/>
+        <updated>2021-06-24T14:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Version control for graphic designers and 2D/3D artists.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Design Critique: Giving Feedback]]></title>
+        <id>https://alistapart.com/article/async-design-critique-giving-feedback</id>
+        <link href="https://alistapart.com/article/async-design-critique-giving-feedback"/>
+        <updated>2021-06-24T14:44:04.000Z</updated>
+        <summary type="html"><![CDATA[How do you know that you’re giving good feedback? Erin ‘Folletto’ Casali offers a tangible framework for delivering feedback through the lens of the design critique process in this first installmen…]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Experience: 10 Big Reasons to Apply Illustrations in UI Design]]></title>
+        <id>https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2</id>
+        <link href="https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2"/>
+        <updated>2021-06-24T13:57:01.000Z</updated>
+        <summary type="html"><![CDATA[For the last couple of years, original illustrations for users interfaces have been one of the most popular and solid design trends. Let’s…]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How UI illustrations improve UX]]></title>
+        <id>https://secretstache.com/blog/ui-illustrations</id>
+        <link href="https://secretstache.com/blog/ui-illustrations"/>
+        <updated>2021-06-24T13:56:55.000Z</updated>
+        <summary type="html"><![CDATA[In the context of UI design, illustrations can be drawings, sketches, graphic designs, or printed works of art. They are used to clarify, decorate, or visually represent text or complex ideas.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airmeet]]></title>
         <id>https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4</id>
@@ -211,63 +291,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Knowledge Graph Cookbook]]></title>
-        <id>https://2020-eu.semantics.cc/knowledge-graph-cookbook</id>
-        <link href="https://2020-eu.semantics.cc/knowledge-graph-cookbook"/>
-        <updated>2021-06-23T15:56:13.000Z</updated>
-        <summary type="html"><![CDATA[There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuscripts]]></title>
-        <id>https://vanhamel.nl/codecs/Show:Manuscripts</id>
-        <link href="https://vanhamel.nl/codecs/Show:Manuscripts"/>
-        <updated>2021-06-23T14:38:58.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whova Community Web App]]></title>
-        <id>https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468</id>
-        <link href="https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468"/>
-        <updated>2021-06-23T14:38:24.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[METAscripta Web Catalog · Home · METAscripta: Vatican Film Library, St. Louis University]]></title>
-        <id>https://metascripta.org</id>
-        <link href="https://metascripta.org"/>
-        <updated>2021-06-23T13:52:41.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Manuscripts in the Classroom]]></title>
-        <id>https://digmanclass.universiteitleiden.nl</id>
-        <link href="https://digmanclass.universiteitleiden.nl"/>
-        <updated>2021-06-23T13:52:33.000Z</updated>
-        <summary type="html"><![CDATA[We offer digital manuscripts for your classroom.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative design tools for the web]]></title>
-        <id>https://components.ai/theme?tab=editor&amp;s=09</id>
-        <link href="https://components.ai/theme?tab=editor&amp;s=09"/>
-        <updated>2021-06-23T07:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Parametric and generative design tools]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -284,25 +307,6 @@ Changed: sources in template data is now ordered by last update timestamp (as op
 Thank you @PiyushLosalka]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scholastic Commentaries and Texts Archive]]></title>
-        <id>https://scta.info</id>
-        <link href="https://scta.info"/>
-        <updated>2021-06-22T19:48:08.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zotero 101 - Obsidian Community Talk]]></title>
-        <id>https://youtube.com/watch?v=YaMH_d4dj1k</id>
-        <link href="https://youtube.com/watch?v=YaMH_d4dj1k"/>
-        <updated>2021-06-22T19:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Argentina Ortega Sainz takes viewers on an incredibly deep dive into Zotero and how to use a reference manager as part of your knowledge management system. S...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
@@ -360,23 +364,6 @@ produce the print qualit…]]></summary>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
         <updated>2021-06-01T04:39:30.000Z</updated>
         <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.9.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
-        <updated>2021-05-26T06:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
-
-This feature is currently only available through custom template.
-iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
-No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
-You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
-Fixed: the articles in template data were not sorted.
-Thank you @Zenigata]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
