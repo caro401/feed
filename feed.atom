@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-25T00:31:46.768Z</id>
+    <id>urn:2021-06-26T00:27:08.058Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:31:46.768Z</updated>
+    <updated>2021-06-26T00:27:08.058Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Developer Roadmaps]]></title>
+        <id>https://roadmap.sh/backend</id>
+        <link href="https://roadmap.sh/backend"/>
+        <updated>2021-06-25T19:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Community driven, articles, resources, guides, interview questions, quizzes for modern backend development. Learn to become a modern backend developer by following the steps, skills, resources and guides listed in this roadmap.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Kanban with Obsidian]]></title>
         <id>https://pakstech.com/blog/obsidian-kanban</id>
@@ -276,16 +286,6 @@
         <link href="https://2020-eu.semantics.cc/power-publication"/>
         <updated>2021-06-23T15:56:24.000Z</updated>
         <summary type="html"><![CDATA[If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP for Ontology Development: A Use Case in Spacecraft Design]]></title>
-        <id>https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design</id>
-        <link href="https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design"/>
-        <updated>2021-06-23T15:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Ontologies can help in the digitalization of engineering design processes. We focus on the design and development of spacecraft, in particular on archiving and discovery of spacecraft part specifications. We created an ontology that is used as a skeleton for creating database schemas and data exchange APIs as well as populating a knowledge graph.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
