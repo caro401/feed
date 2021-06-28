@@ -31,6 +31,15 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
+          "author": null,
+          "description": "GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.",
+          "link": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
+          "publishedOn": "2021-06-27T08:46:35.000Z",
+          "wordCount": 2726,
+          "title": "Maybe it’s time we re-think docs"
+        },
+        {
           "id": "https://roadmap.sh/backend",
           "author": null,
           "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern backend development. Learn to become a modern backend developer by following the steps, skills, resources and guides listed in this roadmap.",
@@ -45,7 +54,7 @@
           "description": "I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.",
           "link": "https://pakstech.com/blog/obsidian-kanban",
           "publishedOn": "2021-06-24T18:14:06.000Z",
-          "wordCount": 1769,
+          "wordCount": 1767,
           "title": "Markdown Kanban with Obsidian"
         },
         {
@@ -63,7 +72,7 @@
           "description": "a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault",
           "link": "https://github.com/shawngraham/obsidian-student-starter-vault",
           "publishedOn": "2021-06-24T14:44:49.000Z",
-          "wordCount": 837,
+          "wordCount": 759,
           "title": "obsidian-student-starter-vault"
         },
         {
@@ -72,7 +81,7 @@
           "description": "QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.",
           "link": "https://github.com/chhoumann/quickadd",
           "publishedOn": "2021-06-24T14:44:29.000Z",
-          "wordCount": 1157,
+          "wordCount": 1060,
           "title": "QuickAdd"
         },
         {
@@ -290,15 +299,6 @@
           "publishedOn": "2021-06-23T15:56:33.000Z",
           "wordCount": 166,
           "title": "Taxonomy Trends"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/power-publication",
-          "author": null,
-          "description": "If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.",
-          "link": "https://2020-eu.semantics.cc/power-publication",
-          "publishedOn": "2021-06-23T15:56:24.000Z",
-          "wordCount": 218,
-          "title": "The Power of Publication"
         }
       ]
     },
