@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-29T00:28:42.290Z</id>
+    <id>urn:2021-06-30T00:31:56.222Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-29T00:28:42.290Z</updated>
+    <updated>2021-06-30T00:31:56.222Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Quill - Messaging to make your team better.]]></title>
+        <id>https://quill.chat/pricing?s=09</id>
+        <link href="https://quill.chat/pricing?s=09"/>
+        <updated>2021-06-29T07:50:06.000Z</updated>
+        <summary type="html"><![CDATA[Quill is the best way to message with a team or group. Built for productivity and focus, Quill reduces notifications, collects conversations into threads, and gets out of your way — so you can get back to doing what you do best]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maybe it’s time we re-think docs]]></title>
         <id>https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409</id>
@@ -276,16 +286,6 @@
         <link href="https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph"/>
         <updated>2021-06-23T15:56:50.000Z</updated>
         <summary type="html"><![CDATA[Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxonomy Trends]]></title>
-        <id>https://2020-eu.semantics.cc/taxonomy-trends</id>
-        <link href="https://2020-eu.semantics.cc/taxonomy-trends"/>
-        <updated>2021-06-23T15:56:33.000Z</updated>
-        <summary type="html"><![CDATA[Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>

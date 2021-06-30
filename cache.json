@@ -31,12 +31,21 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://quill.chat/pricing?s=09",
+          "author": null,
+          "description": "Quill is the best way to message with a team or group. Built for productivity and focus, Quill reduces notifications, collects conversations into threads, and gets out of your way — so you can get back to doing what you do best",
+          "link": "https://quill.chat/pricing?s=09",
+          "publishedOn": "2021-06-29T07:50:06.000Z",
+          "wordCount": 489,
+          "title": "Quill - Messaging to make your team better."
+        },
+        {
           "id": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
           "author": null,
           "description": "GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.",
           "link": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
           "publishedOn": "2021-06-27T08:46:35.000Z",
-          "wordCount": 2710,
+          "wordCount": 2708,
           "title": "Maybe it’s time we re-think docs"
         },
         {
@@ -54,7 +63,7 @@
           "description": "I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.",
           "link": "https://pakstech.com/blog/obsidian-kanban",
           "publishedOn": "2021-06-24T18:14:06.000Z",
-          "wordCount": 1770,
+          "wordCount": 1769,
           "title": "Markdown Kanban with Obsidian"
         },
         {
@@ -72,7 +81,7 @@
           "description": "a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault",
           "link": "https://github.com/shawngraham/obsidian-student-starter-vault",
           "publishedOn": "2021-06-24T14:44:49.000Z",
-          "wordCount": 837,
+          "wordCount": 742,
           "title": "obsidian-student-starter-vault"
         },
         {
@@ -108,7 +117,7 @@
           "description": "For the last couple of years, original illustrations for users interfaces have been one of the most popular and solid design trends. Let’s…",
           "link": "https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2",
           "publishedOn": "2021-06-24T13:57:01.000Z",
-          "wordCount": 3085,
+          "wordCount": 3095,
           "title": "User Experience: 10 Big Reasons to Apply Illustrations in UI Design"
         },
         {
@@ -290,15 +299,6 @@
           "publishedOn": "2021-06-23T15:56:50.000Z",
           "wordCount": 312,
           "title": "Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/taxonomy-trends",
-          "author": null,
-          "description": "Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.",
-          "link": "https://2020-eu.semantics.cc/taxonomy-trends",
-          "publishedOn": "2021-06-23T15:56:33.000Z",
-          "wordCount": 166,
-          "title": "Taxonomy Trends"
         }
       ]
     },
