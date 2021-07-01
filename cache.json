@@ -13,15 +13,6 @@
           "publishedOn": "2021-06-23T05:57:59.000Z",
           "wordCount": 370,
           "title": "v1.11.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
-          "author": null,
-          "description": "Added: testing and CI/CD workflows",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
-          "publishedOn": "2021-06-01T04:39:30.000Z",
-          "wordCount": 263,
-          "title": "v1.10.2"
         }
       ]
     },
@@ -45,7 +36,7 @@
           "description": "GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.",
           "link": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
           "publishedOn": "2021-06-27T08:46:35.000Z",
-          "wordCount": 2708,
+          "wordCount": 2702,
           "title": "Maybe it’s time we re-think docs"
         },
         {
@@ -81,7 +72,7 @@
           "description": "a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault",
           "link": "https://github.com/shawngraham/obsidian-student-starter-vault",
           "publishedOn": "2021-06-24T14:44:49.000Z",
-          "wordCount": 742,
+          "wordCount": 837,
           "title": "obsidian-student-starter-vault"
         },
         {
@@ -90,7 +81,7 @@
           "description": "QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.",
           "link": "https://github.com/chhoumann/quickadd",
           "publishedOn": "2021-06-24T14:44:29.000Z",
-          "wordCount": 1177,
+          "wordCount": 1175,
           "title": "QuickAdd"
         },
         {
