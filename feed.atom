@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-01T00:30:56.544Z</id>
+    <id>urn:2021-07-02T00:28:25.984Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-01T00:30:56.544Z</updated>
+    <updated>2021-07-02T00:28:25.984Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digitizing the diaries of E. G. Browne]]></title>
+        <id>https://youtube.com/watch?v=n09XrdeUN34</id>
+        <link href="https://youtube.com/watch?v=n09XrdeUN34"/>
+        <updated>2021-07-01T18:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Digitisation Project of the Edward Granville Browne diaries. Cambridge 2013.Edward Granville Browne (7 February 1862 -- 5 January 1926), born in Stouts Hill,...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Humanities: Humanities research in the digital age]]></title>
+        <id>https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067</id>
+        <link href="https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067"/>
+        <updated>2021-07-01T17:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIIF for museums, explained]]></title>
+        <id>https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba</id>
+        <link href="https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba"/>
+        <updated>2021-07-01T17:24:25.000Z</updated>
+        <summary type="html"><![CDATA[What IIIF is; who’s using it; and why you should consider it]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated image analysis with IIIF]]></title>
+        <id>https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32</id>
+        <link href="https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32"/>
+        <updated>2021-07-01T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Using Artificial Intelligence for bulk image analysis]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEI Tutorials]]></title>
+        <id>https://de.dariah.eu/en/tei-tutorial</id>
+        <link href="https://de.dariah.eu/en/tei-tutorial"/>
+        <updated>2021-07-01T17:00:11.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eCodicology-Tutorials : DARIAH-DE]]></title>
+        <id>https://de.dariah.eu/en/ecodicology-tutorials</id>
+        <link href="https://de.dariah.eu/en/ecodicology-tutorials"/>
+        <updated>2021-07-01T17:00:03.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction · IIIF 5 Day Workshop]]></title>
+        <id>https://training.iiif.io/iiif-5-day-workshop/index.html</id>
+        <link href="https://training.iiif.io/iiif-5-day-workshop/index.html"/>
+        <updated>2021-07-01T16:29:44.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keynote: UX Interviews on IIIF - 2021 Annual Conference]]></title>
+        <id>https://youtube.com/watch?v=87JPwx780VI</id>
+        <link href="https://youtube.com/watch?v=87JPwx780VI"/>
+        <updated>2021-07-01T16:29:28.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exhibit.so]]></title>
+        <id>https://youtube.com/watch?v=K8-lBJOLXq0</id>
+        <link href="https://youtube.com/watch?v=K8-lBJOLXq0"/>
+        <updated>2021-07-01T16:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Andrew Wilson, University of St Andrews and Ed Silverton, Mnemoscene give a demo of their Exhibit tool. The Exhibit tool allows you to create a story by gath...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sharath 📣]]></title>
+        <id>https://twitter.com/5harath/status/1410349782837600257?s=09</id>
+        <link href="https://twitter.com/5harath/status/1410349782837600257?s=09"/>
+        <updated>2021-07-01T12:24:52.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>http://localhost3000/projects/wardrobe</id>
+        <link href="http://localhost3000/projects/wardrobe"/>
+        <updated>2021-07-01T10:27:34.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quill - Messaging to make your team better.]]></title>
         <id>https://quill.chat/pricing?s=09</id>
@@ -191,106 +295,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data]]></title>
-        <id>https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data</id>
-        <link href="https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data"/>
-        <updated>2021-06-23T16:03:05.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more]]></title>
-        <id>https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more</id>
-        <link href="https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more"/>
-        <updated>2021-06-23T16:03:01.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata.]]></title>
-        <id>https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata</id>
-        <link href="https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata"/>
-        <updated>2021-06-23T16:00:50.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a semantic food knowledge base with cooking recipes for a meal recommender system]]></title>
-        <id>https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system</id>
-        <link href="https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system"/>
-        <updated>2021-06-23T16:00:46.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople]]></title>
-        <id>https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople</id>
-        <link href="https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople"/>
-        <updated>2021-06-23T16:00:43.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Value from Data with Knowledge Graphs]]></title>
-        <id>https://2019.semantics.cc/creating-value-data-knowledge-graphs</id>
-        <link href="https://2019.semantics.cc/creating-value-data-knowledge-graphs"/>
-        <updated>2021-06-23T16:00:40.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards a Framework for Semantic Data Analytics Workflows]]></title>
-        <id>https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows</id>
-        <link href="https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows"/>
-        <updated>2021-06-23T16:00:37.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving NLU Training over Linked Data with Placeholder Concepts]]></title>
-        <id>https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts</id>
-        <link href="https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts"/>
-        <updated>2021-06-23T16:00:33.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Text Analytics with Knowledge Graphs and Machine Learning]]></title>
-        <id>https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning</id>
-        <link href="https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning"/>
-        <updated>2021-06-23T16:00:33.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Graphs: Fundamental concepts of linking data to knowledge]]></title>
-        <id>https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge</id>
-        <link href="https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge"/>
-        <updated>2021-06-23T16:00:24.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph]]></title>
-        <id>https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph</id>
-        <link href="https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph"/>
-        <updated>2021-06-23T15:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.11.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
@@ -327,33 +331,6 @@ Here are the categories I came up with for ways a bug might feel impossible
 to understand. Each one of them has a bunch of sub variants which are bolded below.
 it’s hard to reproduce
 you don’t understand the overall…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can now buy print version of my zines!]]></title>
-        <id>https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/</id>
-        <link href="https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/"/>
-        <updated>2021-06-02T10:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Quick announcement: I opened a new print zine
-store last week, so now you can buy print
-copies of my zines! To start I’ve printed 350 copies of each of the “Bite
-Size…” zines.
-Here’s a photo of the front of the zines and some stickers:
-and the back covers:
-
-
-
-Here are some notes about how the store works:
-great print quality!
-I worked with a really good print company (Girlie Press) and printed the zines on some nice paper,
-so they look WAY nicer than they do when printed on a home printer :). I’m
-delighted with how they turned out.
-When I originally started working on this project I thought about using a
-print-on-demand company briefly (it sounds so convenient!) but I ordered test
-prints from all the ones I could find and it turns out that none of them could
-produce the print qualit…]]></summary>
         <author>
             <name>Julia Evans</name>
         </author>

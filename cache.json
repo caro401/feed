@@ -22,6 +22,105 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://youtube.com/watch?v=n09XrdeUN34",
+          "author": null,
+          "description": "Digitisation Project of the Edward Granville Browne diaries. Cambridge 2013.Edward Granville Browne (7 February 1862 -- 5 January 1926), born in Stouts Hill,...",
+          "link": "https://youtube.com/watch?v=n09XrdeUN34",
+          "publishedOn": "2021-07-01T18:41:56.000Z",
+          "wordCount": 19,
+          "title": "Digitizing the diaries of E. G. Browne"
+        },
+        {
+          "id": "https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067",
+          "author": null,
+          "description": "Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.",
+          "link": "https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067",
+          "publishedOn": "2021-07-01T17:49:06.000Z",
+          "wordCount": 1038,
+          "title": "Digital Humanities: Humanities research in the digital age"
+        },
+        {
+          "id": "https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba",
+          "author": null,
+          "description": "What IIIF is; who’s using it; and why you should consider it",
+          "link": "https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba",
+          "publishedOn": "2021-07-01T17:24:25.000Z",
+          "wordCount": 1371,
+          "title": "IIIF for museums, explained"
+        },
+        {
+          "id": "https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32",
+          "author": null,
+          "description": "Using Artificial Intelligence for bulk image analysis",
+          "link": "https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32",
+          "publishedOn": "2021-07-01T17:00:18.000Z",
+          "wordCount": 2707,
+          "title": "Automated image analysis with IIIF"
+        },
+        {
+          "id": "https://de.dariah.eu/en/tei-tutorial",
+          "author": null,
+          "description": "",
+          "link": "https://de.dariah.eu/en/tei-tutorial",
+          "publishedOn": "2021-07-01T17:00:11.000Z",
+          "wordCount": 635,
+          "title": "TEI Tutorials"
+        },
+        {
+          "id": "https://de.dariah.eu/en/ecodicology-tutorials",
+          "author": null,
+          "description": "",
+          "link": "https://de.dariah.eu/en/ecodicology-tutorials",
+          "publishedOn": "2021-07-01T17:00:03.000Z",
+          "wordCount": 346,
+          "title": "eCodicology-Tutorials : DARIAH-DE"
+        },
+        {
+          "id": "https://training.iiif.io/iiif-5-day-workshop/index.html",
+          "author": null,
+          "description": "",
+          "link": "https://training.iiif.io/iiif-5-day-workshop/index.html",
+          "publishedOn": "2021-07-01T16:29:44.000Z",
+          "wordCount": 400,
+          "title": "Introduction · IIIF 5 Day Workshop"
+        },
+        {
+          "id": "https://youtube.com/watch?v=87JPwx780VI",
+          "author": null,
+          "description": "",
+          "link": "https://youtube.com/watch?v=87JPwx780VI",
+          "publishedOn": "2021-07-01T16:29:28.000Z",
+          "wordCount": 21,
+          "title": "Keynote: UX Interviews on IIIF - 2021 Annual Conference"
+        },
+        {
+          "id": "https://youtube.com/watch?v=K8-lBJOLXq0",
+          "author": null,
+          "description": "Andrew Wilson, University of St Andrews and Ed Silverton, Mnemoscene give a demo of their Exhibit tool. The Exhibit tool allows you to create a story by gath...",
+          "link": "https://youtube.com/watch?v=K8-lBJOLXq0",
+          "publishedOn": "2021-07-01T16:29:11.000Z",
+          "wordCount": 13,
+          "title": "Exhibit.so"
+        },
+        {
+          "id": "https://twitter.com/5harath/status/1410349782837600257?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://twitter.com/5harath/status/1410349782837600257?s=09",
+          "publishedOn": "2021-07-01T12:24:52.000Z",
+          "wordCount": 196,
+          "title": "Sharath 📣"
+        },
+        {
+          "id": "http://localhost3000/projects/wardrobe",
+          "author": null,
+          "description": "",
+          "link": "http://localhost3000/projects/wardrobe",
+          "publishedOn": "2021-07-01T10:27:34.000Z",
+          "wordCount": null,
+          "title": "Untitled"
+        },
+        {
           "id": "https://quill.chat/pricing?s=09",
           "author": null,
           "description": "Quill is the best way to message with a team or group. Built for productivity and focus, Quill reduces notifications, collects conversations into threads, and gets out of your way — so you can get back to doing what you do best",
@@ -36,7 +135,7 @@
           "description": "GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.",
           "link": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
           "publishedOn": "2021-06-27T08:46:35.000Z",
-          "wordCount": 2702,
+          "wordCount": 2705,
           "title": "Maybe it’s time we re-think docs"
         },
         {
@@ -81,7 +180,7 @@
           "description": "QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.",
           "link": "https://github.com/chhoumann/quickadd",
           "publishedOn": "2021-06-24T14:44:29.000Z",
-          "wordCount": 1175,
+          "wordCount": 1092,
           "title": "QuickAdd"
         },
         {
@@ -99,7 +198,7 @@
           "description": "How do you know that you’re giving good feedback? Erin ‘Folletto’ Casali offers a tangible framework for delivering feedback through the lens of the design critique process in this first installmen…",
           "link": "https://alistapart.com/article/async-design-critique-giving-feedback",
           "publishedOn": "2021-06-24T14:44:04.000Z",
-          "wordCount": 4041,
+          "wordCount": 4140,
           "title": "Asynchronous Design Critique: Giving Feedback"
         },
         {
@@ -108,7 +207,7 @@
           "description": "For the last couple of years, original illustrations for users interfaces have been one of the most popular and solid design trends. Let’s…",
           "link": "https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2",
           "publishedOn": "2021-06-24T13:57:01.000Z",
-          "wordCount": 3095,
+          "wordCount": 3096,
           "title": "User Experience: 10 Big Reasons to Apply Illustrations in UI Design"
         },
         {
@@ -191,105 +290,6 @@
           "publishedOn": "2021-06-23T16:03:08.000Z",
           "wordCount": 357,
           "title": "Linked Data supported Content Analysis for Sociology"
-        },
-        {
-          "id": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
-          "publishedOn": "2021-06-23T16:03:05.000Z",
-          "wordCount": 303,
-          "title": "MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data"
-        },
-        {
-          "id": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
-          "publishedOn": "2021-06-23T16:03:01.000Z",
-          "wordCount": 285,
-          "title": "Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more"
-        },
-        {
-          "id": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
-          "publishedOn": "2021-06-23T16:00:50.000Z",
-          "wordCount": 354,
-          "title": "Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata."
-        },
-        {
-          "id": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
-          "publishedOn": "2021-06-23T16:00:46.000Z",
-          "wordCount": 374,
-          "title": "Creating a semantic food knowledge base with cooking recipes for a meal recommender system"
-        },
-        {
-          "id": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
-          "publishedOn": "2021-06-23T16:00:43.000Z",
-          "wordCount": 278,
-          "title": "Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople"
-        },
-        {
-          "id": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
-          "publishedOn": "2021-06-23T16:00:40.000Z",
-          "wordCount": 248,
-          "title": "Creating Value from Data with Knowledge Graphs"
-        },
-        {
-          "id": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
-          "publishedOn": "2021-06-23T16:00:37.000Z",
-          "wordCount": 272,
-          "title": "Towards a Framework for Semantic Data Analytics Workflows"
-        },
-        {
-          "id": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
-          "publishedOn": "2021-06-23T16:00:33.000Z",
-          "wordCount": 256,
-          "title": "Improving NLU Training over Linked Data with Placeholder Concepts"
-        },
-        {
-          "id": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
-          "publishedOn": "2021-06-23T16:00:33.000Z",
-          "wordCount": 592,
-          "title": "Deep Text Analytics with Knowledge Graphs and Machine Learning"
-        },
-        {
-          "id": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
-          "publishedOn": "2021-06-23T16:00:24.000Z",
-          "wordCount": 193,
-          "title": "Knowledge Graphs: Fundamental concepts of linking data to knowledge"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
-          "author": null,
-          "description": "Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.",
-          "link": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
-          "publishedOn": "2021-06-23T15:56:50.000Z",
-          "wordCount": 312,
-          "title": "Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph"
         }
       ]
     },
@@ -306,15 +306,6 @@
           "publishedOn": "2021-06-08T09:28:08.000Z",
           "wordCount": 2482,
           "title": "Reasons why bugs might feel \"impossible\""
-        },
-        {
-          "id": "https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/",
-          "author": null,
-          "description": "Hello! Quick announcement: I opened a new print zine\nstore last week, so now you can buy print\ncopies of my zines! To start I’ve printed 350 copies of each of the “Bite\nSize…” zines.\nHere’s a photo of the front of the zines and some stickers:\nand the back covers:\n\n\n\nHere are some notes about how the store works:\ngreat print quality!\nI worked with a really good print company (Girlie Press) and printed the zines on some nice paper,\nso they look WAY nicer than they do when printed on a home printer :). I’m\ndelighted with how they turned out.\nWhen I originally started working on this project I thought about using a\nprint-on-demand company briefly (it sounds so convenient!) but I ordered test\nprints from all the ones I could find and it turns out that none of them could\nproduce the print qualit…",
-          "link": "https://jvns.ca/blog/2021/06/02/you-can-now-buy-print-version-of-my-zines-/",
-          "publishedOn": "2021-06-02T10:48:15.000Z",
-          "wordCount": 675,
-          "title": "You can now buy print version of my zines!"
         }
       ]
     }
