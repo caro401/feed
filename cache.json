@@ -36,7 +36,7 @@
           "description": "Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.",
           "link": "https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067",
           "publishedOn": "2021-07-01T17:49:06.000Z",
-          "wordCount": 1038,
+          "wordCount": 983,
           "title": "Digital Humanities: Humanities research in the digital age"
         },
         {
@@ -45,7 +45,7 @@
           "description": "What IIIF is; who’s using it; and why you should consider it",
           "link": "https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba",
           "publishedOn": "2021-07-01T17:24:25.000Z",
-          "wordCount": 1371,
+          "wordCount": 1367,
           "title": "IIIF for museums, explained"
         },
         {
@@ -54,7 +54,7 @@
           "description": "Using Artificial Intelligence for bulk image analysis",
           "link": "https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32",
           "publishedOn": "2021-07-01T17:00:18.000Z",
-          "wordCount": 2707,
+          "wordCount": 2709,
           "title": "Automated image analysis with IIIF"
         },
         {
@@ -135,7 +135,7 @@
           "description": "GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.",
           "link": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
           "publishedOn": "2021-06-27T08:46:35.000Z",
-          "wordCount": 2705,
+          "wordCount": 2713,
           "title": "Maybe it’s time we re-think docs"
         },
         {
@@ -153,7 +153,7 @@
           "description": "I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.",
           "link": "https://pakstech.com/blog/obsidian-kanban",
           "publishedOn": "2021-06-24T18:14:06.000Z",
-          "wordCount": 1769,
+          "wordCount": 1767,
           "title": "Markdown Kanban with Obsidian"
         },
         {
@@ -171,7 +171,7 @@
           "description": "a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault",
           "link": "https://github.com/shawngraham/obsidian-student-starter-vault",
           "publishedOn": "2021-06-24T14:44:49.000Z",
-          "wordCount": 837,
+          "wordCount": 759,
           "title": "obsidian-student-starter-vault"
         },
         {
@@ -180,7 +180,7 @@
           "description": "QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.",
           "link": "https://github.com/chhoumann/quickadd",
           "publishedOn": "2021-06-24T14:44:29.000Z",
-          "wordCount": 1092,
+          "wordCount": 1297,
           "title": "QuickAdd"
         },
         {
