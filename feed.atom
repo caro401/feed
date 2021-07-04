@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-03T00:29:21.673Z</id>
+    <id>urn:2021-07-04T00:28:22.547Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-03T00:29:21.673Z</updated>
+    <updated>2021-07-04T00:28:22.547Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Home]]></title>
+        <id>https://zacklenza.com/Architecture/Index/Home</id>
+        <link href="https://zacklenza.com/Architecture/Index/Home"/>
+        <updated>2021-07-03T17:20:53.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Obsidian Features to Explore in 2021]]></title>
+        <id>https://youtube.com/watch?v=oaDkQl2zclY</id>
+        <link href="https://youtube.com/watch?v=oaDkQl2zclY"/>
+        <updated>2021-07-03T16:12:20.000Z</updated>
+        <summary type="html"><![CDATA[Obsidian is a new powerful note-taking application rivaling Evernote, Roam Research and helping people to connect up notes and more. We've collaborated with ...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[recogito/recogito-js]]></title>
+        <id>https://github.com/recogito/recogito-js?s=09</id>
+        <link href="https://github.com/recogito/recogito-js?s=09"/>
+        <updated>2021-07-03T11:08:04.000Z</updated>
+        <summary type="html"><![CDATA[A JavaScript library for text annotation. Contribute to recogito/recogito-js development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digitizing the diaries of E. G. Browne]]></title>
         <id>https://youtube.com/watch?v=n09XrdeUN34</id>
@@ -263,33 +292,6 @@
         <updated>2021-06-23T19:06:29.000Z</updated>
         <summary type="html"><![CDATA[Transcription for paleographical and editorial 
               notation]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join our Mmmonk session at the IIIF Conference 24/6/21]]></title>
-        <id>https://mmmonk.be/en</id>
-        <link href="https://mmmonk.be/en"/>
-        <updated>2021-06-23T18:17:13.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish Script On Screen - Meamram Páipéar Ríomhaire]]></title>
-        <id>https://isos.dias.ie/english/index.html</id>
-        <link href="https://isos.dias.ie/english/index.html"/>
-        <updated>2021-06-23T18:15:57.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linked Data supported Content Analysis for Sociology]]></title>
-        <id>https://2019.semantics.cc/linked-data-supported-content-analysis-sociology</id>
-        <link href="https://2019.semantics.cc/linked-data-supported-content-analysis-sociology"/>
-        <updated>2021-06-23T16:03:08.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
