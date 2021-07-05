@@ -22,238 +22,85 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
-          "id": "https://zacklenza.com/Architecture/Index/Home",
+          "id": "https://github.com/nybbles/obsidian-pocket",
+          "author": null,
+          "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
+          "link": "https://github.com/nybbles/obsidian-pocket",
+          "publishedOn": "2021-07-04T19:06:22.000Z",
+          "wordCount": 935,
+          "title": "obsidian-pocket"
+        },
+        {
+          "id": "https://burwellbash.info/shop",
           "author": null,
           "description": "",
-          "link": "https://zacklenza.com/Architecture/Index/Home",
-          "publishedOn": "2021-07-03T17:20:53.000Z",
-          "wordCount": null,
-          "title": "Home"
+          "link": "https://burwellbash.info/shop",
+          "publishedOn": "2021-07-04T19:03:37.000Z",
+          "wordCount": 340,
+          "title": "Shop : burwellbash"
         },
         {
-          "id": "https://youtube.com/watch?v=oaDkQl2zclY",
+          "id": "https://internetworldstats.com/stats7.htm",
           "author": null,
-          "description": "Obsidian is a new powerful note-taking application rivaling Evernote, Roam Research and helping people to connect up notes and more. We've collaborated with ...",
-          "link": "https://youtube.com/watch?v=oaDkQl2zclY",
-          "publishedOn": "2021-07-03T16:12:20.000Z",
-          "wordCount": 20,
-          "title": "Top 5 Obsidian Features to Explore in 2021"
+          "description": "The top ten language groups of Internet users are currently English, Chinese Mandarin, Spanish, Arabic, Portuguese, Japanese, Russian, German, French, and Malay.",
+          "link": "https://internetworldstats.com/stats7.htm",
+          "publishedOn": "2021-07-04T19:00:56.000Z",
+          "wordCount": 1303,
+          "title": "Top Ten Internet Languages in The World"
         },
         {
-          "id": "https://github.com/recogito/recogito-js?s=09",
+          "id": "https://archive.org/details/mek-openlibrary-growing-open-source-community",
           "author": null,
-          "description": "A JavaScript library for text annotation. Contribute to recogito/recogito-js development by creating an account on GitHub.",
-          "link": "https://github.com/recogito/recogito-js?s=09",
-          "publishedOn": "2021-07-03T11:08:04.000Z",
-          "wordCount": 620,
-          "title": "recogito/recogito-js"
+          "description": "OpenLibrary.org is a project of the Internet Archive, built as an opensource project for its code, and invites participation for code additions and data...",
+          "link": "https://archive.org/details/mek-openlibrary-growing-open-source-community",
+          "publishedOn": "2021-07-04T18:57:56.000Z",
+          "wordCount": 4659,
+          "title": "Open Library: Growing Open Source Community"
         },
         {
-          "id": "https://youtube.com/watch?v=n09XrdeUN34",
+          "id": "https://youtube.com/watch?v=vG11H4HsFvg",
           "author": null,
-          "description": "Digitisation Project of the Edward Granville Browne diaries. Cambridge 2013.Edward Granville Browne (7 February 1862 -- 5 January 1926), born in Stouts Hill,...",
-          "link": "https://youtube.com/watch?v=n09XrdeUN34",
-          "publishedOn": "2021-07-01T18:41:56.000Z",
-          "wordCount": 19,
-          "title": "Digitizing the diaries of E. G. Browne"
+          "description": "This year's version of the International Congress on Medieval Studies was held online. This week, Danièle is joined by Peter Konieczny to discuss their highl...",
+          "link": "https://youtube.com/watch?v=vG11H4HsFvg",
+          "publishedOn": "2021-07-04T17:44:54.000Z",
+          "wordCount": 22,
+          "title": "Kzoo by Zoom: The 2021 International Congress on Medieval Studies"
         },
         {
-          "id": "https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067",
+          "id": "https://youtube.com/watch?v=s9WowZQpYxY",
           "author": null,
-          "description": "Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.",
-          "link": "https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067",
-          "publishedOn": "2021-07-01T17:49:06.000Z",
-          "wordCount": 983,
-          "title": "Digital Humanities: Humanities research in the digital age"
+          "description": "What does the Digital Humanities look like in 2020? Co-directors of the Digital Humanities Oxford Summer School Megan Gooch and David de Roure  talk about th...",
+          "link": "https://youtube.com/watch?v=s9WowZQpYxY",
+          "publishedOn": "2021-07-04T15:20:20.000Z",
+          "wordCount": 25,
+          "title": "An Introduction to the Digital Humanities - David de Roure &amp;amp; Megan Gooch"
         },
         {
-          "id": "https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba",
+          "id": "https://dhdebates.gc.cuny.edu",
           "author": null,
-          "description": "What IIIF is; who’s using it; and why you should consider it",
-          "link": "https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba",
-          "publishedOn": "2021-07-01T17:24:25.000Z",
-          "wordCount": 1367,
-          "title": "IIIF for museums, explained"
+          "description": "Transforming scholarly publications into living digital works",
+          "link": "https://dhdebates.gc.cuny.edu",
+          "publishedOn": "2021-07-04T15:19:11.000Z",
+          "wordCount": 149,
+          "title": "Debates in the Digital Humanities"
         },
         {
-          "id": "https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32",
+          "id": "https://learnui.design/blog/tips-signup-login-ux.html",
           "author": null,
-          "description": "Using Artificial Intelligence for bulk image analysis",
-          "link": "https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32",
-          "publishedOn": "2021-07-01T17:00:18.000Z",
-          "wordCount": 2713,
-          "title": "Automated image analysis with IIIF"
+          "description": "Mobile patterns · Form field validation · Autofocus · Microcopy · Error messages · Error prevention",
+          "link": "https://learnui.design/blog/tips-signup-login-ux.html",
+          "publishedOn": "2021-07-04T10:20:54.000Z",
+          "wordCount": 1571,
+          "title": "11 Tips for Better Signup / Login UX – Learn UI Design"
         },
         {
-          "id": "https://de.dariah.eu/en/tei-tutorial",
+          "id": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "author": null,
-          "description": "",
-          "link": "https://de.dariah.eu/en/tei-tutorial",
-          "publishedOn": "2021-07-01T17:00:11.000Z",
-          "wordCount": 635,
-          "title": "TEI Tutorials"
-        },
-        {
-          "id": "https://de.dariah.eu/en/ecodicology-tutorials",
-          "author": null,
-          "description": "",
-          "link": "https://de.dariah.eu/en/ecodicology-tutorials",
-          "publishedOn": "2021-07-01T17:00:03.000Z",
-          "wordCount": 346,
-          "title": "eCodicology-Tutorials : DARIAH-DE"
-        },
-        {
-          "id": "https://training.iiif.io/iiif-5-day-workshop/index.html",
-          "author": null,
-          "description": "",
-          "link": "https://training.iiif.io/iiif-5-day-workshop/index.html",
-          "publishedOn": "2021-07-01T16:29:44.000Z",
-          "wordCount": 400,
-          "title": "Introduction · IIIF 5 Day Workshop"
-        },
-        {
-          "id": "https://youtube.com/watch?v=87JPwx780VI",
-          "author": null,
-          "description": "",
-          "link": "https://youtube.com/watch?v=87JPwx780VI",
-          "publishedOn": "2021-07-01T16:29:28.000Z",
-          "wordCount": 21,
-          "title": "Keynote: UX Interviews on IIIF - 2021 Annual Conference"
-        },
-        {
-          "id": "https://youtube.com/watch?v=K8-lBJOLXq0",
-          "author": null,
-          "description": "Andrew Wilson, University of St Andrews and Ed Silverton, Mnemoscene give a demo of their Exhibit tool. The Exhibit tool allows you to create a story by gath...",
-          "link": "https://youtube.com/watch?v=K8-lBJOLXq0",
-          "publishedOn": "2021-07-01T16:29:11.000Z",
-          "wordCount": 13,
-          "title": "Exhibit.so"
-        },
-        {
-          "id": "https://twitter.com/5harath/status/1410349782837600257?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://twitter.com/5harath/status/1410349782837600257?s=09",
-          "publishedOn": "2021-07-01T12:24:52.000Z",
-          "wordCount": 196,
-          "title": "Sharath 📣"
-        },
-        {
-          "id": "http://localhost3000/projects/wardrobe",
-          "author": null,
-          "description": "",
-          "link": "http://localhost3000/projects/wardrobe",
-          "publishedOn": "2021-07-01T10:27:34.000Z",
-          "wordCount": null,
-          "title": "Untitled"
-        },
-        {
-          "id": "https://quill.chat/pricing?s=09",
-          "author": null,
-          "description": "Quill is the best way to message with a team or group. Built for productivity and focus, Quill reduces notifications, collects conversations into threads, and gets out of your way — so you can get back to doing what you do best",
-          "link": "https://quill.chat/pricing?s=09",
-          "publishedOn": "2021-06-29T07:50:06.000Z",
-          "wordCount": 489,
-          "title": "Quill - Messaging to make your team better."
-        },
-        {
-          "id": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
-          "author": null,
-          "description": "GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.",
-          "link": "https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409",
-          "publishedOn": "2021-06-27T08:46:35.000Z",
-          "wordCount": 2730,
-          "title": "Maybe it’s time we re-think docs"
-        },
-        {
-          "id": "https://roadmap.sh/backend",
-          "author": null,
-          "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern backend development. Learn to become a modern backend developer by following the steps, skills, resources and guides listed in this roadmap.",
-          "link": "https://roadmap.sh/backend",
-          "publishedOn": "2021-06-25T19:16:45.000Z",
-          "wordCount": 69,
-          "title": "Developer Roadmaps"
-        },
-        {
-          "id": "https://pakstech.com/blog/obsidian-kanban",
-          "author": null,
-          "description": "I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.",
-          "link": "https://pakstech.com/blog/obsidian-kanban",
-          "publishedOn": "2021-06-24T18:14:06.000Z",
-          "wordCount": 1770,
-          "title": "Markdown Kanban with Obsidian"
-        },
-        {
-          "id": "https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7",
-          "author": null,
-          "description": "I highly want this plugin. Unfortunately, I’m not a programmer!",
-          "link": "https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7",
-          "publishedOn": "2021-06-24T17:20:32.000Z",
-          "wordCount": 412,
-          "title": "Hemingway Editor Plugin"
-        },
-        {
-          "id": "https://github.com/shawngraham/obsidian-student-starter-vault",
-          "author": null,
-          "description": "a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault",
-          "link": "https://github.com/shawngraham/obsidian-student-starter-vault",
-          "publishedOn": "2021-06-24T14:44:49.000Z",
-          "wordCount": 759,
-          "title": "obsidian-student-starter-vault"
-        },
-        {
-          "id": "https://github.com/chhoumann/quickadd",
-          "author": null,
-          "description": "QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.",
-          "link": "https://github.com/chhoumann/quickadd",
-          "publishedOn": "2021-06-24T14:44:29.000Z",
-          "wordCount": 1258,
-          "title": "QuickAdd"
-        },
-        {
-          "id": "https://snowtrack.io",
-          "author": null,
-          "description": "Version control for graphic designers and 2D/3D artists.",
-          "link": "https://snowtrack.io",
-          "publishedOn": "2021-06-24T14:44:20.000Z",
-          "wordCount": 350,
-          "title": "Snowtrack."
-        },
-        {
-          "id": "https://alistapart.com/article/async-design-critique-giving-feedback",
-          "author": null,
-          "description": "How do you know that you’re giving good feedback? Erin ‘Folletto’ Casali offers a tangible framework for delivering feedback through the lens of the design critique process in this first installmen…",
-          "link": "https://alistapart.com/article/async-design-critique-giving-feedback",
-          "publishedOn": "2021-06-24T14:44:04.000Z",
-          "wordCount": 4140,
-          "title": "Asynchronous Design Critique: Giving Feedback"
-        },
-        {
-          "id": "https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2",
-          "author": null,
-          "description": "For the last couple of years, original illustrations for users interfaces have been one of the most popular and solid design trends. Let’s…",
-          "link": "https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2",
-          "publishedOn": "2021-06-24T13:57:01.000Z",
-          "wordCount": 3094,
-          "title": "User Experience: 10 Big Reasons to Apply Illustrations in UI Design"
-        },
-        {
-          "id": "https://secretstache.com/blog/ui-illustrations",
-          "author": null,
-          "description": "In the context of UI design, illustrations can be drawings, sketches, graphic designs, or printed works of art. They are used to clarify, decorate, or visually represent text or complex ideas.",
-          "link": "https://secretstache.com/blog/ui-illustrations",
-          "publishedOn": "2021-06-24T13:56:55.000Z",
-          "wordCount": 1341,
-          "title": "How UI illustrations improve UX"
-        },
-        {
-          "id": "https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4",
-          "author": null,
-          "description": "",
-          "link": "https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4",
-          "publishedOn": "2021-06-23T21:07:17.000Z",
-          "wordCount": 10,
-          "title": "Airmeet"
+          "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. - trimstray/the-book-of-secret-knowledge",
+          "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "publishedOn": "2021-07-04T10:20:05.000Z",
+          "wordCount": 22115,
+          "title": "Sponsor trimstray/the-book-of-secret-knowledge"
         },
         {
           "id": "https://youtu.be/M5tyaBBqKIw",
@@ -265,31 +112,184 @@
           "title": "Weaving Tapestries of Code - Jen Luker"
         },
         {
-          "id": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
+          "id": "https://mmmonk.be/en",
           "author": null,
           "description": "",
-          "link": "https://centerfordigitalhumanities.github.io/rerum#/welcome",
-          "publishedOn": "2021-06-23T19:17:52.000Z",
-          "wordCount": 23,
-          "title": "rerum"
+          "link": "https://mmmonk.be/en",
+          "publishedOn": "2021-06-23T18:17:13.000Z",
+          "wordCount": 177,
+          "title": "Join our Mmmonk session at the IIIF Conference 24/6/21"
         },
         {
-          "id": "http://read.rerum.io#/read",
+          "id": "https://isos.dias.ie/english/index.html",
           "author": null,
           "description": "",
-          "link": "http://read.rerum.io#/read",
-          "publishedOn": "2021-06-23T19:16:49.000Z",
-          "wordCount": 11,
-          "title": "RERUM"
+          "link": "https://isos.dias.ie/english/index.html",
+          "publishedOn": "2021-06-23T18:15:57.000Z",
+          "wordCount": 12,
+          "title": "Irish Script On Screen - Meamram Páipéar Ríomhaire"
         },
         {
-          "id": "http://t-pen.org/TPEN",
+          "id": "https://2019.semantics.cc/linked-data-supported-content-analysis-sociology",
           "author": null,
-          "description": "Transcription for paleographical and editorial \n              notation",
-          "link": "http://t-pen.org/TPEN",
-          "publishedOn": "2021-06-23T19:06:29.000Z",
-          "wordCount": 630,
-          "title": "TPEN Version 2.0"
+          "description": "",
+          "link": "https://2019.semantics.cc/linked-data-supported-content-analysis-sociology",
+          "publishedOn": "2021-06-23T16:03:08.000Z",
+          "wordCount": 357,
+          "title": "Linked Data supported Content Analysis for Sociology"
+        },
+        {
+          "id": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
+          "publishedOn": "2021-06-23T16:03:05.000Z",
+          "wordCount": 303,
+          "title": "MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data"
+        },
+        {
+          "id": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
+          "publishedOn": "2021-06-23T16:03:01.000Z",
+          "wordCount": 285,
+          "title": "Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more"
+        },
+        {
+          "id": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
+          "publishedOn": "2021-06-23T16:00:50.000Z",
+          "wordCount": 354,
+          "title": "Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata."
+        },
+        {
+          "id": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
+          "publishedOn": "2021-06-23T16:00:46.000Z",
+          "wordCount": 374,
+          "title": "Creating a semantic food knowledge base with cooking recipes for a meal recommender system"
+        },
+        {
+          "id": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
+          "publishedOn": "2021-06-23T16:00:43.000Z",
+          "wordCount": 278,
+          "title": "Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople"
+        },
+        {
+          "id": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
+          "publishedOn": "2021-06-23T16:00:40.000Z",
+          "wordCount": 248,
+          "title": "Creating Value from Data with Knowledge Graphs"
+        },
+        {
+          "id": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
+          "publishedOn": "2021-06-23T16:00:37.000Z",
+          "wordCount": 272,
+          "title": "Towards a Framework for Semantic Data Analytics Workflows"
+        },
+        {
+          "id": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
+          "publishedOn": "2021-06-23T16:00:33.000Z",
+          "wordCount": 256,
+          "title": "Improving NLU Training over Linked Data with Placeholder Concepts"
+        },
+        {
+          "id": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
+          "publishedOn": "2021-06-23T16:00:33.000Z",
+          "wordCount": 592,
+          "title": "Deep Text Analytics with Knowledge Graphs and Machine Learning"
+        },
+        {
+          "id": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
+          "author": null,
+          "description": "",
+          "link": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
+          "publishedOn": "2021-06-23T16:00:24.000Z",
+          "wordCount": 193,
+          "title": "Knowledge Graphs: Fundamental concepts of linking data to knowledge"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
+          "author": null,
+          "description": "Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.",
+          "link": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
+          "publishedOn": "2021-06-23T15:56:50.000Z",
+          "wordCount": 312,
+          "title": "Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/taxonomy-trends",
+          "author": null,
+          "description": "Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.",
+          "link": "https://2020-eu.semantics.cc/taxonomy-trends",
+          "publishedOn": "2021-06-23T15:56:33.000Z",
+          "wordCount": 166,
+          "title": "Taxonomy Trends"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/power-publication",
+          "author": null,
+          "description": "If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.",
+          "link": "https://2020-eu.semantics.cc/power-publication",
+          "publishedOn": "2021-06-23T15:56:24.000Z",
+          "wordCount": 218,
+          "title": "The Power of Publication"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design",
+          "author": null,
+          "description": "Ontologies can help in the digitalization of engineering design processes. We focus on the design and development of spacecraft, in particular on archiving and discovery of spacecraft part specifications. We created an ontology that is used as a skeleton for creating database schemas and data exchange APIs as well as populating a knowledge graph.",
+          "link": "https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design",
+          "publishedOn": "2021-06-23T15:56:14.000Z",
+          "wordCount": 364,
+          "title": "NLP for Ontology Development: A Use Case in Spacecraft Design"
+        },
+        {
+          "id": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
+          "author": null,
+          "description": "There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.",
+          "link": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
+          "publishedOn": "2021-06-23T15:56:13.000Z",
+          "wordCount": 224,
+          "title": "The Knowledge Graph Cookbook"
+        },
+        {
+          "id": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
+          "author": null,
+          "description": "",
+          "link": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
+          "publishedOn": "2021-06-23T14:38:24.000Z",
+          "wordCount": 4,
+          "title": "Whova Community Web App"
+        },
+        {
+          "id": "https://components.ai/theme?tab=editor&s=09",
+          "author": null,
+          "description": "Parametric and generative design tools",
+          "link": "https://components.ai/theme?tab=editor&s=09",
+          "publishedOn": "2021-06-23T07:26:46.000Z",
+          "wordCount": 161,
+          "title": "Generative design tools for the web"
         }
       ]
     },

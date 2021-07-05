@@ -1,258 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-04T00:28:22.547Z</id>
+    <id>urn:2021-07-05T00:27:03.705Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-04T00:28:22.547Z</updated>
+    <updated>2021-07-05T00:27:03.705Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Home]]></title>
-        <id>https://zacklenza.com/Architecture/Index/Home</id>
-        <link href="https://zacklenza.com/Architecture/Index/Home"/>
-        <updated>2021-07-03T17:20:53.000Z</updated>
+        <title type="html"><![CDATA[obsidian-pocket]]></title>
+        <id>https://github.com/nybbles/obsidian-pocket</id>
+        <link href="https://github.com/nybbles/obsidian-pocket"/>
+        <updated>2021-07-04T19:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 5 Obsidian Features to Explore in 2021]]></title>
-        <id>https://youtube.com/watch?v=oaDkQl2zclY</id>
-        <link href="https://youtube.com/watch?v=oaDkQl2zclY"/>
-        <updated>2021-07-03T16:12:20.000Z</updated>
-        <summary type="html"><![CDATA[Obsidian is a new powerful note-taking application rivaling Evernote, Roam Research and helping people to connect up notes and more. We've collaborated with ...]]></summary>
+        <title type="html"><![CDATA[Shop : burwellbash]]></title>
+        <id>https://burwellbash.info/shop</id>
+        <link href="https://burwellbash.info/shop"/>
+        <updated>2021-07-04T19:03:37.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[recogito/recogito-js]]></title>
-        <id>https://github.com/recogito/recogito-js?s=09</id>
-        <link href="https://github.com/recogito/recogito-js?s=09"/>
-        <updated>2021-07-03T11:08:04.000Z</updated>
-        <summary type="html"><![CDATA[A JavaScript library for text annotation. Contribute to recogito/recogito-js development by creating an account on GitHub.]]></summary>
+        <title type="html"><![CDATA[Top Ten Internet Languages in The World]]></title>
+        <id>https://internetworldstats.com/stats7.htm</id>
+        <link href="https://internetworldstats.com/stats7.htm"/>
+        <updated>2021-07-04T19:00:56.000Z</updated>
+        <summary type="html"><![CDATA[The top ten language groups of Internet users are currently English, Chinese Mandarin, Spanish, Arabic, Portuguese, Japanese, Russian, German, French, and Malay.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digitizing the diaries of E. G. Browne]]></title>
-        <id>https://youtube.com/watch?v=n09XrdeUN34</id>
-        <link href="https://youtube.com/watch?v=n09XrdeUN34"/>
-        <updated>2021-07-01T18:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Digitisation Project of the Edward Granville Browne diaries. Cambridge 2013.Edward Granville Browne (7 February 1862 -- 5 January 1926), born in Stouts Hill,...]]></summary>
+        <title type="html"><![CDATA[Open Library: Growing Open Source Community]]></title>
+        <id>https://archive.org/details/mek-openlibrary-growing-open-source-community</id>
+        <link href="https://archive.org/details/mek-openlibrary-growing-open-source-community"/>
+        <updated>2021-07-04T18:57:56.000Z</updated>
+        <summary type="html"><![CDATA[OpenLibrary.org is a project of the Internet Archive, built as an opensource project for its code, and invites participation for code additions and data...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Humanities: Humanities research in the digital age]]></title>
-        <id>https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067</id>
-        <link href="https://open.edu/openlearn/ocw/mod/oucontent/view.php?id=106067"/>
-        <updated>2021-07-01T17:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.]]></summary>
+        <title type="html"><![CDATA[Kzoo by Zoom: The 2021 International Congress on Medieval Studies]]></title>
+        <id>https://youtube.com/watch?v=vG11H4HsFvg</id>
+        <link href="https://youtube.com/watch?v=vG11H4HsFvg"/>
+        <updated>2021-07-04T17:44:54.000Z</updated>
+        <summary type="html"><![CDATA[This year's version of the International Congress on Medieval Studies was held online. This week, Danièle is joined by Peter Konieczny to discuss their highl...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IIIF for museums, explained]]></title>
-        <id>https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba</id>
-        <link href="https://blog.cogapp.com/iiif-for-museums-explained-49fd0560e1ba"/>
-        <updated>2021-07-01T17:24:25.000Z</updated>
-        <summary type="html"><![CDATA[What IIIF is; who’s using it; and why you should consider it]]></summary>
+        <title type="html"><![CDATA[An Introduction to the Digital Humanities - David de Roure &amp;amp; Megan Gooch]]></title>
+        <id>https://youtube.com/watch?v=s9WowZQpYxY</id>
+        <link href="https://youtube.com/watch?v=s9WowZQpYxY"/>
+        <updated>2021-07-04T15:20:20.000Z</updated>
+        <summary type="html"><![CDATA[What does the Digital Humanities look like in 2020? Co-directors of the Digital Humanities Oxford Summer School Megan Gooch and David de Roure  talk about th...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automated image analysis with IIIF]]></title>
-        <id>https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32</id>
-        <link href="https://blog.cogapp.com/automated-image-analysis-with-iiif-6594ff5b2b32"/>
-        <updated>2021-07-01T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Using Artificial Intelligence for bulk image analysis]]></summary>
+        <title type="html"><![CDATA[Debates in the Digital Humanities]]></title>
+        <id>https://dhdebates.gc.cuny.edu</id>
+        <link href="https://dhdebates.gc.cuny.edu"/>
+        <updated>2021-07-04T15:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Transforming scholarly publications into living digital works]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TEI Tutorials]]></title>
-        <id>https://de.dariah.eu/en/tei-tutorial</id>
-        <link href="https://de.dariah.eu/en/tei-tutorial"/>
-        <updated>2021-07-01T17:00:11.000Z</updated>
+        <title type="html"><![CDATA[11 Tips for Better Signup / Login UX – Learn UI Design]]></title>
+        <id>https://learnui.design/blog/tips-signup-login-ux.html</id>
+        <link href="https://learnui.design/blog/tips-signup-login-ux.html"/>
+        <updated>2021-07-04T10:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Mobile patterns · Form field validation · Autofocus · Microcopy · Error messages · Error prevention]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eCodicology-Tutorials : DARIAH-DE]]></title>
-        <id>https://de.dariah.eu/en/ecodicology-tutorials</id>
-        <link href="https://de.dariah.eu/en/ecodicology-tutorials"/>
-        <updated>2021-07-01T17:00:03.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction · IIIF 5 Day Workshop]]></title>
-        <id>https://training.iiif.io/iiif-5-day-workshop/index.html</id>
-        <link href="https://training.iiif.io/iiif-5-day-workshop/index.html"/>
-        <updated>2021-07-01T16:29:44.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keynote: UX Interviews on IIIF - 2021 Annual Conference]]></title>
-        <id>https://youtube.com/watch?v=87JPwx780VI</id>
-        <link href="https://youtube.com/watch?v=87JPwx780VI"/>
-        <updated>2021-07-01T16:29:28.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exhibit.so]]></title>
-        <id>https://youtube.com/watch?v=K8-lBJOLXq0</id>
-        <link href="https://youtube.com/watch?v=K8-lBJOLXq0"/>
-        <updated>2021-07-01T16:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Andrew Wilson, University of St Andrews and Ed Silverton, Mnemoscene give a demo of their Exhibit tool. The Exhibit tool allows you to create a story by gath...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sharath 📣]]></title>
-        <id>https://twitter.com/5harath/status/1410349782837600257?s=09</id>
-        <link href="https://twitter.com/5harath/status/1410349782837600257?s=09"/>
-        <updated>2021-07-01T12:24:52.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>http://localhost3000/projects/wardrobe</id>
-        <link href="http://localhost3000/projects/wardrobe"/>
-        <updated>2021-07-01T10:27:34.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quill - Messaging to make your team better.]]></title>
-        <id>https://quill.chat/pricing?s=09</id>
-        <link href="https://quill.chat/pricing?s=09"/>
-        <updated>2021-06-29T07:50:06.000Z</updated>
-        <summary type="html"><![CDATA[Quill is the best way to message with a team or group. Built for productivity and focus, Quill reduces notifications, collects conversations into threads, and gets out of your way — so you can get back to doing what you do best]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe it’s time we re-think docs]]></title>
-        <id>https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409</id>
-        <link href="https://kathykorevec.medium.com/building-a-better-place-for-docs-197f92765409"/>
-        <updated>2021-06-27T08:46:35.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Docs are open source, and you can contribute to the project by visiting the GitHub repo.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Roadmaps]]></title>
-        <id>https://roadmap.sh/backend</id>
-        <link href="https://roadmap.sh/backend"/>
-        <updated>2021-06-25T19:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Community driven, articles, resources, guides, interview questions, quizzes for modern backend development. Learn to become a modern backend developer by following the steps, skills, resources and guides listed in this roadmap.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown Kanban with Obsidian]]></title>
-        <id>https://pakstech.com/blog/obsidian-kanban</id>
-        <link href="https://pakstech.com/blog/obsidian-kanban"/>
-        <updated>2021-06-24T18:14:06.000Z</updated>
-        <summary type="html"><![CDATA[I like to organize my blog around Obsidian which is a Markdown-based note taking application with emphasis on internal linking and note discovery. I want to manage my blog posts as tasks, so I’ve implemented a custom Kanban-like workflow with Obsidian. In this post I will share my setup, and the alternatives that I’ve looked at.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hemingway Editor Plugin]]></title>
-        <id>https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7</id>
-        <link href="https://forum.obsidian.md/t/hemingway-editor-plugin/4840/7"/>
-        <updated>2021-06-24T17:20:32.000Z</updated>
-        <summary type="html"><![CDATA[I highly want this plugin. Unfortunately, I’m not a programmer!]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[obsidian-student-starter-vault]]></title>
-        <id>https://github.com/shawngraham/obsidian-student-starter-vault</id>
-        <link href="https://github.com/shawngraham/obsidian-student-starter-vault"/>
-        <updated>2021-06-24T14:44:49.000Z</updated>
-        <summary type="html"><![CDATA[a vault with useful plugins, simple workflow, for my students - shawngraham/obsidian-student-starter-vault]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickAdd]]></title>
-        <id>https://github.com/chhoumann/quickadd</id>
-        <link href="https://github.com/chhoumann/quickadd"/>
-        <updated>2021-06-24T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[QuickAdd for Obsidian. Contribute to chhoumann/quickadd development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowtrack.]]></title>
-        <id>https://snowtrack.io</id>
-        <link href="https://snowtrack.io"/>
-        <updated>2021-06-24T14:44:20.000Z</updated>
-        <summary type="html"><![CDATA[Version control for graphic designers and 2D/3D artists.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous Design Critique: Giving Feedback]]></title>
-        <id>https://alistapart.com/article/async-design-critique-giving-feedback</id>
-        <link href="https://alistapart.com/article/async-design-critique-giving-feedback"/>
-        <updated>2021-06-24T14:44:04.000Z</updated>
-        <summary type="html"><![CDATA[How do you know that you’re giving good feedback? Erin ‘Folletto’ Casali offers a tangible framework for delivering feedback through the lens of the design critique process in this first installmen…]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[User Experience: 10 Big Reasons to Apply Illustrations in UI Design]]></title>
-        <id>https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2</id>
-        <link href="https://uxplanet.org/user-experience-10-big-reasons-to-apply-illustrations-in-ui-design-196aab6185c2"/>
-        <updated>2021-06-24T13:57:01.000Z</updated>
-        <summary type="html"><![CDATA[For the last couple of years, original illustrations for users interfaces have been one of the most popular and solid design trends. Let’s…]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How UI illustrations improve UX]]></title>
-        <id>https://secretstache.com/blog/ui-illustrations</id>
-        <link href="https://secretstache.com/blog/ui-illustrations"/>
-        <updated>2021-06-24T13:56:55.000Z</updated>
-        <summary type="html"><![CDATA[In the context of UI design, illustrations can be drawings, sketches, graphic designs, or printed works of art. They are used to clarify, decorate, or visually represent text or complex ideas.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airmeet]]></title>
-        <id>https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4</id>
-        <link href="https://airmeet.com/event/d2f63090-ca31-11eb-8cfd-bf822c55fa45?code=b1fc677f-9545-457c-bdf2-1e455ae953a4"/>
-        <updated>2021-06-23T21:07:17.000Z</updated>
+        <title type="html"><![CDATA[Sponsor trimstray/the-book-of-secret-knowledge]]></title>
+        <id>https://github.com/trimstray/the-book-of-secret-knowledge</id>
+        <link href="https://github.com/trimstray/the-book-of-secret-knowledge"/>
+        <updated>2021-07-04T10:20:05.000Z</updated>
+        <summary type="html"><![CDATA[A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. - trimstray/the-book-of-secret-knowledge]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -268,30 +105,187 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rerum]]></title>
-        <id>https://centerfordigitalhumanities.github.io/rerum#/welcome</id>
-        <link href="https://centerfordigitalhumanities.github.io/rerum#/welcome"/>
-        <updated>2021-06-23T19:17:52.000Z</updated>
+        <title type="html"><![CDATA[Join our Mmmonk session at the IIIF Conference 24/6/21]]></title>
+        <id>https://mmmonk.be/en</id>
+        <link href="https://mmmonk.be/en"/>
+        <updated>2021-06-23T18:17:13.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RERUM]]></title>
-        <id>http://read.rerum.io#/read</id>
-        <link href="http://read.rerum.io#/read"/>
-        <updated>2021-06-23T19:16:49.000Z</updated>
+        <title type="html"><![CDATA[Irish Script On Screen - Meamram Páipéar Ríomhaire]]></title>
+        <id>https://isos.dias.ie/english/index.html</id>
+        <link href="https://isos.dias.ie/english/index.html"/>
+        <updated>2021-06-23T18:15:57.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TPEN Version 2.0]]></title>
-        <id>http://t-pen.org/TPEN</id>
-        <link href="http://t-pen.org/TPEN"/>
-        <updated>2021-06-23T19:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Transcription for paleographical and editorial 
-              notation]]></summary>
+        <title type="html"><![CDATA[Linked Data supported Content Analysis for Sociology]]></title>
+        <id>https://2019.semantics.cc/linked-data-supported-content-analysis-sociology</id>
+        <link href="https://2019.semantics.cc/linked-data-supported-content-analysis-sociology"/>
+        <updated>2021-06-23T16:03:08.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data]]></title>
+        <id>https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data</id>
+        <link href="https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data"/>
+        <updated>2021-06-23T16:03:05.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more]]></title>
+        <id>https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more</id>
+        <link href="https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more"/>
+        <updated>2021-06-23T16:03:01.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata.]]></title>
+        <id>https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata</id>
+        <link href="https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata"/>
+        <updated>2021-06-23T16:00:50.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a semantic food knowledge base with cooking recipes for a meal recommender system]]></title>
+        <id>https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system</id>
+        <link href="https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system"/>
+        <updated>2021-06-23T16:00:46.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople]]></title>
+        <id>https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople</id>
+        <link href="https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople"/>
+        <updated>2021-06-23T16:00:43.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Value from Data with Knowledge Graphs]]></title>
+        <id>https://2019.semantics.cc/creating-value-data-knowledge-graphs</id>
+        <link href="https://2019.semantics.cc/creating-value-data-knowledge-graphs"/>
+        <updated>2021-06-23T16:00:40.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Towards a Framework for Semantic Data Analytics Workflows]]></title>
+        <id>https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows</id>
+        <link href="https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows"/>
+        <updated>2021-06-23T16:00:37.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving NLU Training over Linked Data with Placeholder Concepts]]></title>
+        <id>https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts</id>
+        <link href="https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts"/>
+        <updated>2021-06-23T16:00:33.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Text Analytics with Knowledge Graphs and Machine Learning]]></title>
+        <id>https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning</id>
+        <link href="https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning"/>
+        <updated>2021-06-23T16:00:33.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knowledge Graphs: Fundamental concepts of linking data to knowledge]]></title>
+        <id>https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge</id>
+        <link href="https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge"/>
+        <updated>2021-06-23T16:00:24.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph]]></title>
+        <id>https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph</id>
+        <link href="https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph"/>
+        <updated>2021-06-23T15:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxonomy Trends]]></title>
+        <id>https://2020-eu.semantics.cc/taxonomy-trends</id>
+        <link href="https://2020-eu.semantics.cc/taxonomy-trends"/>
+        <updated>2021-06-23T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of Publication]]></title>
+        <id>https://2020-eu.semantics.cc/power-publication</id>
+        <link href="https://2020-eu.semantics.cc/power-publication"/>
+        <updated>2021-06-23T15:56:24.000Z</updated>
+        <summary type="html"><![CDATA[If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NLP for Ontology Development: A Use Case in Spacecraft Design]]></title>
+        <id>https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design</id>
+        <link href="https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design"/>
+        <updated>2021-06-23T15:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Ontologies can help in the digitalization of engineering design processes. We focus on the design and development of spacecraft, in particular on archiving and discovery of spacecraft part specifications. We created an ontology that is used as a skeleton for creating database schemas and data exchange APIs as well as populating a knowledge graph.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Knowledge Graph Cookbook]]></title>
+        <id>https://2020-eu.semantics.cc/knowledge-graph-cookbook</id>
+        <link href="https://2020-eu.semantics.cc/knowledge-graph-cookbook"/>
+        <updated>2021-06-23T15:56:13.000Z</updated>
+        <summary type="html"><![CDATA[There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whova Community Web App]]></title>
+        <id>https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468</id>
+        <link href="https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468"/>
+        <updated>2021-06-23T14:38:24.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generative design tools for the web]]></title>
+        <id>https://components.ai/theme?tab=editor&amp;s=09</id>
+        <link href="https://components.ai/theme?tab=editor&amp;s=09"/>
+        <updated>2021-06-23T07:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Parametric and generative design tools]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
