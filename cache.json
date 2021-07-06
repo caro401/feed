@@ -22,12 +22,21 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://youtu.be/a7Tx-yHHEYo",
+          "author": null,
+          "description": "Kate Crawford is a leading scholar of the social and political implications of artificial intelligence. Her work focuses on understanding large-scale data sy...",
+          "link": "https://youtu.be/a7Tx-yHHEYo",
+          "publishedOn": "2021-07-05T17:44:57.000Z",
+          "wordCount": 22,
+          "title": "Atlas of AI: Kate Crawford in conversation with Judy Wajcman"
+        },
+        {
           "id": "https://github.com/nybbles/obsidian-pocket",
           "author": null,
           "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
           "link": "https://github.com/nybbles/obsidian-pocket",
           "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 935,
+          "wordCount": 948,
           "title": "obsidian-pocket"
         },
         {
@@ -281,15 +290,6 @@
           "publishedOn": "2021-06-23T14:38:24.000Z",
           "wordCount": 4,
           "title": "Whova Community Web App"
-        },
-        {
-          "id": "https://components.ai/theme?tab=editor&s=09",
-          "author": null,
-          "description": "Parametric and generative design tools",
-          "link": "https://components.ai/theme?tab=editor&s=09",
-          "publishedOn": "2021-06-23T07:26:46.000Z",
-          "wordCount": 161,
-          "title": "Generative design tools for the web"
         }
       ]
     },

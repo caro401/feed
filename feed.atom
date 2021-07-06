@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-05T00:27:03.705Z</id>
+    <id>urn:2021-07-06T00:30:41.839Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:27:03.705Z</updated>
+    <updated>2021-07-06T00:30:41.839Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Atlas of AI: Kate Crawford in conversation with Judy Wajcman]]></title>
+        <id>https://youtu.be/a7Tx-yHHEYo</id>
+        <link href="https://youtu.be/a7Tx-yHHEYo"/>
+        <updated>2021-07-05T17:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Kate Crawford is a leading scholar of the social and political implications of artificial intelligence. Her work focuses on understanding large-scale data sy...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[obsidian-pocket]]></title>
         <id>https://github.com/nybbles/obsidian-pocket</id>
@@ -276,16 +286,6 @@
         <id>https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468</id>
         <link href="https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468"/>
         <updated>2021-06-23T14:38:24.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative design tools for the web]]></title>
-        <id>https://components.ai/theme?tab=editor&amp;s=09</id>
-        <link href="https://components.ai/theme?tab=editor&amp;s=09"/>
-        <updated>2021-06-23T07:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Parametric and generative design tools]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
