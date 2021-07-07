@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-06T00:30:41.839Z</id>
+    <id>urn:2021-07-07T00:29:28.573Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T00:30:41.839Z</updated>
+    <updated>2021-07-07T00:29:28.573Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://lib.cam.ac.uk/ghostwords?s=09</id>
+        <link href="https://lib.cam.ac.uk/ghostwords?s=09"/>
+        <updated>2021-07-06T12:02:43.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WikipediaQL: querying structured data from Wikipedia]]></title>
+        <id>https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter</id>
+        <link href="https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter"/>
+        <updated>2021-07-06T11:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Query language for efficient data extraction from Wikipedia - zverok/wikipedia_ql]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign in with your Google Account]]></title>
+        <id>https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all</id>
+        <link href="https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all"/>
+        <updated>2021-07-06T10:17:40.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atlas of AI: Kate Crawford in conversation with Judy Wajcman]]></title>
         <id>https://youtu.be/a7Tx-yHHEYo</id>
@@ -257,35 +285,6 @@
         <link href="https://2020-eu.semantics.cc/power-publication"/>
         <updated>2021-06-23T15:56:24.000Z</updated>
         <summary type="html"><![CDATA[If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NLP for Ontology Development: A Use Case in Spacecraft Design]]></title>
-        <id>https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design</id>
-        <link href="https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design"/>
-        <updated>2021-06-23T15:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Ontologies can help in the digitalization of engineering design processes. We focus on the design and development of spacecraft, in particular on archiving and discovery of spacecraft part specifications. We created an ontology that is used as a skeleton for creating database schemas and data exchange APIs as well as populating a knowledge graph.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Knowledge Graph Cookbook]]></title>
-        <id>https://2020-eu.semantics.cc/knowledge-graph-cookbook</id>
-        <link href="https://2020-eu.semantics.cc/knowledge-graph-cookbook"/>
-        <updated>2021-06-23T15:56:13.000Z</updated>
-        <summary type="html"><![CDATA[There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whova Community Web App]]></title>
-        <id>https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468</id>
-        <link href="https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468"/>
-        <updated>2021-06-23T14:38:24.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>

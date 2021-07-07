@@ -22,6 +22,33 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://lib.cam.ac.uk/ghostwords?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://lib.cam.ac.uk/ghostwords?s=09",
+          "publishedOn": "2021-07-06T12:02:43.000Z",
+          "wordCount": null,
+          "title": "Untitled"
+        },
+        {
+          "id": "https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter",
+          "author": null,
+          "description": "Query language for efficient data extraction from Wikipedia - zverok/wikipedia_ql",
+          "link": "https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter",
+          "publishedOn": "2021-07-06T11:10:08.000Z",
+          "wordCount": 2733,
+          "title": "WikipediaQL: querying structured data from Wikipedia"
+        },
+        {
+          "id": "https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all",
+          "author": null,
+          "description": "",
+          "link": "https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all",
+          "publishedOn": "2021-07-06T10:17:40.000Z",
+          "wordCount": 128,
+          "title": "Sign in with your Google Account"
+        },
+        {
           "id": "https://youtu.be/a7Tx-yHHEYo",
           "author": null,
           "description": "Kate Crawford is a leading scholar of the social and political implications of artificial intelligence. Her work focuses on understanding large-scale data sy...",
@@ -263,33 +290,6 @@
           "publishedOn": "2021-06-23T15:56:24.000Z",
           "wordCount": 218,
           "title": "The Power of Publication"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design",
-          "author": null,
-          "description": "Ontologies can help in the digitalization of engineering design processes. We focus on the design and development of spacecraft, in particular on archiving and discovery of spacecraft part specifications. We created an ontology that is used as a skeleton for creating database schemas and data exchange APIs as well as populating a knowledge graph.",
-          "link": "https://2020-eu.semantics.cc/nlp-ontology-development-use-case-spacecraft-design",
-          "publishedOn": "2021-06-23T15:56:14.000Z",
-          "wordCount": 364,
-          "title": "NLP for Ontology Development: A Use Case in Spacecraft Design"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
-          "author": null,
-          "description": "There are countless articles, slide decks and videos on the Internet about knowledge graphs. The topic is examined from different perspectives, e.g., from the point of view of artificial intelligence or in the context of extended possibilities for data analysis or information retrieval.",
-          "link": "https://2020-eu.semantics.cc/knowledge-graph-cookbook",
-          "publishedOn": "2021-06-23T15:56:13.000Z",
-          "wordCount": 224,
-          "title": "The Knowledge Graph Cookbook"
-        },
-        {
-          "id": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
-          "author": null,
-          "description": "",
-          "link": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
-          "publishedOn": "2021-06-23T14:38:24.000Z",
-          "wordCount": 4,
-          "title": "Whova Community Web App"
         }
       ]
     },
