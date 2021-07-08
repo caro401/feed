@@ -22,6 +22,15 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
+          "author": null,
+          "description": "Afterthoughts on (smart) note-taking approaches",
+          "link": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
+          "publishedOn": "2021-07-07T15:29:45.000Z",
+          "wordCount": 1485,
+          "title": "Afterthoughts on (smart) note-taking approaches"
+        },
+        {
           "id": "https://lib.cam.ac.uk/ghostwords?s=09",
           "author": null,
           "description": "",
@@ -63,7 +72,7 @@
           "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
           "link": "https://github.com/nybbles/obsidian-pocket",
           "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 948,
+          "wordCount": 851,
           "title": "obsidian-pocket"
         },
         {
@@ -281,15 +290,6 @@
           "publishedOn": "2021-06-23T15:56:33.000Z",
           "wordCount": 166,
           "title": "Taxonomy Trends"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/power-publication",
-          "author": null,
-          "description": "If Knowledge is Power, and Data is a means to Knowledge, then it makes sense to hoard data. But what if sharing data makes it more powerful? In this video, I outline four examples where sharing data makes it more valuable and more powerful.",
-          "link": "https://2020-eu.semantics.cc/power-publication",
-          "publishedOn": "2021-06-23T15:56:24.000Z",
-          "wordCount": 218,
-          "title": "The Power of Publication"
         }
       ]
     },
@@ -297,17 +297,7 @@
       "title": "Julia Evans",
       "feedUrl": "http://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/",
-          "author": null,
-          "description": "Hello! I’m very slowly\nworking on writing a zine about debugging, so I asked on Twitter the other day:\nIf you’ve run into a bug where it felt “impossible” to understand what was happening – what made it feel that way?\nOf course, bugs always happen for logical reasons, but I’ve definitely run into\nbugs that felt like they might be impossible for me to understand (until I\nfigured them out!)\nI got about 400 responses, which I’ll try to summarize here. I’m not going to\ntalk about how to deal with these various kinds of “impossible” bugs in this\npost, I’ll just try to classify them.\nHere are the categories I came up with for ways a bug might feel impossible\nto understand. Each one of them has a bunch of sub variants which are bolded below.\nit’s hard to reproduce\nyou don’t understand the overall…",
-          "link": "https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/",
-          "publishedOn": "2021-06-08T09:28:08.000Z",
-          "wordCount": 2482,
-          "title": "Reasons why bugs might feel \"impossible\""
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"
