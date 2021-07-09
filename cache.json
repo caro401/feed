@@ -28,7 +28,7 @@
           "link": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
           "publishedOn": "2021-07-07T15:29:45.000Z",
           "wordCount": 1485,
-          "title": "Afterthoughts on (smart) note-taking approaches"
+          "title": "The first Dutch Obsidian meetup"
         },
         {
           "id": "https://lib.cam.ac.uk/ghostwords?s=09",
@@ -72,7 +72,7 @@
           "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
           "link": "https://github.com/nybbles/obsidian-pocket",
           "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 851,
+          "wordCount": 948,
           "title": "obsidian-pocket"
         },
         {
@@ -297,7 +297,17 @@
       "title": "Julia Evans",
       "feedUrl": "http://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2021/07/08/writing-great-examples/",
+          "author": null,
+          "description": "When I write about programming, I spend a lot of time trying to come up with\ngood examples. I haven’t seen a lot written about how to make examples, so\nhere’s a little bit about my approach to writing examples!\nThe basic idea here is to start with real code that you wrote and then remove\nirrelevant details to make it into a self-contained example instead of coming\nup with examples out of thin air.\nI’ll talk about two kinds of examples: realistic examples and suprising\nexamples.\ngood examples are realistic\nTo see why examples should be realistic, let’s first talk about an unrealistic\nexample! Let’s say we’re trying to explain Python lambdas (which is just the\nfirst concept I thought of). You could give this example, of using map and a\nlambda to double a set of numbers.\nnumbers = [1, 2, 3, 4…",
+          "link": "https://jvns.ca/blog/2021/07/08/writing-great-examples/",
+          "publishedOn": "2021-07-08T11:00:46.000Z",
+          "wordCount": 847,
+          "title": "Write good examples by starting with real code"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"

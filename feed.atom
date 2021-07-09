@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-08T00:27:50.578Z</id>
+    <id>urn:2021-07-09T00:30:20.676Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T00:27:50.578Z</updated>
+    <updated>2021-07-09T00:30:20.676Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Afterthoughts on (smart) note-taking approaches]]></title>
+        <title type="html"><![CDATA[Write good examples by starting with real code]]></title>
+        <id>https://jvns.ca/blog/2021/07/08/writing-great-examples/</id>
+        <link href="https://jvns.ca/blog/2021/07/08/writing-great-examples/"/>
+        <updated>2021-07-08T11:00:46.000Z</updated>
+        <summary type="html"><![CDATA[When I write about programming, I spend a lot of time trying to come up with
+good examples. I haven’t seen a lot written about how to make examples, so
+here’s a little bit about my approach to writing examples!
+The basic idea here is to start with real code that you wrote and then remove
+irrelevant details to make it into a self-contained example instead of coming
+up with examples out of thin air.
+I’ll talk about two kinds of examples: realistic examples and suprising
+examples.
+good examples are realistic
+To see why examples should be realistic, let’s first talk about an unrealistic
+example! Let’s say we’re trying to explain Python lambdas (which is just the
+first concept I thought of). You could give this example, of using map and a
+lambda to double a set of numbers.
+numbers = [1, 2, 3, 4…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first Dutch Obsidian meetup]]></title>
         <id>https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup</id>
         <link href="https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup"/>
         <updated>2021-07-07T15:29:45.000Z</updated>
