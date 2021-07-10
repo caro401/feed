@@ -22,6 +22,114 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://youtube.com/watch?v=uTZD0a4ofno",
+          "author": null,
+          "description": "Ben Albritton from Stanford University will give a talk on the exciting ways IIIF resources can be used.Workshop available at: https://training.iiif.io/iiif-...",
+          "link": "https://youtube.com/watch?v=uTZD0a4ofno",
+          "publishedOn": "2021-07-09T15:41:48.000Z",
+          "wordCount": 18,
+          "title": "Using IIIF for research zoom session"
+        },
+        {
+          "id": "https://youtube.com/watch?v=zlFj3yItlE8",
+          "author": null,
+          "description": "Guest Presentation by Ben and Sara Brumfield. This is a hands on workshop that will walk you through:-- Ingesting IIIF material into FromThePage for transcri...",
+          "link": "https://youtube.com/watch?v=zlFj3yItlE8",
+          "publishedOn": "2021-07-09T15:41:45.000Z",
+          "wordCount": 13,
+          "title": "FromThePage"
+        },
+        {
+          "id": "https://youtube.com/watch?v=u9uNGIk8wrI",
+          "author": null,
+          "description": "Guest lecture by Jack ReedThis workshop will showcase several projects and uses for using machine learning with IIIF content. Based on:https://iiif-ml-worksh...",
+          "link": "https://youtube.com/watch?v=u9uNGIk8wrI",
+          "publishedOn": "2021-07-09T15:41:43.000Z",
+          "wordCount": 17,
+          "title": "Machine learning and IIIF examples"
+        },
+        {
+          "id": "https://youtube.com/watch?v=wVjrqsqzwNI",
+          "author": null,
+          "description": "This non-technical session covers the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of...",
+          "link": "https://youtube.com/watch?v=wVjrqsqzwNI",
+          "publishedOn": "2021-07-09T15:38:24.000Z",
+          "wordCount": 19,
+          "title": "IIIF Week 2020: Introduction to IIIF (A)"
+        },
+        {
+          "id": "https://github.com/jbaiter/archiscribe",
+          "author": null,
+          "description": "Web application for transcribing OCR ground truth from Archive.org - jbaiter/archiscribe",
+          "link": "https://github.com/jbaiter/archiscribe",
+          "publishedOn": "2021-07-09T15:37:05.000Z",
+          "wordCount": 505,
+          "title": "archiscribe"
+        },
+        {
+          "id": "https://glowrj.com",
+          "author": null,
+          "description": "",
+          "link": "https://glowrj.com",
+          "publishedOn": "2021-07-09T15:27:53.000Z",
+          "wordCount": 245,
+          "title": "GLoW – Geomapping Landscapes of Writing – Mapping and cataloguing cuneiform inscriptions from the Middle East and adjoining regions"
+        },
+        {
+          "id": "http://evoling.net",
+          "author": null,
+          "description": "Contact\n      \n        Prof. Michael Dunn\n        Department of Linguistics and Philology\n        Uppsala University\n        Box 635,\n        75126 Uppsala\n        Sweden",
+          "link": "http://evoling.net",
+          "publishedOn": "2021-07-09T15:27:35.000Z",
+          "wordCount": 501,
+          "title": "index"
+        },
+        {
+          "id": "https://clarin.eu",
+          "author": null,
+          "description": "",
+          "link": "https://clarin.eu",
+          "publishedOn": "2021-07-09T15:27:26.000Z",
+          "wordCount": 747,
+          "title": "CLARIN - European Research Infrastructure for Language Resources and Technology"
+        },
+        {
+          "id": "https://dariah.eu",
+          "author": null,
+          "description": "",
+          "link": "https://dariah.eu",
+          "publishedOn": "2021-07-09T15:25:32.000Z",
+          "wordCount": null,
+          "title": "DARIAH | Digital Research Infrastructure for the Arts and Humanities"
+        },
+        {
+          "id": "https://youtube.com/playlist?list=PL4Xuwfw4Q6DaZkuztRd8RSNJ3wyligs_Y",
+          "author": null,
+          "description": "Föredrag och seminarier arrangerade av forskningsnätverket Digital humaniora Uppsala (DH Uppsala) vid Uppsala universitet. Lectures and seminars arranged by ...",
+          "link": "https://youtube.com/playlist?list=PL4Xuwfw4Q6DaZkuztRd8RSNJ3wyligs_Y",
+          "publishedOn": "2021-07-09T15:25:21.000Z",
+          "wordCount": 15,
+          "title": "Digital humaniora Uppsala"
+        },
+        {
+          "id": "https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural",
+          "author": null,
+          "description": "[Make Caows and Shapcho - MeganAnn] \n\n [Pitsilised Koekirjad Cushion Sampler Poncho - Maeve]\n\n [Lacy 2047 - michaela112358]\n\n I use algorithms called neural networks to write humor. What’s fun about neural networks is they learn by example - give them a bunch of some sort of data, and they’ll try to figure out rules that let them imitate it. They power corporate finances, recognize faces, translate text, and more. I, however, like to give them silly datasets. I’ve trained neural networks to generate new paint colors, new Halloween costumes, and new candy heart messages. When the problem is tough, the results are mixed (there was that one candy heart that just said HOLE).\n\n One of the toughest problems I’ve ever tried? Knitting patterns.\n\n I knew almost nothing about knitting when @JohannaB@wandering.shop sent me the suggestion one day. She sent me to the Ravelry knitting site, and to its adults-only, often-indecorous LSG forum, who as you will see are amazing people. (When asked how I should describe them, one wrote “don’t forget the glitter and swearing!”)\n\n And so, we embarked upon Operation Hilarious Knitting Disaster. \n\n The knitters helped me crowdsource a dataset of 500 knitting patterns, ranging from hats to squids to unmentionables. JC Briar exported another 4728 patterns from the site stitch-maps.com. \n\n I gave the knitting patterns to a couple of neural networks that I collectively named “SkyKnit”. Then, not knowing if they had produced anything remotely knittable, I started posting the patterns. Here’s an early example.\n\n MrsNoddyNoddy wrote, “it’s difficult to explain why 6395, 71, 70, 77 is so asthma-inducingly funny.” (It seems that a 6000-plus stitch count is, as GloriaHanlon put it, “optimism”). \n\n As training progressed, and as I tried some higher-performance models, SkyKnit improved. Here’s a later example.\n\n Even at its best, SkyKnit had problems. It would sometimes repeat rows, or leave them out entirely. It could count rows fairly reliably up to about 22, but after that would start haphazardly guessing random largish numbers. SkyKnit also had trouble counting stitches, and would confidently declare at the end of certain lines that it contained 12 stitches when it was nothing of the sort.\n\n But the knitters began knitting them. This possibly marks one of the few times in history when a computer generated code to be executed by humans.\n\n [Mystery lace - datasock]\n\n [Reverss Shawl - citikas]\n\n [Frost - Odonata] \n\n The knitters didn’t follow SkyKnit’s directions exactly, as it turns out. For most of its patterns, doing them exactly as written would result in the pattern immediately unraveling (due to many dropped stitches), or turning into long whiplike tentacles (due to lots of leftover stitches). Or, to make the row counts match up with one another, they would have had to keep repeating the pattern until they’d reached a multiple of each row count - sometimes this was possible after a few repeats, while other times they would have had to make the pattern tens of thousands of stitches long. And other times, missing rows made the directions just plain impossible. \n\n So, the knitters just started fixing SkyKnit’s patterns.\n\n Knitters are very good at debugging patterns, as it turns out. Not only are there a lot of knitters who are coders, but debugging is such a regular part of knitting that the complicated math becomes second nature. Notation is not always consistent, some patterns need to be adjusted for size, and some simply have mistakes. The knitters were used to taking these problems in stride. When working with one of SkyKnit’s patterns, GloriaHanlon wrote, “I’m trying not to fudge too much, basically working on the principle that the pattern was written by an elderly relative who doesn’t speak much English.”\n\n Each pattern required a different debugging approach, and sometimes knitters would each produce their own very different-looking versions. Here are three versions of “Paw Not Pointed 2 Stitch 2″.\n\n [Top - ActualJellyfish; Middle - LadyAurian; Bottom (sock version) - ShoelessJane]\n\n Once, knitter MeganAnn came across a stitch that didn’t even exist (something SkyKnit called ’pbk’). So she had to improvise. “I googled it and went with the first definition I got, which was ‘place bead and knit’.” The resulting pattern is “Ribbed Rib Rib” below (note bead).\n\n [Ribbed Rib Rib - MeganAnn]\n\n Even debugged, the patterns were weird. Like, really, really nonhumanly weird.\n\n “I love how organic it comes out,“ wrote Vastra. SylviaTX agreed, loving “the organic seeming randomness. Like bubbles on water or something,” \n\n SkyKnit’s patterns were also a pain. Michaela112358 called Row 15 of Mystery Lace (above) “a bit of a head melter”, commenting that it “lacked the rhythm that you tend to get with a normal pattern”. Maeve_ish wrote that Shetland Bird Pat “made my brain hurt so I went to bed.” ShoelessJane asked, “Okay, now who here has read Snow Crash?”\n\n [Winder Socks (2 versions) - TotesMyName]\n\n\n “I was laughing a few days ago because I was trying to math a Skyknit pattern and my brain…froze. Like, no longer could number at all. I stared blankly at my scribbles and at the screen wondering what had happened til somehow I rebooted. Yup, Skyknit crashed my brain.” - Rayn63 \n\n\n [Paw chain 2 - HMSChicago]\n\n On the pattern SkyKnit called “Cherry and Acorns Twisted To”:\n\n\n “Couple notes on the knitting experience, which while funny wasn’t terribly pleasurable: Because there’s no rhythm or symmetry to the pattern, I felt I was white-knuckling it through each line, really having to concentrate. There are also some stitch combinations that aren’t very comfortable to execute physically, YO, SSK in particular.\n\n That said, I’m nearly tempted to add a bit of random AI lace to a project, perhaps as cuffs on a sweater or a short-row lace panel in part of a scarf, like Sylvia McFadden does in many of her shawl designs. As another person in the thread said, it would add a touch of spider-on-LSD.” -SarahScully\n\n\n [cherry and acorns twisted to - Sarah Scully]\n\n BridgetJ’s comments on “Butnet Scarf”:\n\n\n “Four repeats in to this oddball, daintily alien-looking 8-row lace pattern, and I have, improbably, begun to internalize it and get in to a rhythm like every other lace pattern.\n\n I still have a lingering suspicion that I’m knitting a pattern that could someday communicate to an AI that I want to play a game of Global Thermonuclear War, but I suppose at least I’ll have a scarf at the end of it?” -BridgetJ\n\n\n [butnet scarf - BridgetJ]\n\n There was also this beauty of a pattern, that SkyKnit called “Tiny Baby Whale Soto”. GloriaHanlon managed somehow to knit it and described it as “a bona fide eldritch horror. Think Slenderman meets Cthulu and you wouldn’t be far wrong.”\n\n [Tiny Baby Whale Soto - GloriaHanlon]\n\n Other than being a bit afraid of Tiny Baby Whale Soto, the knitters seem happy to do the bidding of SkyKnit, brain melts and all.\n\n\n “I cast on for a lovely MKAL with a designer I totally trust and became immediately suspicious because the pattern made sense. All rows increase in an orderly manner. There are no “huh?” moments. There are no maths at all…it has all been done for me. I thought I would be happy, yo. Instead, I am kind of missing the brain scrambling and I keep looking for pigs and tentacles. Go figure.” - Rayn63 \n\n\n Check out the rest of the SkyKnit-generated patterns, and the glorious rainbow of weird test-knits at SkyKnit: The Collection and InfiKnit.  \n\n There’s also a great article in the Atlantic that talks a bit more about the debugging.  \n\n If you feel so inspired (and don’t mind the kind-hearted yet vigorous swearing), join the conversation on the LSG Ravelry SkyKnit thread - many of SkyKnit’s creations have not yet been test-knit at all, and others transform with every new knitter’s interpretation. Compare notes, commiserate, and do SkyKnit’s inscrutable bidding!\n\n Heck yeah there is bonus material this week. Have some neural net-generated knitting & crochet titles. Some of them are mixed with metal band names for added creepiness. Become a supporter of AI Weirdness to get more like these:\n\n\n Chicken Shrug Snuggle Features Cartube Party Filled Booties Corm Fullenflops Womp Mittens Socks of Death Tomb of Sweater Shawl Ruins",
+          "link": "https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural",
+          "publishedOn": "2021-07-09T14:49:55.000Z",
+          "wordCount": 1628,
+          "title": "SkyKnit: When knitters teamed up with a neural network"
+        },
+        {
+          "id": "https://theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894",
+          "author": null,
+          "description": "Quirky knitters teamed up with a neural-network creator to generate new types of tentacled, cozy shapes.",
+          "link": "https://theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894",
+          "publishedOn": "2021-07-09T14:49:14.000Z",
+          "wordCount": 1980,
+          "title": "SkyKnit: How an AI Took Over an Adult Knitting Community"
+        },
+        {
           "id": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
           "author": null,
           "description": "Afterthoughts on (smart) note-taking approaches",
@@ -72,7 +180,7 @@
           "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
           "link": "https://github.com/nybbles/obsidian-pocket",
           "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 948,
+          "wordCount": 851,
           "title": "obsidian-pocket"
         },
         {
@@ -144,7 +252,7 @@
           "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. - trimstray/the-book-of-secret-knowledge",
           "link": "https://github.com/trimstray/the-book-of-secret-knowledge",
           "publishedOn": "2021-07-04T10:20:05.000Z",
-          "wordCount": 22115,
+          "wordCount": 22089,
           "title": "Sponsor trimstray/the-book-of-secret-knowledge"
         },
         {
@@ -182,114 +290,6 @@
           "publishedOn": "2021-06-23T16:03:08.000Z",
           "wordCount": 357,
           "title": "Linked Data supported Content Analysis for Sociology"
-        },
-        {
-          "id": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data",
-          "publishedOn": "2021-06-23T16:03:05.000Z",
-          "wordCount": 303,
-          "title": "MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data"
-        },
-        {
-          "id": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more",
-          "publishedOn": "2021-06-23T16:03:01.000Z",
-          "wordCount": 285,
-          "title": "Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more"
-        },
-        {
-          "id": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata",
-          "publishedOn": "2021-06-23T16:00:50.000Z",
-          "wordCount": 354,
-          "title": "Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata."
-        },
-        {
-          "id": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system",
-          "publishedOn": "2021-06-23T16:00:46.000Z",
-          "wordCount": 374,
-          "title": "Creating a semantic food knowledge base with cooking recipes for a meal recommender system"
-        },
-        {
-          "id": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople",
-          "publishedOn": "2021-06-23T16:00:43.000Z",
-          "wordCount": 278,
-          "title": "Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople"
-        },
-        {
-          "id": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/creating-value-data-knowledge-graphs",
-          "publishedOn": "2021-06-23T16:00:40.000Z",
-          "wordCount": 248,
-          "title": "Creating Value from Data with Knowledge Graphs"
-        },
-        {
-          "id": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows",
-          "publishedOn": "2021-06-23T16:00:37.000Z",
-          "wordCount": 272,
-          "title": "Towards a Framework for Semantic Data Analytics Workflows"
-        },
-        {
-          "id": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts",
-          "publishedOn": "2021-06-23T16:00:33.000Z",
-          "wordCount": 256,
-          "title": "Improving NLU Training over Linked Data with Placeholder Concepts"
-        },
-        {
-          "id": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning",
-          "publishedOn": "2021-06-23T16:00:33.000Z",
-          "wordCount": 592,
-          "title": "Deep Text Analytics with Knowledge Graphs and Machine Learning"
-        },
-        {
-          "id": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge",
-          "publishedOn": "2021-06-23T16:00:24.000Z",
-          "wordCount": 193,
-          "title": "Knowledge Graphs: Fundamental concepts of linking data to knowledge"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
-          "author": null,
-          "description": "Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.",
-          "link": "https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph",
-          "publishedOn": "2021-06-23T15:56:50.000Z",
-          "wordCount": 312,
-          "title": "Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph"
-        },
-        {
-          "id": "https://2020-eu.semantics.cc/taxonomy-trends",
-          "author": null,
-          "description": "Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.",
-          "link": "https://2020-eu.semantics.cc/taxonomy-trends",
-          "publishedOn": "2021-06-23T15:56:33.000Z",
-          "wordCount": 166,
-          "title": "Taxonomy Trends"
         }
       ]
     },
@@ -304,7 +304,7 @@
           "description": "When I write about programming, I spend a lot of time trying to come up with\ngood examples. I haven’t seen a lot written about how to make examples, so\nhere’s a little bit about my approach to writing examples!\nThe basic idea here is to start with real code that you wrote and then remove\nirrelevant details to make it into a self-contained example instead of coming\nup with examples out of thin air.\nI’ll talk about two kinds of examples: realistic examples and suprising\nexamples.\ngood examples are realistic\nTo see why examples should be realistic, let’s first talk about an unrealistic\nexample! Let’s say we’re trying to explain Python lambdas (which is just the\nfirst concept I thought of). You could give this example, of using map and a\nlambda to double a set of numbers.\nnumbers = [1, 2, 3, 4…",
           "link": "https://jvns.ca/blog/2021/07/08/writing-great-examples/",
           "publishedOn": "2021-07-08T11:00:46.000Z",
-          "wordCount": 847,
+          "wordCount": 898,
           "title": "Write good examples by starting with real code"
         }
       ]

@@ -1,10 +1,233 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-09T00:30:20.676Z</id>
+    <id>urn:2021-07-10T00:28:24.986Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-09T00:30:20.676Z</updated>
+    <updated>2021-07-10T00:28:24.986Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Using IIIF for research zoom session]]></title>
+        <id>https://youtube.com/watch?v=uTZD0a4ofno</id>
+        <link href="https://youtube.com/watch?v=uTZD0a4ofno"/>
+        <updated>2021-07-09T15:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Ben Albritton from Stanford University will give a talk on the exciting ways IIIF resources can be used.Workshop available at: https://training.iiif.io/iiif-...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FromThePage]]></title>
+        <id>https://youtube.com/watch?v=zlFj3yItlE8</id>
+        <link href="https://youtube.com/watch?v=zlFj3yItlE8"/>
+        <updated>2021-07-09T15:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Guest Presentation by Ben and Sara Brumfield. This is a hands on workshop that will walk you through:-- Ingesting IIIF material into FromThePage for transcri...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine learning and IIIF examples]]></title>
+        <id>https://youtube.com/watch?v=u9uNGIk8wrI</id>
+        <link href="https://youtube.com/watch?v=u9uNGIk8wrI"/>
+        <updated>2021-07-09T15:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Guest lecture by Jack ReedThis workshop will showcase several projects and uses for using machine learning with IIIF content. Based on:https://iiif-ml-worksh...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IIIF Week 2020: Introduction to IIIF (A)]]></title>
+        <id>https://youtube.com/watch?v=wVjrqsqzwNI</id>
+        <link href="https://youtube.com/watch?v=wVjrqsqzwNI"/>
+        <updated>2021-07-09T15:38:24.000Z</updated>
+        <summary type="html"><![CDATA[This non-technical session covers the basics of IIIF technology and the IIIF Community, including why the framework is helpful, how it works, and examples of...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[archiscribe]]></title>
+        <id>https://github.com/jbaiter/archiscribe</id>
+        <link href="https://github.com/jbaiter/archiscribe"/>
+        <updated>2021-07-09T15:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Web application for transcribing OCR ground truth from Archive.org - jbaiter/archiscribe]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLoW – Geomapping Landscapes of Writing – Mapping and cataloguing cuneiform inscriptions from the Middle East and adjoining regions]]></title>
+        <id>https://glowrj.com</id>
+        <link href="https://glowrj.com"/>
+        <updated>2021-07-09T15:27:53.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[index]]></title>
+        <id>http://evoling.net</id>
+        <link href="http://evoling.net"/>
+        <updated>2021-07-09T15:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Contact
+      
+        Prof. Michael Dunn
+        Department of Linguistics and Philology
+        Uppsala University
+        Box 635,
+        75126 Uppsala
+        Sweden]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLARIN - European Research Infrastructure for Language Resources and Technology]]></title>
+        <id>https://clarin.eu</id>
+        <link href="https://clarin.eu"/>
+        <updated>2021-07-09T15:27:26.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DARIAH | Digital Research Infrastructure for the Arts and Humanities]]></title>
+        <id>https://dariah.eu</id>
+        <link href="https://dariah.eu"/>
+        <updated>2021-07-09T15:25:32.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital humaniora Uppsala]]></title>
+        <id>https://youtube.com/playlist?list=PL4Xuwfw4Q6DaZkuztRd8RSNJ3wyligs_Y</id>
+        <link href="https://youtube.com/playlist?list=PL4Xuwfw4Q6DaZkuztRd8RSNJ3wyligs_Y"/>
+        <updated>2021-07-09T15:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Föredrag och seminarier arrangerade av forskningsnätverket Digital humaniora Uppsala (DH Uppsala) vid Uppsala universitet. Lectures and seminars arranged by ...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyKnit: When knitters teamed up with a neural network]]></title>
+        <id>https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural</id>
+        <link href="https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural"/>
+        <updated>2021-07-09T14:49:55.000Z</updated>
+        <summary type="html"><![CDATA[[Make Caows and Shapcho - MeganAnn] 
+
+ [Pitsilised Koekirjad Cushion Sampler Poncho - Maeve]
+
+ [Lacy 2047 - michaela112358]
+
+ I use algorithms called neural networks to write humor. What’s fun about neural networks is they learn by example - give them a bunch of some sort of data, and they’ll try to figure out rules that let them imitate it. They power corporate finances, recognize faces, translate text, and more. I, however, like to give them silly datasets. I’ve trained neural networks to generate new paint colors, new Halloween costumes, and new candy heart messages. When the problem is tough, the results are mixed (there was that one candy heart that just said HOLE).
+
+ One of the toughest problems I’ve ever tried? Knitting patterns.
+
+ I knew almost nothing about knitting when @JohannaB@wandering.shop sent me the suggestion one day. She sent me to the Ravelry knitting site, and to its adults-only, often-indecorous LSG forum, who as you will see are amazing people. (When asked how I should describe them, one wrote “don’t forget the glitter and swearing!”)
+
+ And so, we embarked upon Operation Hilarious Knitting Disaster. 
+
+ The knitters helped me crowdsource a dataset of 500 knitting patterns, ranging from hats to squids to unmentionables. JC Briar exported another 4728 patterns from the site stitch-maps.com. 
+
+ I gave the knitting patterns to a couple of neural networks that I collectively named “SkyKnit”. Then, not knowing if they had produced anything remotely knittable, I started posting the patterns. Here’s an early example.
+
+ MrsNoddyNoddy wrote, “it’s difficult to explain why 6395, 71, 70, 77 is so asthma-inducingly funny.” (It seems that a 6000-plus stitch count is, as GloriaHanlon put it, “optimism”). 
+
+ As training progressed, and as I tried some higher-performance models, SkyKnit improved. Here’s a later example.
+
+ Even at its best, SkyKnit had problems. It would sometimes repeat rows, or leave them out entirely. It could count rows fairly reliably up to about 22, but after that would start haphazardly guessing random largish numbers. SkyKnit also had trouble counting stitches, and would confidently declare at the end of certain lines that it contained 12 stitches when it was nothing of the sort.
+
+ But the knitters began knitting them. This possibly marks one of the few times in history when a computer generated code to be executed by humans.
+
+ [Mystery lace - datasock]
+
+ [Reverss Shawl - citikas]
+
+ [Frost - Odonata] 
+
+ The knitters didn’t follow SkyKnit’s directions exactly, as it turns out. For most of its patterns, doing them exactly as written would result in the pattern immediately unraveling (due to many dropped stitches), or turning into long whiplike tentacles (due to lots of leftover stitches). Or, to make the row counts match up with one another, they would have had to keep repeating the pattern until they’d reached a multiple of each row count - sometimes this was possible after a few repeats, while other times they would have had to make the pattern tens of thousands of stitches long. And other times, missing rows made the directions just plain impossible. 
+
+ So, the knitters just started fixing SkyKnit’s patterns.
+
+ Knitters are very good at debugging patterns, as it turns out. Not only are there a lot of knitters who are coders, but debugging is such a regular part of knitting that the complicated math becomes second nature. Notation is not always consistent, some patterns need to be adjusted for size, and some simply have mistakes. The knitters were used to taking these problems in stride. When working with one of SkyKnit’s patterns, GloriaHanlon wrote, “I’m trying not to fudge too much, basically working on the principle that the pattern was written by an elderly relative who doesn’t speak much English.”
+
+ Each pattern required a different debugging approach, and sometimes knitters would each produce their own very different-looking versions. Here are three versions of “Paw Not Pointed 2 Stitch 2″.
+
+ [Top - ActualJellyfish; Middle - LadyAurian; Bottom (sock version) - ShoelessJane]
+
+ Once, knitter MeganAnn came across a stitch that didn’t even exist (something SkyKnit called ’pbk’). So she had to improvise. “I googled it and went with the first definition I got, which was ‘place bead and knit’.” The resulting pattern is “Ribbed Rib Rib” below (note bead).
+
+ [Ribbed Rib Rib - MeganAnn]
+
+ Even debugged, the patterns were weird. Like, really, really nonhumanly weird.
+
+ “I love how organic it comes out,“ wrote Vastra. SylviaTX agreed, loving “the organic seeming randomness. Like bubbles on water or something,” 
+
+ SkyKnit’s patterns were also a pain. Michaela112358 called Row 15 of Mystery Lace (above) “a bit of a head melter”, commenting that it “lacked the rhythm that you tend to get with a normal pattern”. Maeve_ish wrote that Shetland Bird Pat “made my brain hurt so I went to bed.” ShoelessJane asked, “Okay, now who here has read Snow Crash?”
+
+ [Winder Socks (2 versions) - TotesMyName]
+
+
+ “I was laughing a few days ago because I was trying to math a Skyknit pattern and my brain…froze. Like, no longer could number at all. I stared blankly at my scribbles and at the screen wondering what had happened til somehow I rebooted. Yup, Skyknit crashed my brain.” - Rayn63 
+
+
+ [Paw chain 2 - HMSChicago]
+
+ On the pattern SkyKnit called “Cherry and Acorns Twisted To”:
+
+
+ “Couple notes on the knitting experience, which while funny wasn’t terribly pleasurable: Because there’s no rhythm or symmetry to the pattern, I felt I was white-knuckling it through each line, really having to concentrate. There are also some stitch combinations that aren’t very comfortable to execute physically, YO, SSK in particular.
+
+ That said, I’m nearly tempted to add a bit of random AI lace to a project, perhaps as cuffs on a sweater or a short-row lace panel in part of a scarf, like Sylvia McFadden does in many of her shawl designs. As another person in the thread said, it would add a touch of spider-on-LSD.” -SarahScully
+
+
+ [cherry and acorns twisted to - Sarah Scully]
+
+ BridgetJ’s comments on “Butnet Scarf”:
+
+
+ “Four repeats in to this oddball, daintily alien-looking 8-row lace pattern, and I have, improbably, begun to internalize it and get in to a rhythm like every other lace pattern.
+
+ I still have a lingering suspicion that I’m knitting a pattern that could someday communicate to an AI that I want to play a game of Global Thermonuclear War, but I suppose at least I’ll have a scarf at the end of it?” -BridgetJ
+
+
+ [butnet scarf - BridgetJ]
+
+ There was also this beauty of a pattern, that SkyKnit called “Tiny Baby Whale Soto”. GloriaHanlon managed somehow to knit it and described it as “a bona fide eldritch horror. Think Slenderman meets Cthulu and you wouldn’t be far wrong.”
+
+ [Tiny Baby Whale Soto - GloriaHanlon]
+
+ Other than being a bit afraid of Tiny Baby Whale Soto, the knitters seem happy to do the bidding of SkyKnit, brain melts and all.
+
+
+ “I cast on for a lovely MKAL with a designer I totally trust and became immediately suspicious because the pattern made sense. All rows increase in an orderly manner. There are no “huh?” moments. There are no maths at all…it has all been done for me. I thought I would be happy, yo. Instead, I am kind of missing the brain scrambling and I keep looking for pigs and tentacles. Go figure.” - Rayn63 
+
+
+ Check out the rest of the SkyKnit-generated patterns, and the glorious rainbow of weird test-knits at SkyKnit: The Collection and InfiKnit.  
+
+ There’s also a great article in the Atlantic that talks a bit more about the debugging.  
+
+ If you feel so inspired (and don’t mind the kind-hearted yet vigorous swearing), join the conversation on the LSG Ravelry SkyKnit thread - many of SkyKnit’s creations have not yet been test-knit at all, and others transform with every new knitter’s interpretation. Compare notes, commiserate, and do SkyKnit’s inscrutable bidding!
+
+ Heck yeah there is bonus material this week. Have some neural net-generated knitting & crochet titles. Some of them are mixed with metal band names for added creepiness. Become a supporter of AI Weirdness to get more like these:
+
+
+ Chicken Shrug Snuggle Features Cartube Party Filled Booties Corm Fullenflops Womp Mittens Socks of Death Tomb of Sweater Shawl Ruins]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyKnit: How an AI Took Over an Adult Knitting Community]]></title>
+        <id>https://theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894</id>
+        <link href="https://theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894"/>
+        <updated>2021-07-09T14:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Quirky knitters teamed up with a neural-network creator to generate new types of tentacled, cozy shapes.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Write good examples by starting with real code]]></title>
         <id>https://jvns.ca/blog/2021/07/08/writing-great-examples/</id>
@@ -198,116 +421,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <id>https://2019.semantics.cc/linked-data-supported-content-analysis-sociology</id>
         <link href="https://2019.semantics.cc/linked-data-supported-content-analysis-sociology"/>
         <updated>2021-06-23T16:03:08.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MusicKG: Representations of sound and music in the Middle Ages as Linked Open Data]]></title>
-        <id>https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data</id>
-        <link href="https://2019.semantics.cc/musickg-representations-sound-and-music-middle-ages-linked-open-data"/>
-        <updated>2021-06-23T16:03:05.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language-related Linked (Open) Data for Knowledge Solutions, Artificial Intelligence and more]]></title>
-        <id>https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more</id>
-        <link href="https://2019.semantics.cc/language-related-linked-open-data-knowledge-solutions-artificial-intelligence-and-more"/>
-        <updated>2021-06-23T16:03:01.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Democratizing Linked Data - A picture is worth a thousand words with embedded linked metadata.]]></title>
-        <id>https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata</id>
-        <link href="https://2019.semantics.cc/democratizing-linked-data-picture-worth-thousand-words-embedded-linked-metadata"/>
-        <updated>2021-06-23T16:00:50.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a semantic food knowledge base with cooking recipes for a meal recommender system]]></title>
-        <id>https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system</id>
-        <link href="https://2019.semantics.cc/creating-semantic-food-knowledge-base-cooking-recipes-meal-recommender-system"/>
-        <updated>2021-06-23T16:00:46.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople]]></title>
-        <id>https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople</id>
-        <link href="https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople"/>
-        <updated>2021-06-23T16:00:43.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Value from Data with Knowledge Graphs]]></title>
-        <id>https://2019.semantics.cc/creating-value-data-knowledge-graphs</id>
-        <link href="https://2019.semantics.cc/creating-value-data-knowledge-graphs"/>
-        <updated>2021-06-23T16:00:40.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Towards a Framework for Semantic Data Analytics Workflows]]></title>
-        <id>https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows</id>
-        <link href="https://2019.semantics.cc/towards-framework-semantic-data-analytics-workflows"/>
-        <updated>2021-06-23T16:00:37.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving NLU Training over Linked Data with Placeholder Concepts]]></title>
-        <id>https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts</id>
-        <link href="https://2019.semantics.cc/improving-nlu-training-over-linked-data-placeholder-concepts"/>
-        <updated>2021-06-23T16:00:33.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Text Analytics with Knowledge Graphs and Machine Learning]]></title>
-        <id>https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning</id>
-        <link href="https://2019.semantics.cc/deep-text-analytics-knowledge-graphs-and-machine-learning"/>
-        <updated>2021-06-23T16:00:33.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Graphs: Fundamental concepts of linking data to knowledge]]></title>
-        <id>https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge</id>
-        <link href="https://2019.semantics.cc/knowledge-graphs-fundamental-concepts-linking-data-knowledge"/>
-        <updated>2021-06-23T16:00:24.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Historical Person Registers as Linked Open Data in the WarSampo Knowledge Graph]]></title>
-        <id>https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph</id>
-        <link href="https://2020-eu.semantics.cc/integrating-historical-person-registers-linked-open-data-warsampo-knowledge-graph"/>
-        <updated>2021-06-23T15:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Semantic data integration from heterogeneous, distributed data silos enables Digital Humanities research and application development employing a larger, mutually enriched and interlinked knowledge graph. However, data integration is challenging, involving aligning the data models and reconciling the concepts and named entities, such as persons and places.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxonomy Trends]]></title>
-        <id>https://2020-eu.semantics.cc/taxonomy-trends</id>
-        <link href="https://2020-eu.semantics.cc/taxonomy-trends"/>
-        <updated>2021-06-23T15:56:33.000Z</updated>
-        <summary type="html"><![CDATA[Taxonomy trends for 2020 include growth in ecommerce taxonomies and intranet/digital employee experience taxonomies. Longer on-going trends include auto-categorization, AI, and machine learning with taxonomies, and the integration/convergence of taxonomies and ontologies. The integration of taxonomies and ontologies is described in more detail.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
