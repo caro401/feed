@@ -22,6 +22,42 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains",
+          "author": null,
+          "description": "Online forms of note taking tools and the future of note taking.",
+          "link": "https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains",
+          "publishedOn": "2021-07-10T12:47:55.000Z",
+          "wordCount": 9287,
+          "title": "Differentiating online variations of the Commonplace Book: Digital Gardens, Wikis, Zettlekasten, Waste Books, Florilegia, and Second Brains"
+        },
+        {
+          "id": "https://youtu.be/4j4hG_0AoWs",
+          "author": null,
+          "description": "Learn how to use time-blocking in Obsidian to take back your calendar. Giving you time to get done what matters.0:00 What is time-blocking?1:05 Time-blocking...",
+          "link": "https://youtu.be/4j4hG_0AoWs",
+          "publishedOn": "2021-07-10T12:45:43.000Z",
+          "wordCount": 15,
+          "title": "Time-blocking in Obsidian"
+        },
+        {
+          "id": "https://github.com/thesephist/monocle",
+          "author": null,
+          "description": "Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals....",
+          "link": "https://github.com/thesephist/monocle",
+          "publishedOn": "2021-07-10T08:57:03.000Z",
+          "wordCount": 2766,
+          "title": "Monocle 👓"
+        },
+        {
+          "id": "https://craft.do/s/5EYqvXdOUIrNu5?s=09",
+          "author": null,
+          "description": "",
+          "link": "https://craft.do/s/5EYqvXdOUIrNu5?s=09",
+          "publishedOn": "2021-07-10T08:27:01.000Z",
+          "wordCount": 20,
+          "title": "Your Data is Yours - Our thoughts on Data Ownership and Accessibility"
+        },
+        {
           "id": "https://youtube.com/watch?v=uTZD0a4ofno",
           "author": null,
           "description": "Ben Albritton from Stanford University will give a talk on the exciting ways IIIF resources can be used.Workshop available at: https://training.iiif.io/iiif-...",
@@ -135,7 +171,7 @@
           "description": "Afterthoughts on (smart) note-taking approaches",
           "link": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
           "publishedOn": "2021-07-07T15:29:45.000Z",
-          "wordCount": 1485,
+          "wordCount": 1491,
           "title": "The first Dutch Obsidian meetup"
         },
         {
@@ -180,7 +216,7 @@
           "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
           "link": "https://github.com/nybbles/obsidian-pocket",
           "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 851,
+          "wordCount": 943,
           "title": "obsidian-pocket"
         },
         {
@@ -254,42 +290,6 @@
           "publishedOn": "2021-07-04T10:20:05.000Z",
           "wordCount": 22089,
           "title": "Sponsor trimstray/the-book-of-secret-knowledge"
-        },
-        {
-          "id": "https://youtu.be/M5tyaBBqKIw",
-          "author": null,
-          "description": "Jen Luker (https://twitter.com/knitcodemonkey) at React Rally 2019",
-          "link": "https://youtu.be/M5tyaBBqKIw",
-          "publishedOn": "2021-06-23T20:19:47.000Z",
-          "wordCount": 19,
-          "title": "Weaving Tapestries of Code - Jen Luker"
-        },
-        {
-          "id": "https://mmmonk.be/en",
-          "author": null,
-          "description": "",
-          "link": "https://mmmonk.be/en",
-          "publishedOn": "2021-06-23T18:17:13.000Z",
-          "wordCount": 177,
-          "title": "Join our Mmmonk session at the IIIF Conference 24/6/21"
-        },
-        {
-          "id": "https://isos.dias.ie/english/index.html",
-          "author": null,
-          "description": "",
-          "link": "https://isos.dias.ie/english/index.html",
-          "publishedOn": "2021-06-23T18:15:57.000Z",
-          "wordCount": 12,
-          "title": "Irish Script On Screen - Meamram Páipéar Ríomhaire"
-        },
-        {
-          "id": "https://2019.semantics.cc/linked-data-supported-content-analysis-sociology",
-          "author": null,
-          "description": "",
-          "link": "https://2019.semantics.cc/linked-data-supported-content-analysis-sociology",
-          "publishedOn": "2021-06-23T16:03:08.000Z",
-          "wordCount": 357,
-          "title": "Linked Data supported Content Analysis for Sociology"
         }
       ]
     },
