@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-11T00:30:52.926Z</id>
+    <id>urn:2021-07-12T00:29:27.179Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T00:30:52.926Z</updated>
+    <updated>2021-07-12T00:29:27.179Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SplootCode Editor]]></title>
+        <id>https://github.com/katharosada/splootcode?s=09</id>
+        <link href="https://github.com/katharosada/splootcode?s=09"/>
+        <updated>2021-07-11T22:46:08.000Z</updated>
+        <summary type="html"><![CDATA[An experimental visual coding editor. Contribute to katharosada/splootcode development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://dl.acm.org/doi/abs/10.1145/3341981.3344241?s=09</id>
+        <link href="https://dl.acm.org/doi/abs/10.1145/3341981.3344241?s=09"/>
+        <updated>2021-07-11T12:44:45.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio Marketplace]]></title>
+        <id>https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph</id>
+        <link href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"/>
+        <updated>2021-07-11T09:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Extension for Visual Studio Code - View a Git Graph of your repository, and perform Git actions from the graph.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Differentiating online variations of the Commonplace Book: Digital Gardens, Wikis, Zettlekasten, Waste Books, Florilegia, and Second Brains]]></title>
         <id>https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains</id>
@@ -393,36 +422,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <link href="https://youtube.com/watch?v=s9WowZQpYxY"/>
         <updated>2021-07-04T15:20:20.000Z</updated>
         <summary type="html"><![CDATA[What does the Digital Humanities look like in 2020? Co-directors of the Digital Humanities Oxford Summer School Megan Gooch and David de Roure  talk about th...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debates in the Digital Humanities]]></title>
-        <id>https://dhdebates.gc.cuny.edu</id>
-        <link href="https://dhdebates.gc.cuny.edu"/>
-        <updated>2021-07-04T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Transforming scholarly publications into living digital works]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Tips for Better Signup / Login UX – Learn UI Design]]></title>
-        <id>https://learnui.design/blog/tips-signup-login-ux.html</id>
-        <link href="https://learnui.design/blog/tips-signup-login-ux.html"/>
-        <updated>2021-07-04T10:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Mobile patterns · Form field validation · Autofocus · Microcopy · Error messages · Error prevention]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sponsor trimstray/the-book-of-secret-knowledge]]></title>
-        <id>https://github.com/trimstray/the-book-of-secret-knowledge</id>
-        <link href="https://github.com/trimstray/the-book-of-secret-knowledge"/>
-        <updated>2021-07-04T10:20:05.000Z</updated>
-        <summary type="html"><![CDATA[A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. - trimstray/the-book-of-secret-knowledge]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
