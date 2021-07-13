@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-12T00:29:27.179Z</id>
+    <id>urn:2021-07-13T00:30:56.941Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T00:29:27.179Z</updated>
+    <updated>2021-07-13T00:30:56.941Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How did university students take notes during lectures before paper became cheap and accessible?]]></title>
+        <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
+        <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
+        <updated>2021-07-12T08:23:14.000Z</updated>
+        <summary type="html"><![CDATA[2,755 votes and 50 comments so far on Reddit]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SplootCode Editor]]></title>
         <id>https://github.com/katharosada/splootcode?s=09</id>
@@ -412,16 +422,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <link href="https://youtube.com/watch?v=vG11H4HsFvg"/>
         <updated>2021-07-04T17:44:54.000Z</updated>
         <summary type="html"><![CDATA[This year's version of the International Congress on Medieval Studies was held online. This week, Danièle is joined by Peter Konieczny to discuss their highl...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to the Digital Humanities - David de Roure &amp;amp; Megan Gooch]]></title>
-        <id>https://youtube.com/watch?v=s9WowZQpYxY</id>
-        <link href="https://youtube.com/watch?v=s9WowZQpYxY"/>
-        <updated>2021-07-04T15:20:20.000Z</updated>
-        <summary type="html"><![CDATA[What does the Digital Humanities look like in 2020? Co-directors of the Digital Humanities Oxford Summer School Megan Gooch and David de Roure  talk about th...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>

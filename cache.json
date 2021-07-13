@@ -22,12 +22,21 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
+          "author": null,
+          "description": "2,755 votes and 50 comments so far on Reddit",
+          "link": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
+          "publishedOn": "2021-07-12T08:23:14.000Z",
+          "wordCount": 2961,
+          "title": "How did university students take notes during lectures before paper became cheap and accessible?"
+        },
+        {
           "id": "https://github.com/katharosada/splootcode?s=09",
           "author": null,
           "description": "An experimental visual coding editor. Contribute to katharosada/splootcode development by creating an account on GitHub.",
           "link": "https://github.com/katharosada/splootcode?s=09",
           "publishedOn": "2021-07-11T22:46:08.000Z",
-          "wordCount": 890,
+          "wordCount": 896,
           "title": "SplootCode Editor"
         },
         {
@@ -153,7 +162,7 @@
           "description": "",
           "link": "https://clarin.eu",
           "publishedOn": "2021-07-09T15:27:26.000Z",
-          "wordCount": 747,
+          "wordCount": 752,
           "title": "CLARIN - European Research Infrastructure for Language Resources and Technology"
         },
         {
@@ -243,7 +252,7 @@
           "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
           "link": "https://github.com/nybbles/obsidian-pocket",
           "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 943,
+          "wordCount": 857,
           "title": "obsidian-pocket"
         },
         {
@@ -281,15 +290,6 @@
           "publishedOn": "2021-07-04T17:44:54.000Z",
           "wordCount": 22,
           "title": "Kzoo by Zoom: The 2021 International Congress on Medieval Studies"
-        },
-        {
-          "id": "https://youtube.com/watch?v=s9WowZQpYxY",
-          "author": null,
-          "description": "What does the Digital Humanities look like in 2020? Co-directors of the Digital Humanities Oxford Summer School Megan Gooch and David de Roure  talk about th...",
-          "link": "https://youtube.com/watch?v=s9WowZQpYxY",
-          "publishedOn": "2021-07-04T15:20:20.000Z",
-          "wordCount": 25,
-          "title": "An Introduction to the Digital Humanities - David de Roure &amp;amp; Megan Gooch"
         }
       ]
     },
