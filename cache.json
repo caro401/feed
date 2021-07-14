@@ -22,12 +22,84 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://stylestage.dev/styles/a-scottish-landscape",
+          "author": null,
+          "description": "A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.",
+          "link": "https://stylestage.dev/styles/a-scottish-landscape",
+          "publishedOn": "2021-07-13T18:52:51.000Z",
+          "wordCount": 764,
+          "title": "Style Stage"
+        },
+        {
+          "id": "https://stylestage.dev/styles/fresh",
+          "author": null,
+          "description": "A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.",
+          "link": "https://stylestage.dev/styles/fresh",
+          "publishedOn": "2021-07-13T18:51:20.000Z",
+          "wordCount": 759,
+          "title": "Style Stage"
+        },
+        {
+          "id": "https://stylestage.dev/styles/plants-on-pink",
+          "author": null,
+          "description": "A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.",
+          "link": "https://stylestage.dev/styles/plants-on-pink",
+          "publishedOn": "2021-07-13T18:50:45.000Z",
+          "wordCount": 760,
+          "title": "Style Stage"
+        },
+        {
+          "id": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink",
+          "author": null,
+          "description": "The text-decoration-skip-ink CSS property specifies how overlines and underlines are drawn when they pass over glyph ascenders and descenders.",
+          "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink",
+          "publishedOn": "2021-07-13T18:46:27.000Z",
+          "wordCount": 1013,
+          "title": "text-decoration-skip-ink"
+        },
+        {
+          "id": "https://prismic.io/vs/wordpress",
+          "author": null,
+          "description": "prismic.io is a productive, enjoyable WordPress alternative for developers, it allows you to deliver rich designs using modern templating languages.",
+          "link": "https://prismic.io/vs/wordpress",
+          "publishedOn": "2021-07-13T15:40:27.000Z",
+          "wordCount": 1310,
+          "title": "prismic.io vs. WordPress"
+        },
+        {
+          "id": "https://arxiv.org/abs/2105.05222",
+          "author": null,
+          "description": "Signed languages are the primary means of communication for many deaf and\nhard of hearing individuals. Since signed languages exhibit all the fundamental\nlinguistic properties of natural language, we believe that tools and theories\nof Natural Language Processing (NLP) are crucial towards its modeling. However,\nexisting research in Sign Language Processing (SLP) seldom attempt to explore\nand leverage the linguistic organization of signed languages. This position\npaper calls on the NLP community to include signed languages as a research area\nwith high social and scientific impact. We first discuss the linguistic\nproperties of signed languages to consider during their modeling. Then, we\nreview the limitations of current SLP models and identify the open challenges\nto extend NLP to signed languages. Finally, we urge (1) the adoption of an\nefficient tokenization method; (2) the development of linguistically-informed\nmodels; (3) the collection of real-world signed language data; (4) the\ninclusion of local signed language communities as an active and leading voice\nin the direction of research.",
+          "link": "https://arxiv.org/abs/2105.05222",
+          "publishedOn": "2021-07-13T13:46:09.000Z",
+          "wordCount": 624,
+          "title": "Title:Including Signed Languages in Natural Language Processing"
+        },
+        {
+          "id": "https://iannotate.org/2021/program.html",
+          "author": null,
+          "description": "The eighth annual conference dedicated to open annotation practices and technologies: 21–25 Jun 2021 online.",
+          "link": "https://iannotate.org/2021/program.html",
+          "publishedOn": "2021-07-13T11:00:31.000Z",
+          "wordCount": 2376,
+          "title": "I Annotate 2021"
+        },
+        {
+          "id": "https://help.trello.com/article/1165-task-dependencies",
+          "author": null,
+          "description": "When using Trello, you might need to work with task dependencies when the completion of a task requires prior completion of other tasks. With Butler, you can ea",
+          "link": "https://help.trello.com/article/1165-task-dependencies",
+          "publishedOn": "2021-07-13T10:09:15.000Z",
+          "wordCount": 939,
+          "title": "Creating and managing task dependencies"
+        },
+        {
           "id": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
           "author": null,
-          "description": "2,755 votes and 50 comments so far on Reddit",
+          "description": "2,768 votes and 52 comments so far on Reddit",
           "link": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
           "publishedOn": "2021-07-12T08:23:14.000Z",
-          "wordCount": 2961,
+          "wordCount": 2965,
           "title": "How did university students take notes during lectures before paper became cheap and accessible?"
         },
         {
@@ -60,10 +132,10 @@
         {
           "id": "https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains",
           "author": null,
-          "description": "Online forms of note taking tools and the future of note taking.",
+          "description": "",
           "link": "https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains",
           "publishedOn": "2021-07-10T12:47:55.000Z",
-          "wordCount": 9287,
+          "wordCount": null,
           "title": "Differentiating online variations of the Commonplace Book: Digital Gardens, Wikis, Zettlekasten, Waste Books, Florilegia, and Second Brains"
         },
         {
@@ -81,7 +153,7 @@
           "description": "Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals....",
           "link": "https://github.com/thesephist/monocle",
           "publishedOn": "2021-07-10T08:57:03.000Z",
-          "wordCount": 2766,
+          "wordCount": 2668,
           "title": "Monocle 👓"
         },
         {
@@ -162,7 +234,7 @@
           "description": "",
           "link": "https://clarin.eu",
           "publishedOn": "2021-07-09T15:27:26.000Z",
-          "wordCount": 752,
+          "wordCount": 745,
           "title": "CLARIN - European Research Infrastructure for Language Resources and Technology"
         },
         {
@@ -189,7 +261,7 @@
           "description": "[Make Caows and Shapcho - MeganAnn] \n\n [Pitsilised Koekirjad Cushion Sampler Poncho - Maeve]\n\n [Lacy 2047 - michaela112358]\n\n I use algorithms called neural networks to write humor. What’s fun about neural networks is they learn by example - give them a bunch of some sort of data, and they’ll try to figure out rules that let them imitate it. They power corporate finances, recognize faces, translate text, and more. I, however, like to give them silly datasets. I’ve trained neural networks to generate new paint colors, new Halloween costumes, and new candy heart messages. When the problem is tough, the results are mixed (there was that one candy heart that just said HOLE).\n\n One of the toughest problems I’ve ever tried? Knitting patterns.\n\n I knew almost nothing about knitting when @JohannaB@wandering.shop sent me the suggestion one day. She sent me to the Ravelry knitting site, and to its adults-only, often-indecorous LSG forum, who as you will see are amazing people. (When asked how I should describe them, one wrote “don’t forget the glitter and swearing!”)\n\n And so, we embarked upon Operation Hilarious Knitting Disaster. \n\n The knitters helped me crowdsource a dataset of 500 knitting patterns, ranging from hats to squids to unmentionables. JC Briar exported another 4728 patterns from the site stitch-maps.com. \n\n I gave the knitting patterns to a couple of neural networks that I collectively named “SkyKnit”. Then, not knowing if they had produced anything remotely knittable, I started posting the patterns. Here’s an early example.\n\n MrsNoddyNoddy wrote, “it’s difficult to explain why 6395, 71, 70, 77 is so asthma-inducingly funny.” (It seems that a 6000-plus stitch count is, as GloriaHanlon put it, “optimism”). \n\n As training progressed, and as I tried some higher-performance models, SkyKnit improved. Here’s a later example.\n\n Even at its best, SkyKnit had problems. It would sometimes repeat rows, or leave them out entirely. It could count rows fairly reliably up to about 22, but after that would start haphazardly guessing random largish numbers. SkyKnit also had trouble counting stitches, and would confidently declare at the end of certain lines that it contained 12 stitches when it was nothing of the sort.\n\n But the knitters began knitting them. This possibly marks one of the few times in history when a computer generated code to be executed by humans.\n\n [Mystery lace - datasock]\n\n [Reverss Shawl - citikas]\n\n [Frost - Odonata] \n\n The knitters didn’t follow SkyKnit’s directions exactly, as it turns out. For most of its patterns, doing them exactly as written would result in the pattern immediately unraveling (due to many dropped stitches), or turning into long whiplike tentacles (due to lots of leftover stitches). Or, to make the row counts match up with one another, they would have had to keep repeating the pattern until they’d reached a multiple of each row count - sometimes this was possible after a few repeats, while other times they would have had to make the pattern tens of thousands of stitches long. And other times, missing rows made the directions just plain impossible. \n\n So, the knitters just started fixing SkyKnit’s patterns.\n\n Knitters are very good at debugging patterns, as it turns out. Not only are there a lot of knitters who are coders, but debugging is such a regular part of knitting that the complicated math becomes second nature. Notation is not always consistent, some patterns need to be adjusted for size, and some simply have mistakes. The knitters were used to taking these problems in stride. When working with one of SkyKnit’s patterns, GloriaHanlon wrote, “I’m trying not to fudge too much, basically working on the principle that the pattern was written by an elderly relative who doesn’t speak much English.”\n\n Each pattern required a different debugging approach, and sometimes knitters would each produce their own very different-looking versions. Here are three versions of “Paw Not Pointed 2 Stitch 2″.\n\n [Top - ActualJellyfish; Middle - LadyAurian; Bottom (sock version) - ShoelessJane]\n\n Once, knitter MeganAnn came across a stitch that didn’t even exist (something SkyKnit called ’pbk’). So she had to improvise. “I googled it and went with the first definition I got, which was ‘place bead and knit’.” The resulting pattern is “Ribbed Rib Rib” below (note bead).\n\n [Ribbed Rib Rib - MeganAnn]\n\n Even debugged, the patterns were weird. Like, really, really nonhumanly weird.\n\n “I love how organic it comes out,“ wrote Vastra. SylviaTX agreed, loving “the organic seeming randomness. Like bubbles on water or something,” \n\n SkyKnit’s patterns were also a pain. Michaela112358 called Row 15 of Mystery Lace (above) “a bit of a head melter”, commenting that it “lacked the rhythm that you tend to get with a normal pattern”. Maeve_ish wrote that Shetland Bird Pat “made my brain hurt so I went to bed.” ShoelessJane asked, “Okay, now who here has read Snow Crash?”\n\n [Winder Socks (2 versions) - TotesMyName]\n\n\n “I was laughing a few days ago because I was trying to math a Skyknit pattern and my brain…froze. Like, no longer could number at all. I stared blankly at my scribbles and at the screen wondering what had happened til somehow I rebooted. Yup, Skyknit crashed my brain.” - Rayn63 \n\n\n [Paw chain 2 - HMSChicago]\n\n On the pattern SkyKnit called “Cherry and Acorns Twisted To”:\n\n\n “Couple notes on the knitting experience, which while funny wasn’t terribly pleasurable: Because there’s no rhythm or symmetry to the pattern, I felt I was white-knuckling it through each line, really having to concentrate. There are also some stitch combinations that aren’t very comfortable to execute physically, YO, SSK in particular.\n\n That said, I’m nearly tempted to add a bit of random AI lace to a project, perhaps as cuffs on a sweater or a short-row lace panel in part of a scarf, like Sylvia McFadden does in many of her shawl designs. As another person in the thread said, it would add a touch of spider-on-LSD.” -SarahScully\n\n\n [cherry and acorns twisted to - Sarah Scully]\n\n BridgetJ’s comments on “Butnet Scarf”:\n\n\n “Four repeats in to this oddball, daintily alien-looking 8-row lace pattern, and I have, improbably, begun to internalize it and get in to a rhythm like every other lace pattern.\n\n I still have a lingering suspicion that I’m knitting a pattern that could someday communicate to an AI that I want to play a game of Global Thermonuclear War, but I suppose at least I’ll have a scarf at the end of it?” -BridgetJ\n\n\n [butnet scarf - BridgetJ]\n\n There was also this beauty of a pattern, that SkyKnit called “Tiny Baby Whale Soto”. GloriaHanlon managed somehow to knit it and described it as “a bona fide eldritch horror. Think Slenderman meets Cthulu and you wouldn’t be far wrong.”\n\n [Tiny Baby Whale Soto - GloriaHanlon]\n\n Other than being a bit afraid of Tiny Baby Whale Soto, the knitters seem happy to do the bidding of SkyKnit, brain melts and all.\n\n\n “I cast on for a lovely MKAL with a designer I totally trust and became immediately suspicious because the pattern made sense. All rows increase in an orderly manner. There are no “huh?” moments. There are no maths at all…it has all been done for me. I thought I would be happy, yo. Instead, I am kind of missing the brain scrambling and I keep looking for pigs and tentacles. Go figure.” - Rayn63 \n\n\n Check out the rest of the SkyKnit-generated patterns, and the glorious rainbow of weird test-knits at SkyKnit: The Collection and InfiKnit.  \n\n There’s also a great article in the Atlantic that talks a bit more about the debugging.  \n\n If you feel so inspired (and don’t mind the kind-hearted yet vigorous swearing), join the conversation on the LSG Ravelry SkyKnit thread - many of SkyKnit’s creations have not yet been test-knit at all, and others transform with every new knitter’s interpretation. Compare notes, commiserate, and do SkyKnit’s inscrutable bidding!\n\n Heck yeah there is bonus material this week. Have some neural net-generated knitting & crochet titles. Some of them are mixed with metal band names for added creepiness. Become a supporter of AI Weirdness to get more like these:\n\n\n Chicken Shrug Snuggle Features Cartube Party Filled Booties Corm Fullenflops Womp Mittens Socks of Death Tomb of Sweater Shawl Ruins",
           "link": "https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural",
           "publishedOn": "2021-07-09T14:49:55.000Z",
-          "wordCount": 1625,
+          "wordCount": 1624,
           "title": "SkyKnit: When knitters teamed up with a neural network"
         },
         {
@@ -218,78 +290,6 @@
           "publishedOn": "2021-07-06T12:02:43.000Z",
           "wordCount": null,
           "title": "Untitled"
-        },
-        {
-          "id": "https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter",
-          "author": null,
-          "description": "Query language for efficient data extraction from Wikipedia - zverok/wikipedia_ql",
-          "link": "https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter",
-          "publishedOn": "2021-07-06T11:10:08.000Z",
-          "wordCount": 2733,
-          "title": "WikipediaQL: querying structured data from Wikipedia"
-        },
-        {
-          "id": "https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all",
-          "author": null,
-          "description": "",
-          "link": "https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all",
-          "publishedOn": "2021-07-06T10:17:40.000Z",
-          "wordCount": 128,
-          "title": "Sign in with your Google Account"
-        },
-        {
-          "id": "https://youtu.be/a7Tx-yHHEYo",
-          "author": null,
-          "description": "Kate Crawford is a leading scholar of the social and political implications of artificial intelligence. Her work focuses on understanding large-scale data sy...",
-          "link": "https://youtu.be/a7Tx-yHHEYo",
-          "publishedOn": "2021-07-05T17:44:57.000Z",
-          "wordCount": 22,
-          "title": "Atlas of AI: Kate Crawford in conversation with Judy Wajcman"
-        },
-        {
-          "id": "https://github.com/nybbles/obsidian-pocket",
-          "author": null,
-          "description": "Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.",
-          "link": "https://github.com/nybbles/obsidian-pocket",
-          "publishedOn": "2021-07-04T19:06:22.000Z",
-          "wordCount": 857,
-          "title": "obsidian-pocket"
-        },
-        {
-          "id": "https://burwellbash.info/shop",
-          "author": null,
-          "description": "",
-          "link": "https://burwellbash.info/shop",
-          "publishedOn": "2021-07-04T19:03:37.000Z",
-          "wordCount": 340,
-          "title": "Shop : burwellbash"
-        },
-        {
-          "id": "https://internetworldstats.com/stats7.htm",
-          "author": null,
-          "description": "The top ten language groups of Internet users are currently English, Chinese Mandarin, Spanish, Arabic, Portuguese, Japanese, Russian, German, French, and Malay.",
-          "link": "https://internetworldstats.com/stats7.htm",
-          "publishedOn": "2021-07-04T19:00:56.000Z",
-          "wordCount": 1303,
-          "title": "Top Ten Internet Languages in The World"
-        },
-        {
-          "id": "https://archive.org/details/mek-openlibrary-growing-open-source-community",
-          "author": null,
-          "description": "OpenLibrary.org is a project of the Internet Archive, built as an opensource project for its code, and invites participation for code additions and data...",
-          "link": "https://archive.org/details/mek-openlibrary-growing-open-source-community",
-          "publishedOn": "2021-07-04T18:57:56.000Z",
-          "wordCount": 4659,
-          "title": "Open Library: Growing Open Source Community"
-        },
-        {
-          "id": "https://youtube.com/watch?v=vG11H4HsFvg",
-          "author": null,
-          "description": "This year's version of the International Congress on Medieval Studies was held online. This week, Danièle is joined by Peter Konieczny to discuss their highl...",
-          "link": "https://youtube.com/watch?v=vG11H4HsFvg",
-          "publishedOn": "2021-07-04T17:44:54.000Z",
-          "wordCount": 22,
-          "title": "Kzoo by Zoom: The 2021 International Congress on Medieval Studies"
         }
       ]
     },

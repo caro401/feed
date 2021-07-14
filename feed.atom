@@ -1,16 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-13T00:30:56.941Z</id>
+    <id>urn:2021-07-14T00:27:12.490Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:30:56.941Z</updated>
+    <updated>2021-07-14T00:27:12.490Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Style Stage]]></title>
+        <id>https://stylestage.dev/styles/a-scottish-landscape</id>
+        <link href="https://stylestage.dev/styles/a-scottish-landscape"/>
+        <updated>2021-07-13T18:52:51.000Z</updated>
+        <summary type="html"><![CDATA[A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Style Stage]]></title>
+        <id>https://stylestage.dev/styles/fresh</id>
+        <link href="https://stylestage.dev/styles/fresh"/>
+        <updated>2021-07-13T18:51:20.000Z</updated>
+        <summary type="html"><![CDATA[A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Style Stage]]></title>
+        <id>https://stylestage.dev/styles/plants-on-pink</id>
+        <link href="https://stylestage.dev/styles/plants-on-pink"/>
+        <updated>2021-07-13T18:50:45.000Z</updated>
+        <summary type="html"><![CDATA[A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[text-decoration-skip-ink]]></title>
+        <id>https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink</id>
+        <link href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink"/>
+        <updated>2021-07-13T18:46:27.000Z</updated>
+        <summary type="html"><![CDATA[The text-decoration-skip-ink CSS property specifies how overlines and underlines are drawn when they pass over glyph ascenders and descenders.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[prismic.io vs. WordPress]]></title>
+        <id>https://prismic.io/vs/wordpress</id>
+        <link href="https://prismic.io/vs/wordpress"/>
+        <updated>2021-07-13T15:40:27.000Z</updated>
+        <summary type="html"><![CDATA[prismic.io is a productive, enjoyable WordPress alternative for developers, it allows you to deliver rich designs using modern templating languages.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Title:Including Signed Languages in Natural Language Processing]]></title>
+        <id>https://arxiv.org/abs/2105.05222</id>
+        <link href="https://arxiv.org/abs/2105.05222"/>
+        <updated>2021-07-13T13:46:09.000Z</updated>
+        <summary type="html"><![CDATA[Signed languages are the primary means of communication for many deaf and
+hard of hearing individuals. Since signed languages exhibit all the fundamental
+linguistic properties of natural language, we believe that tools and theories
+of Natural Language Processing (NLP) are crucial towards its modeling. However,
+existing research in Sign Language Processing (SLP) seldom attempt to explore
+and leverage the linguistic organization of signed languages. This position
+paper calls on the NLP community to include signed languages as a research area
+with high social and scientific impact. We first discuss the linguistic
+properties of signed languages to consider during their modeling. Then, we
+review the limitations of current SLP models and identify the open challenges
+to extend NLP to signed languages. Finally, we urge (1) the adoption of an
+efficient tokenization method; (2) the development of linguistically-informed
+models; (3) the collection of real-world signed language data; (4) the
+inclusion of local signed language communities as an active and leading voice
+in the direction of research.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Annotate 2021]]></title>
+        <id>https://iannotate.org/2021/program.html</id>
+        <link href="https://iannotate.org/2021/program.html"/>
+        <updated>2021-07-13T11:00:31.000Z</updated>
+        <summary type="html"><![CDATA[The eighth annual conference dedicated to open annotation practices and technologies: 21–25 Jun 2021 online.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating and managing task dependencies]]></title>
+        <id>https://help.trello.com/article/1165-task-dependencies</id>
+        <link href="https://help.trello.com/article/1165-task-dependencies"/>
+        <updated>2021-07-13T10:09:15.000Z</updated>
+        <summary type="html"><![CDATA[When using Trello, you might need to work with task dependencies when the completion of a task requires prior completion of other tasks. With Butler, you can ea]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How did university students take notes during lectures before paper became cheap and accessible?]]></title>
         <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
         <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
         <updated>2021-07-12T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[2,755 votes and 50 comments so far on Reddit]]></summary>
+        <summary type="html"><![CDATA[2,768 votes and 52 comments so far on Reddit]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -49,7 +143,6 @@
         <id>https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains</id>
         <link href="https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains"/>
         <updated>2021-07-10T12:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Online forms of note taking tools and the future of note taking.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -344,84 +437,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <id>https://lib.cam.ac.uk/ghostwords?s=09</id>
         <link href="https://lib.cam.ac.uk/ghostwords?s=09"/>
         <updated>2021-07-06T12:02:43.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WikipediaQL: querying structured data from Wikipedia]]></title>
-        <id>https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter</id>
-        <link href="https://github.com/zverok/wikipedia_ql?utm_source=tldrnewsletter"/>
-        <updated>2021-07-06T11:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Query language for efficient data extraction from Wikipedia - zverok/wikipedia_ql]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign in with your Google Account]]></title>
-        <id>https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all</id>
-        <link href="https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all"/>
-        <updated>2021-07-06T10:17:40.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlas of AI: Kate Crawford in conversation with Judy Wajcman]]></title>
-        <id>https://youtu.be/a7Tx-yHHEYo</id>
-        <link href="https://youtu.be/a7Tx-yHHEYo"/>
-        <updated>2021-07-05T17:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Kate Crawford is a leading scholar of the social and political implications of artificial intelligence. Her work focuses on understanding large-scale data sy...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[obsidian-pocket]]></title>
-        <id>https://github.com/nybbles/obsidian-pocket</id>
-        <link href="https://github.com/nybbles/obsidian-pocket"/>
-        <updated>2021-07-04T19:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Pocket integration for Obsidian. Contribute to nybbles/obsidian-pocket development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shop : burwellbash]]></title>
-        <id>https://burwellbash.info/shop</id>
-        <link href="https://burwellbash.info/shop"/>
-        <updated>2021-07-04T19:03:37.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Ten Internet Languages in The World]]></title>
-        <id>https://internetworldstats.com/stats7.htm</id>
-        <link href="https://internetworldstats.com/stats7.htm"/>
-        <updated>2021-07-04T19:00:56.000Z</updated>
-        <summary type="html"><![CDATA[The top ten language groups of Internet users are currently English, Chinese Mandarin, Spanish, Arabic, Portuguese, Japanese, Russian, German, French, and Malay.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Library: Growing Open Source Community]]></title>
-        <id>https://archive.org/details/mek-openlibrary-growing-open-source-community</id>
-        <link href="https://archive.org/details/mek-openlibrary-growing-open-source-community"/>
-        <updated>2021-07-04T18:57:56.000Z</updated>
-        <summary type="html"><![CDATA[OpenLibrary.org is a project of the Internet Archive, built as an opensource project for its code, and invites participation for code additions and data...]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kzoo by Zoom: The 2021 International Congress on Medieval Studies]]></title>
-        <id>https://youtube.com/watch?v=vG11H4HsFvg</id>
-        <link href="https://youtube.com/watch?v=vG11H4HsFvg"/>
-        <updated>2021-07-04T17:44:54.000Z</updated>
-        <summary type="html"><![CDATA[This year's version of the International Congress on Medieval Studies was held online. This week, Danièle is joined by Peter Konieczny to discuss their highl...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
