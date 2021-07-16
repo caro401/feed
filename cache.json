@@ -22,12 +22,30 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://github.com/Endava/cats/tree/master/src",
+          "author": null,
+          "description": "Generate tests at runtime based on OpenApi specs. Contribute to Endava/cats development by creating an account on GitHub.",
+          "link": "https://github.com/Endava/cats/tree/master/src",
+          "publishedOn": "2021-07-15T11:08:08.000Z",
+          "wordCount": 303,
+          "title": "Endava/cats"
+        },
+        {
+          "id": "https://volvocars.com/us/about-volvo/human-innovation/future-of-driving/safety",
+          "author": null,
+          "description": "",
+          "link": "https://volvocars.com/us/about-volvo/human-innovation/future-of-driving/safety",
+          "publishedOn": "2021-07-15T09:11:04.000Z",
+          "wordCount": null,
+          "title": "Car Safety Innovation"
+        },
+        {
           "id": "https://stylestage.dev/styles/a-scottish-landscape",
           "author": null,
           "description": "A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.",
           "link": "https://stylestage.dev/styles/a-scottish-landscape",
           "publishedOn": "2021-07-13T18:52:51.000Z",
-          "wordCount": 763,
+          "wordCount": 761,
           "title": "Style Stage"
         },
         {
@@ -36,7 +54,7 @@
           "description": "A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.",
           "link": "https://stylestage.dev/styles/fresh",
           "publishedOn": "2021-07-13T18:51:20.000Z",
-          "wordCount": 758,
+          "wordCount": 756,
           "title": "Style Stage"
         },
         {
@@ -45,7 +63,7 @@
           "description": "A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.",
           "link": "https://stylestage.dev/styles/plants-on-pink",
           "publishedOn": "2021-07-13T18:50:45.000Z",
-          "wordCount": 759,
+          "wordCount": 757,
           "title": "Style Stage"
         },
         {
@@ -96,10 +114,10 @@
         {
           "id": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
           "author": null,
-          "description": "2,768 votes and 53 comments so far on Reddit",
+          "description": "2,763 votes and 53 comments so far on Reddit",
           "link": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
           "publishedOn": "2021-07-12T08:23:14.000Z",
-          "wordCount": 2952,
+          "wordCount": 2965,
           "title": "How did university students take notes during lectures before paper became cheap and accessible?"
         },
         {
@@ -108,7 +126,7 @@
           "description": "An experimental visual coding editor. Contribute to katharosada/splootcode development by creating an account on GitHub.",
           "link": "https://github.com/katharosada/splootcode?s=09",
           "publishedOn": "2021-07-11T22:46:08.000Z",
-          "wordCount": 896,
+          "wordCount": 879,
           "title": "SplootCode Editor"
         },
         {
@@ -132,10 +150,10 @@
         {
           "id": "https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains",
           "author": null,
-          "description": "Online forms of note taking tools and the future of note taking.",
+          "description": "",
           "link": "https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains",
           "publishedOn": "2021-07-10T12:47:55.000Z",
-          "wordCount": 9315,
+          "wordCount": null,
           "title": "Differentiating online variations of the Commonplace Book: Digital Gardens, Wikis, Zettlekasten, Waste Books, Florilegia, and Second Brains"
         },
         {
@@ -272,24 +290,6 @@
           "publishedOn": "2021-07-09T14:49:14.000Z",
           "wordCount": 1980,
           "title": "SkyKnit: How an AI Took Over an Adult Knitting Community"
-        },
-        {
-          "id": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
-          "author": null,
-          "description": "Afterthoughts on (smart) note-taking approaches",
-          "link": "https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup",
-          "publishedOn": "2021-07-07T15:29:45.000Z",
-          "wordCount": 1491,
-          "title": "The first Dutch Obsidian meetup"
-        },
-        {
-          "id": "https://lib.cam.ac.uk/ghostwords?s=09",
-          "author": null,
-          "description": "",
-          "link": "https://lib.cam.ac.uk/ghostwords?s=09",
-          "publishedOn": "2021-07-06T12:02:43.000Z",
-          "wordCount": null,
-          "title": "Untitled"
         }
       ]
     },
