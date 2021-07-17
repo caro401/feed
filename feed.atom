@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-16T00:30:08.982Z</id>
+    <id>urn:2021-07-17T00:30:13.664Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-16T00:30:08.982Z</updated>
+    <updated>2021-07-17T00:30:13.664Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -123,7 +123,7 @@ in the direction of research.]]></summary>
         <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
         <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
         <updated>2021-07-12T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[2,763 votes and 53 comments so far on Reddit]]></summary>
+        <summary type="html"><![CDATA[2,771 votes and 53 comments so far on Reddit]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -162,6 +162,7 @@ in the direction of research.]]></summary>
         <id>https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains</id>
         <link href="https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains"/>
         <updated>2021-07-10T12:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Online forms of note taking tools and the future of note taking.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
