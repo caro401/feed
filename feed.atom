@@ -1,25 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-17T00:30:13.664Z</id>
+    <id>urn:2021-07-18T00:29:52.203Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T00:30:13.664Z</updated>
+    <updated>2021-07-18T00:29:52.203Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Endava/cats]]></title>
-        <id>https://github.com/Endava/cats/tree/master/src</id>
-        <link href="https://github.com/Endava/cats/tree/master/src"/>
-        <updated>2021-07-15T11:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Generate tests at runtime based on OpenApi specs. Contribute to Endava/cats development by creating an account on GitHub.]]></summary>
+        <title type="html"><![CDATA[how-to-read-an-article]]></title>
+        <id>http://evoling.net/teaching/how-to-read-an-article</id>
+        <link href="http://evoling.net/teaching/how-to-read-an-article"/>
+        <updated>2021-07-17T19:49:41.000Z</updated>
+        <summary type="html"><![CDATA[How to read a linguistics article
+Draft. Michael Dunn 2016-04-06
+What kind of article is it?
+Linguistics is at the intersection of the humanities and the social sciences, and linguistics articles appe]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Car Safety Innovation]]></title>
-        <id>https://volvocars.com/us/about-volvo/human-innovation/future-of-driving/safety</id>
-        <link href="https://volvocars.com/us/about-volvo/human-innovation/future-of-driving/safety"/>
-        <updated>2021-07-15T09:11:04.000Z</updated>
+        <title type="html"><![CDATA[What is IIIF and what can it do for you? A guide for everyone who doesn’t speak IT]]></title>
+        <id>https://mmmonk.be/en/whatisiiif</id>
+        <link href="https://mmmonk.be/en/whatisiiif"/>
+        <updated>2021-07-17T18:57:08.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home]]></title>
+        <id>https://manifoldapp.org</id>
+        <link href="https://manifoldapp.org"/>
+        <updated>2021-07-17T18:54:25.000Z</updated>
+        <summary type="html"><![CDATA[Manifold is the friendly, scalable, sustainable way to add the web to your publishing workflow.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CUNY Digital Humanities Resource Guide – CUNY Academic Commons Wiki Archive]]></title>
+        <id>https://wiki.commons.gc.cuny.edu/the_cuny_digital_humanities_resource_guide</id>
+        <link href="https://wiki.commons.gc.cuny.edu/the_cuny_digital_humanities_resource_guide"/>
+        <updated>2021-07-17T18:52:34.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -50,26 +72,6 @@
         <link href="https://stylestage.dev/styles/plants-on-pink"/>
         <updated>2021-07-13T18:50:45.000Z</updated>
         <summary type="html"><![CDATA[A modern CSS showcase styled by community contributions. Maintained by Stephanie Eckles (@5t3ph) of ModernCSS.dev.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[text-decoration-skip-ink]]></title>
-        <id>https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink</id>
-        <link href="https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-skip-ink"/>
-        <updated>2021-07-13T18:46:27.000Z</updated>
-        <summary type="html"><![CDATA[The text-decoration-skip-ink CSS property specifies how overlines and underlines are drawn when they pass over glyph ascenders and descenders.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[prismic.io vs. WordPress]]></title>
-        <id>https://prismic.io/vs/wordpress</id>
-        <link href="https://prismic.io/vs/wordpress"/>
-        <updated>2021-07-13T15:40:27.000Z</updated>
-        <summary type="html"><![CDATA[prismic.io is a productive, enjoyable WordPress alternative for developers, it allows you to deliver rich designs using modern templating languages.]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -123,7 +125,7 @@ in the direction of research.]]></summary>
         <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
         <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
         <updated>2021-07-12T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[2,771 votes and 53 comments so far on Reddit]]></summary>
+        <summary type="html"><![CDATA[2,776 votes and 54 comments so far on Reddit]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -148,31 +150,11 @@ in the direction of research.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Studio Marketplace]]></title>
-        <id>https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph</id>
-        <link href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph"/>
-        <updated>2021-07-11T09:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Extension for Visual Studio Code - View a Git Graph of your repository, and perform Git actions from the graph.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Differentiating online variations of the Commonplace Book: Digital Gardens, Wikis, Zettlekasten, Waste Books, Florilegia, and Second Brains]]></title>
         <id>https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains</id>
         <link href="https://boffosocko.com/2021/07/03/differentiating-online-variations-of-the-commonplace-book-digital-gardens-wikis-zettlekasten-waste-books-florilegia-and-second-brains"/>
         <updated>2021-07-10T12:47:55.000Z</updated>
         <summary type="html"><![CDATA[Online forms of note taking tools and the future of note taking.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time-blocking in Obsidian]]></title>
-        <id>https://youtu.be/4j4hG_0AoWs</id>
-        <link href="https://youtu.be/4j4hG_0AoWs"/>
-        <updated>2021-07-10T12:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to use time-blocking in Obsidian to take back your calendar. Giving you time to get done what matters.0:00 What is time-blocking?1:05 Time-blocking...]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -251,23 +233,6 @@ in the direction of research.]]></summary>
         <id>https://glowrj.com</id>
         <link href="https://glowrj.com"/>
         <updated>2021-07-09T15:27:53.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[index]]></title>
-        <id>http://evoling.net</id>
-        <link href="http://evoling.net"/>
-        <updated>2021-07-09T15:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Contact
-      
-        Prof. Michael Dunn
-        Department of Linguistics and Philology
-        Uppsala University
-        Box 635,
-        75126 Uppsala
-        Sweden]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -410,16 +375,6 @@ in the direction of research.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SkyKnit: How an AI Took Over an Adult Knitting Community]]></title>
-        <id>https://theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894</id>
-        <link href="https://theatlantic.com/technology/archive/2018/03/the-making-of-skyknit-an-ai-yarn/554894"/>
-        <updated>2021-07-09T14:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Quirky knitters teamed up with a neural-network creator to generate new types of tentacled, cozy shapes.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Write good examples by starting with real code]]></title>
         <id>https://jvns.ca/blog/2021/07/08/writing-great-examples/</id>
         <link href="https://jvns.ca/blog/2021/07/08/writing-great-examples/"/>
@@ -440,6 +395,44 @@ lambda to double a set of numbers.
 numbers = [1, 2, 3, 4…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first Dutch Obsidian meetup]]></title>
+        <id>https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup</id>
+        <link href="https://brainbaking.com/post/2021/04/the-first-dutch-obsidian-meetup"/>
+        <updated>2021-07-07T15:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Afterthoughts on (smart) note-taking approaches]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://lib.cam.ac.uk/ghostwords?s=09</id>
+        <link href="https://lib.cam.ac.uk/ghostwords?s=09"/>
+        <updated>2021-07-06T12:02:43.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign in with your Google Account]]></title>
+        <id>https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all</id>
+        <link href="https://classroom.google.com/u/1/w/MTIxMzI0MDAzMzg5/t/all"/>
+        <updated>2021-07-06T10:17:40.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas of AI: Kate Crawford in conversation with Judy Wajcman]]></title>
+        <id>https://youtu.be/a7Tx-yHHEYo</id>
+        <link href="https://youtu.be/a7Tx-yHHEYo"/>
+        <updated>2021-07-05T17:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Kate Crawford is a leading scholar of the social and political implications of artificial intelligence. Her work focuses on understanding large-scale data sy...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
         </author>
     </entry>
     <entry>
