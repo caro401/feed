@@ -22,6 +22,15 @@
       "siteUrl": "http://readitlaterlist.com/users/*sso1503093515801537/feed/unread",
       "articles": [
         {
+          "id": "https://newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done",
+          "author": null,
+          "description": "How personal productivity transformed work—and failed to.",
+          "link": "https://newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done",
+          "publishedOn": "2021-07-20T08:19:13.000Z",
+          "wordCount": 4569,
+          "title": "The Rise and Fall of Getting Things Done"
+        },
+        {
           "id": "https://pro.europeana.eu/event/europeanatech-x-ai-escriptorium",
           "author": null,
           "description": "This webinar presents the eScriptorium project, which aims to provide a user-friendly and open platform for the automatic, semi-automatic and manual …",
@@ -36,7 +45,7 @@
           "description": "An experimental visual coding editor. Contribute to katharosada/splootcode development by creating an account on GitHub.",
           "link": "https://github.com/katharosada/splootcode?s=09",
           "publishedOn": "2021-07-19T17:01:04.000Z",
-          "wordCount": 918,
+          "wordCount": 909,
           "title": "SplootCode Editor"
         },
         {
@@ -114,10 +123,10 @@
         {
           "id": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
           "author": null,
-          "description": "2,785 votes and 54 comments so far on Reddit",
+          "description": "2,780 votes and 54 comments so far on Reddit",
           "link": "https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during",
           "publishedOn": "2021-07-12T08:23:14.000Z",
-          "wordCount": 2952,
+          "wordCount": 2965,
           "title": "How did university students take notes during lectures before paper became cheap and accessible?"
         },
         {
@@ -144,7 +153,7 @@
           "description": "Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals....",
           "link": "https://github.com/thesephist/monocle",
           "publishedOn": "2021-07-10T08:57:03.000Z",
-          "wordCount": 2680,
+          "wordCount": 2786,
           "title": "Monocle 👓"
         },
         {
@@ -177,7 +186,7 @@
         {
           "id": "https://github.com/jbaiter/archiscribe",
           "author": null,
-          "description": "Web application for transcribing OCR ground truth from Archive.org - jbaiter/archiscribe",
+          "description": "Web application for transcribing OCR ground truth from Archive.org - GitHub - jbaiter/archiscribe: Web application for transcribing OCR ground truth from Archive.org",
           "link": "https://github.com/jbaiter/archiscribe",
           "publishedOn": "2021-07-09T15:37:05.000Z",
           "wordCount": 505,
@@ -216,7 +225,7 @@
           "description": "[Make Caows and Shapcho - MeganAnn] \n\n [Pitsilised Koekirjad Cushion Sampler Poncho - Maeve]\n\n [Lacy 2047 - michaela112358]\n\n I use algorithms called neural networks to write humor. What’s fun about neural networks is they learn by example - give them a bunch of some sort of data, and they’ll try to figure out rules that let them imitate it. They power corporate finances, recognize faces, translate text, and more. I, however, like to give them silly datasets. I’ve trained neural networks to generate new paint colors, new Halloween costumes, and new candy heart messages. When the problem is tough, the results are mixed (there was that one candy heart that just said HOLE).\n\n One of the toughest problems I’ve ever tried? Knitting patterns.\n\n I knew almost nothing about knitting when @JohannaB@wandering.shop sent me the suggestion one day. She sent me to the Ravelry knitting site, and to its adults-only, often-indecorous LSG forum, who as you will see are amazing people. (When asked how I should describe them, one wrote “don’t forget the glitter and swearing!”)\n\n And so, we embarked upon Operation Hilarious Knitting Disaster. \n\n The knitters helped me crowdsource a dataset of 500 knitting patterns, ranging from hats to squids to unmentionables. JC Briar exported another 4728 patterns from the site stitch-maps.com. \n\n I gave the knitting patterns to a couple of neural networks that I collectively named “SkyKnit”. Then, not knowing if they had produced anything remotely knittable, I started posting the patterns. Here’s an early example.\n\n MrsNoddyNoddy wrote, “it’s difficult to explain why 6395, 71, 70, 77 is so asthma-inducingly funny.” (It seems that a 6000-plus stitch count is, as GloriaHanlon put it, “optimism”). \n\n As training progressed, and as I tried some higher-performance models, SkyKnit improved. Here’s a later example.\n\n Even at its best, SkyKnit had problems. It would sometimes repeat rows, or leave them out entirely. It could count rows fairly reliably up to about 22, but after that would start haphazardly guessing random largish numbers. SkyKnit also had trouble counting stitches, and would confidently declare at the end of certain lines that it contained 12 stitches when it was nothing of the sort.\n\n But the knitters began knitting them. This possibly marks one of the few times in history when a computer generated code to be executed by humans.\n\n [Mystery lace - datasock]\n\n [Reverss Shawl - citikas]\n\n [Frost - Odonata] \n\n The knitters didn’t follow SkyKnit’s directions exactly, as it turns out. For most of its patterns, doing them exactly as written would result in the pattern immediately unraveling (due to many dropped stitches), or turning into long whiplike tentacles (due to lots of leftover stitches). Or, to make the row counts match up with one another, they would have had to keep repeating the pattern until they’d reached a multiple of each row count - sometimes this was possible after a few repeats, while other times they would have had to make the pattern tens of thousands of stitches long. And other times, missing rows made the directions just plain impossible. \n\n So, the knitters just started fixing SkyKnit’s patterns.\n\n Knitters are very good at debugging patterns, as it turns out. Not only are there a lot of knitters who are coders, but debugging is such a regular part of knitting that the complicated math becomes second nature. Notation is not always consistent, some patterns need to be adjusted for size, and some simply have mistakes. The knitters were used to taking these problems in stride. When working with one of SkyKnit’s patterns, GloriaHanlon wrote, “I’m trying not to fudge too much, basically working on the principle that the pattern was written by an elderly relative who doesn’t speak much English.”\n\n Each pattern required a different debugging approach, and sometimes knitters would each produce their own very different-looking versions. Here are three versions of “Paw Not Pointed 2 Stitch 2″.\n\n [Top - ActualJellyfish; Middle - LadyAurian; Bottom (sock version) - ShoelessJane]\n\n Once, knitter MeganAnn came across a stitch that didn’t even exist (something SkyKnit called ’pbk’). So she had to improvise. “I googled it and went with the first definition I got, which was ‘place bead and knit’.” The resulting pattern is “Ribbed Rib Rib” below (note bead).\n\n [Ribbed Rib Rib - MeganAnn]\n\n Even debugged, the patterns were weird. Like, really, really nonhumanly weird.\n\n “I love how organic it comes out,“ wrote Vastra. SylviaTX agreed, loving “the organic seeming randomness. Like bubbles on water or something,” \n\n SkyKnit’s patterns were also a pain. Michaela112358 called Row 15 of Mystery Lace (above) “a bit of a head melter”, commenting that it “lacked the rhythm that you tend to get with a normal pattern”. Maeve_ish wrote that Shetland Bird Pat “made my brain hurt so I went to bed.” ShoelessJane asked, “Okay, now who here has read Snow Crash?”\n\n [Winder Socks (2 versions) - TotesMyName]\n\n\n “I was laughing a few days ago because I was trying to math a Skyknit pattern and my brain…froze. Like, no longer could number at all. I stared blankly at my scribbles and at the screen wondering what had happened til somehow I rebooted. Yup, Skyknit crashed my brain.” - Rayn63 \n\n\n [Paw chain 2 - HMSChicago]\n\n On the pattern SkyKnit called “Cherry and Acorns Twisted To”:\n\n\n “Couple notes on the knitting experience, which while funny wasn’t terribly pleasurable: Because there’s no rhythm or symmetry to the pattern, I felt I was white-knuckling it through each line, really having to concentrate. There are also some stitch combinations that aren’t very comfortable to execute physically, YO, SSK in particular.\n\n That said, I’m nearly tempted to add a bit of random AI lace to a project, perhaps as cuffs on a sweater or a short-row lace panel in part of a scarf, like Sylvia McFadden does in many of her shawl designs. As another person in the thread said, it would add a touch of spider-on-LSD.” -SarahScully\n\n\n [cherry and acorns twisted to - Sarah Scully]\n\n BridgetJ’s comments on “Butnet Scarf”:\n\n\n “Four repeats in to this oddball, daintily alien-looking 8-row lace pattern, and I have, improbably, begun to internalize it and get in to a rhythm like every other lace pattern.\n\n I still have a lingering suspicion that I’m knitting a pattern that could someday communicate to an AI that I want to play a game of Global Thermonuclear War, but I suppose at least I’ll have a scarf at the end of it?” -BridgetJ\n\n\n [butnet scarf - BridgetJ]\n\n There was also this beauty of a pattern, that SkyKnit called “Tiny Baby Whale Soto”. GloriaHanlon managed somehow to knit it and described it as “a bona fide eldritch horror. Think Slenderman meets Cthulu and you wouldn’t be far wrong.”\n\n [Tiny Baby Whale Soto - GloriaHanlon]\n\n Other than being a bit afraid of Tiny Baby Whale Soto, the knitters seem happy to do the bidding of SkyKnit, brain melts and all.\n\n\n “I cast on for a lovely MKAL with a designer I totally trust and became immediately suspicious because the pattern made sense. All rows increase in an orderly manner. There are no “huh?” moments. There are no maths at all…it has all been done for me. I thought I would be happy, yo. Instead, I am kind of missing the brain scrambling and I keep looking for pigs and tentacles. Go figure.” - Rayn63 \n\n\n Check out the rest of the SkyKnit-generated patterns, and the glorious rainbow of weird test-knits at SkyKnit: The Collection and InfiKnit.  \n\n There’s also a great article in the Atlantic that talks a bit more about the debugging.  \n\n If you feel so inspired (and don’t mind the kind-hearted yet vigorous swearing), join the conversation on the LSG Ravelry SkyKnit thread - many of SkyKnit’s creations have not yet been test-knit at all, and others transform with every new knitter’s interpretation. Compare notes, commiserate, and do SkyKnit’s inscrutable bidding!\n\n Heck yeah there is bonus material this week. Have some neural net-generated knitting & crochet titles. Some of them are mixed with metal band names for added creepiness. Become a supporter of AI Weirdness to get more like these:\n\n\n Chicken Shrug Snuggle Features Cartube Party Filled Booties Corm Fullenflops Womp Mittens Socks of Death Tomb of Sweater Shawl Ruins",
           "link": "https://aiweirdness.com/post/173096796277/skyknit-when-knitters-teamed-up-with-a-neural",
           "publishedOn": "2021-07-09T14:49:55.000Z",
-          "wordCount": 1587,
+          "wordCount": 1590,
           "title": "SkyKnit: When knitters teamed up with a neural network"
         },
         {
@@ -281,15 +290,6 @@
           "publishedOn": "2021-06-23T16:00:43.000Z",
           "wordCount": 278,
           "title": "Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople"
-        },
-        {
-          "id": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
-          "author": null,
-          "description": "",
-          "link": "https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468",
-          "publishedOn": "2021-06-23T14:38:24.000Z",
-          "wordCount": 4,
-          "title": "Whova Community Web App"
         }
       ]
     },

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-20T00:30:59.519Z</id>
+    <id>urn:2021-07-21T00:31:04.046Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:30:59.519Z</updated>
+    <updated>2021-07-21T00:31:04.046Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Rise and Fall of Getting Things Done]]></title>
+        <id>https://newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done</id>
+        <link href="https://newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done"/>
+        <updated>2021-07-20T08:19:13.000Z</updated>
+        <summary type="html"><![CDATA[How personal productivity transformed work—and failed to.]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EuropeanaTech x AI: eScriptorium &amp;amp; Wrap-up and social mingling]]></title>
         <id>https://pro.europeana.eu/event/europeanatech-x-ai-escriptorium</id>
@@ -126,7 +136,7 @@ in the direction of research.]]></summary>
         <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
         <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
         <updated>2021-07-12T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[2,785 votes and 54 comments so far on Reddit]]></summary>
+        <summary type="html"><![CDATA[2,780 votes and 54 comments so far on Reddit]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -194,7 +204,7 @@ in the direction of research.]]></summary>
         <id>https://github.com/jbaiter/archiscribe</id>
         <link href="https://github.com/jbaiter/archiscribe"/>
         <updated>2021-07-09T15:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Web application for transcribing OCR ground truth from Archive.org - jbaiter/archiscribe]]></summary>
+        <summary type="html"><![CDATA[Web application for transcribing OCR ground truth from Archive.org - GitHub - jbaiter/archiscribe: Web application for transcribing OCR ground truth from Archive.org]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -420,15 +430,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <id>https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople</id>
         <link href="https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople"/>
         <updated>2021-06-23T16:00:43.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whova Community Web App]]></title>
-        <id>https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468</id>
-        <link href="https://whova.com/portal/webapp/annua8_202106/CommunityBoard/topic/803468"/>
-        <updated>2021-06-23T14:38:24.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
