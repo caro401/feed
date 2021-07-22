@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-21T00:31:04.046Z</id>
+    <id>urn:2021-07-22T00:30:06.218Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-21T00:31:04.046Z</updated>
+    <updated>2021-07-22T00:30:06.218Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -136,7 +136,7 @@ in the direction of research.]]></summary>
         <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
         <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
         <updated>2021-07-12T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[2,780 votes and 54 comments so far on Reddit]]></summary>
+        <summary type="html"><![CDATA[2,779 votes and 54 comments so far on Reddit]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
