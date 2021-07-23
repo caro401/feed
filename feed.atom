@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-07-22T00:30:06.218Z</id>
+    <id>urn:2021-07-23T00:30:12.641Z</id>
     <title>osmos::feed</title>
-    <updated>2021-07-22T00:30:06.218Z</updated>
+    <updated>2021-07-23T00:30:12.641Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Writing about Software in the Digital Humanities]]></title>
+        <id>https://t.co/RRjWMSbAkp</id>
+        <link href="https://t.co/RRjWMSbAkp"/>
+        <updated>2021-07-22T14:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Writing about Software in the Digital Humanities  Hugh Cayless (@hcayless) and Thibault Clérice (@PonteIneptique)  ACH 2021 https://hcommons.org/groups/ach-2021/forum/topic/roundtable-a-template-for-software-papers-in-the-humanities/  Abstract Digital Humanities has expanded the genres of academi...]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quinn Dombrowski]]></title>
+        <id>https://twitter.com/quinnanya/status/1418195679009132546?s=09</id>
+        <link href="https://twitter.com/quinnanya/status/1418195679009132546?s=09"/>
+        <updated>2021-07-22T14:34:14.000Z</updated>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A &amp;quot;Hello World&amp;quot; Apart (why humanities students should NOT learn to program)]]></title>
+        <id>https://hastac.org/blogs/evan-donahue/2010/05/28/hello-world-apart-why-humanities-students-should-not-learn-program</id>
+        <link href="https://hastac.org/blogs/evan-donahue/2010/05/28/hello-world-apart-why-humanities-students-should-not-learn-program"/>
+        <updated>2021-07-22T12:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Written in response to Matthew Kirschenbaum's essay Hello Worlds (why humanities students should learn to program) for the Hacking the Academy project. Let me start by saying that, despite my title,]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevDH.org]]></title>
+        <id>http://devdh.org</id>
+        <link href="http://devdh.org"/>
+        <updated>2021-07-22T11:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Lectures 
+
+ How can you adapt humanities questions for digital research? What are existing digital humanities projects, tools, and resources? 
+ How to lay strong foundations to ensure your project's long-term success and strategies for writing effective statements of significance. 
+ Strategies for constituting, recruiting, managing, and formalizing relationships with both project staff]]></summary>
+        <author>
+            <name>My Reading List: Unread</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Rise and Fall of Getting Things Done]]></title>
         <id>https://newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done</id>
@@ -56,16 +99,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bay Area DH]]></title>
-        <id>https://meetup.com/BayAreaDH/events/past</id>
-        <link href="https://meetup.com/BayAreaDH/events/past"/>
-        <updated>2021-07-18T16:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Past Events for Bay Area DH in Stanford, CA. A Meetup group with over 427 Digital Humanists.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[how-to-read-an-article]]></title>
         <id>http://evoling.net/teaching/how-to-read-an-article</id>
         <link href="http://evoling.net/teaching/how-to-read-an-article"/>
@@ -84,15 +117,6 @@ Linguistics is at the intersection of the humanities and the social sciences, an
         <link href="https://manifoldapp.org"/>
         <updated>2021-07-17T18:54:25.000Z</updated>
         <summary type="html"><![CDATA[Manifold is the friendly, scalable, sustainable way to add the web to your publishing workflow.]]></summary>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The CUNY Digital Humanities Resource Guide – CUNY Academic Commons Wiki Archive]]></title>
-        <id>https://wiki.commons.gc.cuny.edu/the_cuny_digital_humanities_resource_guide</id>
-        <link href="https://wiki.commons.gc.cuny.edu/the_cuny_digital_humanities_resource_guide"/>
-        <updated>2021-07-17T18:52:34.000Z</updated>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -136,7 +160,7 @@ in the direction of research.]]></summary>
         <id>https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during</id>
         <link href="https://reddit.com/r/AskHistorians/comments/oi3x16/how_did_university_students_take_notes_during"/>
         <updated>2021-07-12T08:23:14.000Z</updated>
-        <summary type="html"><![CDATA[2,779 votes and 54 comments so far on Reddit]]></summary>
+        <summary type="html"><![CDATA[2,785 votes and 54 comments so far on Reddit]]></summary>
         <author>
             <name>My Reading List: Unread</name>
         </author>
@@ -414,43 +438,6 @@ numbers = [1, 2, 3, 4…]]></summary>
         <summary type="html"><![CDATA[Jen Luker (https://twitter.com/knitcodemonkey) at React Rally 2019]]></summary>
         <author>
             <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irish Script On Screen - Meamram Páipéar Ríomhaire]]></title>
-        <id>https://isos.dias.ie/english/index.html</id>
-        <link href="https://isos.dias.ie/english/index.html"/>
-        <updated>2021-06-23T18:15:57.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knowledge Graph Exploration: A Usability Evaluation of Query Builders for Laypeople]]></title>
-        <id>https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople</id>
-        <link href="https://2019.semantics.cc/knowledge-graph-exploration-usability-evaluation-query-builders-laypeople"/>
-        <updated>2021-06-23T16:00:43.000Z</updated>
-        <author>
-            <name>My Reading List: Unread</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0"/>
-        <updated>2021-06-23T05:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Added: support an experimental template for YouTube feed 📺 Demo | Source
-
-Aggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>
-Videos are embedded via iframe and loading accelerated by youtube-lite-embed
-Ads are reduced thanks to YouTube's policy for embedded videos 🙃
-Works on mobile devices with butter smooth horizontal scroll.
-Caveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.
-Changed: Default HTML template meta tag adjusted to match convention
-Changed: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)
-Thank you @PiyushLosalka]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
